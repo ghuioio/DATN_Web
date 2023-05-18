@@ -18,6 +18,7 @@ const Order = ({ _id, _status, _items, _totalBill, _address }) => {
   const [status, setStatus] = useState(_status)
   const [loading, setLoading] = useState(false)
   const confirm = async () => {
+    if(status === BUY_STATUS[3]) return
     setLoading(true)
     let response = await axiosPut(`${HEROKU_API}/bill/${_id}`, {
       "status": status,
@@ -107,10 +108,11 @@ const Order = ({ _id, _status, _items, _totalBill, _address }) => {
                 <TextField
                   select
                   value={status}
-                  onChange={(e) => setStatus(e.target.value)}
+                  onChange={(e) => {setStatus(e.target.value)}}
                   variant='outlined'
                   size="small"
                   style={{ width: '150px' }}
+                  disabled={_status === BUY_STATUS[3]}
                 >
                   {BUY_STATUS.map(status =>
                     <MenuItem
@@ -125,7 +127,7 @@ const Order = ({ _id, _status, _items, _totalBill, _address }) => {
                 <Button
                   variant='contained'
                   color="primary"
-                  disabled={status === _status || loading}
+                  disabled={status === _status || loading || status === BUY_STATUS[3]}
                   style={{ height: '40px', width: '100px' }}
                   onClick={confirm}
                 >

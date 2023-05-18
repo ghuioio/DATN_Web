@@ -73,6 +73,7 @@ const BillPage = ({ userInfo }) => {
               setOpenAlert={setOpenAlert}
               setAlertMessage={setAlertMessage}
               setAlertSevirity={setAlertSevirity}
+              
             />
             <Box marginTop={2} />
           </Fragment>

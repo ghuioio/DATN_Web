@@ -1,8 +1,8 @@
 import { Box, Typography } from "@material-ui/core"
 import { numberWithCommas } from "../../Services/Ultils/NumberUtils"
-
+import { useParams, useNavigate } from "react-router-dom"
 const BillItem = ({ _id, _data, _quantity }) => {
-
+  const navigate = useNavigate()
 
   return (
     <Box
@@ -20,6 +20,10 @@ const BillItem = ({ _id, _data, _quantity }) => {
               objectFit: 'contain',
               objectPosition: 'center',
               cursor: 'pointer'
+            }}
+            onClick={() => { 
+              // console.log(_data);
+              navigate(`/product/${_data._id}`) 
             }}
           />
         </Box>
