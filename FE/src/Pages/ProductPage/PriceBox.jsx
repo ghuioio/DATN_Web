@@ -183,7 +183,6 @@ const PriceBox = ({ smallImages, price, setRefreshNavbar, maxAmount, userInfo, l
         anchorOrigin={{ vertical: 'bottom', horizontal: 'left' }}
         TransitionComponent={TransitionRight}
       >
-
       </Snackbar>
 
 

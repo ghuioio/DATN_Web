@@ -1,7 +1,6 @@
 const CommentModel = require("./comment");
 const HTTPError = require("../common/httpError");
 const BookModel = require("../book/book");
-
 //GET COMMENTS
 const getComments = async (req, res) => {
   const comments = await CommentModel.find({});
@@ -12,7 +11,7 @@ const getComments = async (req, res) => {
 const getComment = async (req, res) => {
   const { commentId } = req.params;
   const foundComment = await CommentModel.findById(commentId);
-  console.log(commentId);
+  // console.log(commentId);
   res.send({ success: 1, data: foundComment });
 };
 
@@ -24,8 +23,8 @@ const createComment = async (req, res) => {
   const book = await BookModel.findById(bookId);
 
   const oldUsersVote = book?.stars?.usersVote || [];
-  console.log("book", book);
-  console.log("oldUserVote1", oldUsersVote);
+  // console.log("book", book);
+  // console.log("oldUserVote1", oldUsersVote);
   if (oldUsersVote.length === 0) {
     book.stars = {
       totalNumberStars: 0,
@@ -70,15 +69,18 @@ const createComment = async (req, res) => {
 const updateComment = async (req, res) => {
   const senderUser = req.user;
   const { commentId } = req.params;
-  console.log(commentId);
+  // console.log(commentId);
 
   const foundComment = await CommentModel.findById(commentId);
 
   if (!foundComment) {
     throw new HTTPError(400, "Not found comment");
   }
-  console.log("foundComment", foundComment);
-  console.log("a", foundComment.createdBy, senderUser._id);
+  // console.log("foundComment", foundComment);
+  /* Logging the `createdBy` property of the `foundComment` object and the `_id` property of the
+  `senderUser` object to the console, along with the string "a". This is likely for debugging
+  purposes to check if the `createdBy` property matches the `_id` of the `senderUser`. */
+  // console.log("a", foundComment.createdBy, senderUser._id);
 
   if (String(foundComment.createdBy) !== String(senderUser._id)) {
     throw new HTTPError(400, "Can not update other comment");
@@ -109,6 +111,7 @@ const deleteComment = async (req, res) => {
   await CommentModel.findByIdAndDelete(commentId);
   res.send({ success: 1 });
 };
+
 
 module.exports = {
   getComments,

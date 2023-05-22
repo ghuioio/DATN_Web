@@ -1,4 +1,4 @@
-import { Box, Button, Dialog, Divider, Grid, LinearProgress, makeStyles, TextField, Typography } from "@material-ui/core";
+import { Box, Button, Dialog, Divider, Grid, LinearProgress, makeStyles, TextField, Typography, Snackbar, Slide } from "@material-ui/core";
 import { Rating } from "@material-ui/lab";
 import { useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
@@ -6,15 +6,30 @@ import { HEROKU_API } from "../../Services/Constants";
 import { axiosPost } from "../../Services/Ultils/axiosUtils";
 import { common_variable } from "../common";
 import { CustomButton } from "../CustomComponent/CustomButton";
-
+import badWords from "../../Services/Ultils/badWord.js"
+import { Alert } from "@material-ui/lab";
 const useStyles = makeStyles(theme => ({
 
 }))
+
+function TransitionRight(props) {
+  return (
+    <Slide {...props} direction="right">
+      <Alert
+        severity="error"
+        elevation={6} variant="filled"
+      >
+        Bình luận có chứa từ ngữ không hợp lệ.
+      </Alert>
+    </Slide>
+  )
+}
 
 const CustomerRatings = (props) => {
   const [openDialog, setOpenDialog] = useState(false)
   const [star, setStar] = useState(5)
   const [comment, setComment] = useState('')
+  const [openAlert, setOpenAlert] = useState(false)
   let { id } = useParams()
   const navigate = useNavigate()
   const clickOpenDialog = () => {
@@ -24,7 +39,27 @@ const CustomerRatings = (props) => {
     }
   }
 
+  // Check if a comment has bad words
+  const checkBadWords = (comment) => {
+
+    const listBadWords = badWords.split(' ');
+    const listWordInComment = comment.split(' ');
+
+    for(const word of listWordInComment){
+      if(listBadWords.includes(word)){
+        return true;
+      }
+    }
+    return false;
+  }
+
   const postComment = async () => {
+    // checkBadWords(comment)
+    if(comment.length < 1 || checkBadWords(comment)) {
+      // console.log('Your Comment has bad words')
+      setOpenAlert(true)
+      return
+    }
     props.setLoading(true)
     let data = {
       "content": comment,
@@ -122,6 +157,14 @@ const CustomerRatings = (props) => {
           <CustomButton variant='contained' backgroundColor='yellow' onClick={postComment}>Gửi đánh giá</CustomButton>
         </Box>
       </Dialog>
+      <Snackbar
+        open={openAlert}
+        autoHideDuration={5000}
+        onClose={() => { setOpenAlert(false) }}
+        anchorOrigin={{ vertical: 'bottom', horizontal: 'left' }}
+        TransitionComponent={TransitionRight}
+      >
+      </Snackbar>
 
     </Box>
   )
