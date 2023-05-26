@@ -3,7 +3,7 @@ from langchain import OpenAI
 import sys, requests, pandas as pd
 import os, io
 import openai
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 # def create_index(path):
 #     max_input = 4096
 #     tokens = 200
@@ -42,7 +42,7 @@ os.environ["OPENAI_API_KEY"] = "sk-j8CzzGs5zXO3XxN6hcJMT3BlbkFJttacaRcuTSFRJLMDF
 # proxy_df = pd.read_csv(io.StringIO(s.decode('utf-8')))   
 
 # print(proxy_df)
-openai.api_key = "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"
+openai.api_key = "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"
 
 def get_answers_from_chatgpt(user_text):
     # Use OpenAI API to get the response for the given user text and intent

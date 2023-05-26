@@ -1,4 +1,12 @@
-ֶ֫nlu:
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hello world
+    - Hi 
+    - Can you say hello
+    - Can you help me
 - intent: utter_intent
   examples: |
     - can you utter?

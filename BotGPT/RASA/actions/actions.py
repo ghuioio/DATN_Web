@@ -8,12 +8,10 @@ from dotenv import load_dotenv
 from rasa_sdk import Action, Tracker 
 from typing import Any, Text, Dict, List
 from rasa_sdk.executor import CollectingDispatcher
+# OpenAI API Key
 
 def get_answers_from_chatgpt(user_text):
-
-    # OpenAI API Key
-    openai.api_key = os.getenv("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")
-
+    openai.api_key = "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"
     # Use OpenAI API to get the response for the given user text and intent
     response = openai.Completion.create(
         engine="text-davinci-003",
@@ -33,7 +31,8 @@ class Simple_ChatGPT_Action(Action):
     from ChatGPT."""
 
     def name(self) -> Text:
-        return "action_gpt_default_fallback" 
+        # return "action_gpt_default_fallback" 
+        return "simple_google_sheet_or_chatgpt_action" 
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -54,7 +53,8 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
     If there is no answer in the google sheet, it will use the ChatGPT API"""
 
     def name(self) -> Text:
-        return "simple_google_sheet_or_chatgpt_action" 
+        # return "simple_google_sheet_or_chatgpt_action " 
+        return "action_gpt_default_fallback" 
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -73,7 +73,7 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
     def get_answers_from_sheets(self, intent, entity, user_text):
 
         # Connect to Google Sheets
-        sheet_url = os.getenv("1F8K6GNaz0Xo2Q7a9SjRsVZW8L58lBMTOCN9OyTVKye8")
+        sheet_url = "1F8K6GNaz0Xo2Q7a9SjRsVZW8L58lBMTOCN9OyTVKye8"
 
         GOOGLE_SHEET_URL = f"https://docs.google.com/spreadsheets/d/{sheet_url}/export?format=csv&gid=0"
         s = requests.get(GOOGLE_SHEET_URL).content
@@ -98,9 +98,14 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
 class ActionHelloWorld(Action):
     def name(self) -> Text:
         return "simple_action_hello_world"
+        # return "simple_google_sheet_or_chatgpt_action"
 
     async def run(self, dispatcher: CollectingDispatcher,
                 tracker: Tracker,
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        dispatcher.utter_message(text="Hello, world!")
+        dispatcher.utter_message(text="Hello world! I dont feel so good")
         return []
+
+# user_text = "What is a dog?" 
+# print(user_text)
+# print(get_answers_from_chatgpt(user_text))
