@@ -73,7 +73,7 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
     def get_answers_from_sheets(self, intent, entity, user_text):
 
         # Connect to Google Sheets
-        sheet_url = os.getenv("SHEET_URL")
+        sheet_url = os.getenv("1F8K6GNaz0Xo2Q7a9SjRsVZW8L58lBMTOCN9OyTVKye8")
 
         GOOGLE_SHEET_URL = f"https://docs.google.com/spreadsheets/d/{sheet_url}/export?format=csv&gid=0"
         s = requests.get(GOOGLE_SHEET_URL).content
@@ -95,3 +95,12 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
 
         # Return the answer list
         return answer
+class ActionHelloWorld(Action):
+    def name(self) -> Text:
+        return "simple_action_hello_world"
+
+    async def run(self, dispatcher: CollectingDispatcher,
+                tracker: Tracker,
+                domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        dispatcher.utter_message(text="Hello, world!")
+        return []
