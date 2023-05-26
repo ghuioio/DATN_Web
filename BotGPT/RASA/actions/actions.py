@@ -11,7 +11,7 @@ from rasa_sdk.executor import CollectingDispatcher
 # OpenAI API Key
 
 def get_answers_from_chatgpt(user_text):
-    openai.api_key = "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"
+    openai.api_key = "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"
     # Use OpenAI API to get the response for the given user text and intent
     response = openai.Completion.create(
         engine="text-davinci-003",
@@ -31,8 +31,8 @@ class Simple_ChatGPT_Action(Action):
     from ChatGPT."""
 
     def name(self) -> Text:
-        # return "action_gpt_default_fallback" 
-        return "simple_google_sheet_or_chatgpt_action" 
+        return "action_gpt_default_fallback" 
+        # return "simple_google_sheet_or_chatgpt_action" 
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -53,8 +53,8 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
     If there is no answer in the google sheet, it will use the ChatGPT API"""
 
     def name(self) -> Text:
-        # return "simple_google_sheet_or_chatgpt_action " 
-        return "action_gpt_default_fallback" 
+        return "simple_google_sheet_or_chatgpt_action" 
+        # return "action_gpt_default_fallback" 
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -83,12 +83,12 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
         
         if entity:
             # Filter the dataframe by the intent column and retrieve the answer list
-            filtered_df = proxy_df[(proxy_df['Intent'] == intent) & (proxy_df['Entity'] == entity[0]['value'])]
+            filtered_df = proxy_df[(proxy_df['intent'] == intent) & (proxy_df['entity'] == entity[0]['value'])]
 
             if filtered_df.empty:
                 answer = get_answers_from_chatgpt(user_text) 
             else:
-                answers = filtered_df['Answer'].tolist()
+                answers = filtered_df['answer'].tolist()
                 answer = random.choice(answers)
         else:
             answer = get_answers_from_chatgpt(user_text)
