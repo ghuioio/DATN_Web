@@ -11,7 +11,7 @@ from rasa_sdk.executor import CollectingDispatcher
 # OpenAI API Key
 
 def get_answers_from_chatgpt(user_text):
-    openai.api_key = "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"
+    openai.api_key = "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"
     # Use OpenAI API to get the response for the given user text and intent
     response = openai.Completion.create(
         engine="text-davinci-003",
