@@ -1,13 +1,13 @@
 import requests
 
-rasa_url = 'http:/localhost:5005/webhooks/rest/webhook'
+rasa_url = 'http://localhost:5005/webhooks/rest/webhook'
 
 header = {'Content-Type': 'application/json', 
           'Accept': 'application/json'}
 
 message = {'sender': 'test', 
-           'message': 'hello'}
+           'message': 'what is dog?'}
 
 
-response = requests.post(rasa_url, header, message)
+response = requests.post(rasa_url, headers=header, json=message)
 print(response.json())

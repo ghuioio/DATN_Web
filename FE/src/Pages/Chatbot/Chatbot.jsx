@@ -58,29 +58,35 @@ const steps = [
     trigger: '2'
   },
   {
-    id: '2',
-    user: true,
-    trigger: async (value) => {
-      const response = await fetch('http://localhost:5005/webhooks/rest/webhook', {
-        method: 'POST',
-        body: JSON.stringify({
-          sender: 'user',
-          message: value,
-        }),
-        headers: {
-          'Content-Type': 'application/json',
-        },
-      });
-      const responseData = await response.json();
-      // Assuming Rasa responds with an array of messages, you can just take the first one.
-      const botMessage = responseData[0]?.text || 'Sorry, I did not understand.';
-      return { value: botMessage, trigger: 'bot-response' };
-    },
+      id: '2',
+      user: true,
+      trigger: async (value) => {
+          const rasa_url = 'http://localhost:5005/webhooks/rest/webhook';
+          const header = {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
+          };
+
+          const message = {
+              sender: 'test',
+              message: 'can you utter'
+          };
+
+          const response = await fetch(rasa_url, {
+              method: 'POST',
+              headers: header,
+              body: JSON.stringify(message)
+          });
+
+          const responseData = await response.json();
+          const botMessage = responseData[0]?.text || 'Sorry, I did not understand.';
+          return { value: botMessage, trigger: 'bot-response' };
+      },
   },
   {
-    id: 'bot-response',
-    message: ({ steps }) => steps['2'].value,
-    trigger: '3',
+      id: 'bot-response',
+      message: ({ steps }) => steps['2'].value,
+      trigger: '3',
   },
   {
     id: '3',
