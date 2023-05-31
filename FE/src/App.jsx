@@ -31,6 +31,7 @@ import DieuKhoan from './Layouts/Footer/DieuKhoan'
 import ChinhSachBaoMat from './Layouts/Footer/ChinhSachBaoMat'
 import GioiThieu from './Layouts/Footer/GioiThieu'
 import StatPage from "./Pages/AdminPage/StatPage/StatPage"
+import Chatbot from "./Pages/Chatbot/Chatbot"
 
 const useStyles = makeStyles((theme) => ({
   app: {
@@ -138,7 +139,9 @@ const App = () => {
             <Route path="/dieu-khoan" element={<DieuKhoan />} />
 
           </Routes>
-
+          <div >
+            <Chatbot />
+          </div>
           <Box flexGrow={1} display='flex' alignItems='end'>
             <Footer signedIn={signedIn}/>
           </Box>
