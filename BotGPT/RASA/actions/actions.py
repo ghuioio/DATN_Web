@@ -11,8 +11,8 @@ from rasa_sdk.executor import CollectingDispatcher
 # OpenAI API Key
 
 def get_answers_from_chatgpt(user_text):
-    openai.api_key = "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"
-    # Use OpenAI API to get the response for the given user text and intent
+    # openai.api_key = "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"
+    openai.api_key = "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"
     response = openai.Completion.create(
         engine="text-davinci-003",
         prompt= user_text,
@@ -40,9 +40,16 @@ class Simple_ChatGPT_Action(Action):
 
         # Get the latest user text 
         user_text = tracker.latest_message.get('text')
-    
+
         # Dispatch the response from OpenAI to the user
-        dispatcher.utter_message('ChatGPT (custom_action): ' + get_answers_from_chatgpt(user_text))
+        # dispatcher.utter_message('ChatGPT (custom_action): ' + get_answers_from_chatgpt(user_text))
+        event_data = {
+            "type": "chatgpt_response",
+            "data": 'ChatGPT (custom_action): ' + get_answers_from_chatgpt(user_text)
+        }
+
+        # Emit the custom event
+        dispatcher.utter_message(json_message=event_data)
 
         return []
     
@@ -66,7 +73,14 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
         entities = tracker.latest_message.get('entities')
         
         # Dispatch the response from OpenAI to the user
-        dispatcher.utter_message('Google Sheets (custom_action): ' + str(self.get_answers_from_sheets(intent, entities, user_text)))
+        event_data = {
+            "type": "chatgpt_response",
+            "data": 'Google Sheets (custom_action): ' + str(self.get_answers_from_sheets(intent, entities, user_text))
+        }
+
+        # Emit the custom event
+        dispatcher.utter_message(json_message=event_data)
+        # dispatcher.utter_message('Google Sheets (custom_action): ' + str(self.get_answers_from_sheets(intent, entities, user_text)))
 
         return []
     

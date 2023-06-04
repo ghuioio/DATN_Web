@@ -1,5 +1,7 @@
 import { Box, makeStyles } from "@material-ui/core"
 import { Navigate, Route, Routes } from "react-router-dom"
+import { useNavigate } from 'react-router-dom';
+import * as io from "socket.io-client";
 import BookPage from "./Pages/BookPage/BookPage"
 import CartPage from "./Pages/CartPage/CartPage"
 import ChooseAddress from "./Pages/CheckOut/ChooseAddress/ChooseAddress"
@@ -11,7 +13,7 @@ import SearchResult from "./Pages/SearchResult/SearchResult"
 import Signin from "./Pages/Signin/Signin"
 import PdfReader from "./Pages/PdfReader/pdfReader"
 import PdfPage from "./Pages/PdfReader/PdfPage"
-import { useEffect, useState } from "react"
+import { useEffect, useState, useContext } from "react"
 import ConfirmPage from "./Pages/ConfirmPage/ConfirmPage"
 import { BASE_API, HEROKU_API } from "./Services/Constants"
 import { axiosGet } from "./Services/Ultils/axiosUtils"
@@ -32,7 +34,8 @@ import ChinhSachBaoMat from './Layouts/Footer/ChinhSachBaoMat'
 import GioiThieu from './Layouts/Footer/GioiThieu'
 import StatPage from "./Pages/AdminPage/StatPage/StatPage"
 import Chatbot from "./Pages/Chatbot/Chatbot"
-
+// import Chatbot from "./Pages/Chatbot/ChatbotRCK/Chatbot"
+import { WebsocketContext} from './socket';
 const useStyles = makeStyles((theme) => ({
   app: {
     width: '100%',
@@ -47,12 +50,44 @@ const useStyles = makeStyles((theme) => ({
   },
 }))
 
-
 const App = () => {
+  const socket = useContext(WebsocketContext)
   const classes = useStyles()
+  const navigate = useNavigate(); 
   const [userInfo, setUserInfo] = useState(null)
   const [signedIn, setSignedIn] = useState(false)
   const [checkLogin, setCheckLogin] = useState(false)
+  const [navigateBookId, setNavigateBookId] = useState('629f69c48c2bd1306373f81e');
+  
+  // useEffect(() => {
+  //   socket.on("connect_error", (err) => {
+  //     console.log(`connect_error due to ${err.message}`);
+  //   });
+  //   socket.on('navigate', (data) => {
+  //     let bookId = data.route.split('/')[2];
+  //     setNavigateBookId(bookId);
+  //     console.log(data);
+  //   });
+  
+  //   return () => {
+  //     socket.off('navigate');
+  //   };
+  // }, []);
+
+  // useEffect(() => {
+  //   if (navigateBookId && userInfo) {
+  //     navigate('/product/' + navigateBookId);
+  //   }
+  // }, [navigateBookId]);
+
+  useEffect(() => {
+    // socketRef.current = socketIOClient.connect(host)
+    socket.on("sendDataServer", (data) =>{
+      navigate('/product/' + data.data)
+      console.log(data);
+    });
+    return ()=>{socket.off("sendDataServer")}
+  }, []);
 
   useEffect(() => {
     localStorage.setItem('cart', JSON.stringify([]))
@@ -140,11 +175,14 @@ const App = () => {
 
           </Routes>
           <div >
+          <button onClick={()=>{socket.emit("sendDataClient", '629f69c48c2bd1306373f81e')}}>
+            sendMessage
+          </button>
             <Chatbot />
           </div>
-          <Box flexGrow={1} display='flex' alignItems='end'>
+          {/* <Box flexGrow={1} display='flex' alignItems='end'>
             <Footer signedIn={signedIn}/>
-          </Box>
+          </Box> */}
         </div>
       }
     </>

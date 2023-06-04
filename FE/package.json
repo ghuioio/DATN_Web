@@ -23,6 +23,7 @@
     "react-audio-player": "^0.17.0",
     "react-bootstrap": "^2.4.0",
     "react-chartjs-2": "^4.3.1",
+    "react-chatbot-kit": "^2.1.2",
     "react-dom": "^17.0.2",
     "react-hook-form": "^7.31.3",
     "react-multi-carousel": "^2.8.0",
@@ -59,5 +60,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/socket.io-client": "^3.0.0"
   }
 }

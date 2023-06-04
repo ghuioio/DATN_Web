@@ -1,10 +1,10 @@
-import { useState } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Box from '@material-ui/core/Box';
 import ChatBot from 'react-simple-chatbot';
 import { ThemeProvider } from 'styled-components';
-
+import axios from 'axios';
+import React, { useState } from 'react';
 const useStyles = makeStyles((theme) => ({
   root: {
     position: 'fixed',
@@ -48,65 +48,63 @@ const config = {
 
 const steps = [
   {
-    id: '0',
-    message: 'Hey Geek!',
-    trigger: '1',
-  },
-  {
     id: '1',
-    message: 'Please write your username',
-    trigger: '2'
+    message: 'What do you want to ask?',
+    trigger: 'userQuery',
   },
   {
-      id: '2',
-      user: true,
-      trigger: async (value) => {
-          const rasa_url = 'http://localhost:5005/webhooks/rest/webhook';
-          const header = {
-              'Content-Type': 'application/json',
-              'Accept': 'application/json'
-          };
-
-          const message = {
-              sender: 'test',
-              message: 'can you utter'
-          };
-
-          const response = await fetch(rasa_url, {
-              method: 'POST',
-              headers: header,
-              body: JSON.stringify(message)
-          });
-
-          const responseData = await response.json();
-          const botMessage = responseData[0]?.text || 'Sorry, I did not understand.';
-          return { value: botMessage, trigger: 'bot-response' };
-      },
-  },
-  {
-      id: 'bot-response',
-      message: ({ steps }) => steps['2'].value,
-      trigger: '3',
+    id: 'userQuery',
+    user: true,
+    trigger: '3',
   },
   {
     id: '3',
-    user: true,
-    trigger: '4',
-  },
-  {
-    id: '4',
-    message: " hi {previousValue}, how can I help you?",
-    trigger: '5'
-  },
-  {
-    id: '5',
-    options: [
-      { value: 1, label: 'View Courses' },
-      { value: 2, label: 'Read Articles' },
-    ],
-    end: true
+    component: <RasaComponent />,
+    asMessage: true,
+    waitAction: true,
+    trigger: '1'
   },
 ];
+
+function RasaComponent(props) {
+  const [response, setResponse] = useState('');
+  const [triggered, setTriggered] = useState(false);
+  React.useEffect(() => {
+    const fetchData = async () => {
+      const message = {
+        sender: 'test',
+        message: props.steps.userQuery.message
+      };
+
+      const headers = {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      };
+
+      const rasa_url = 'http://localhost:5005/webhooks/rest/webhook';
+
+      try {
+        const res = await axios.post(rasa_url, message, { headers });
+        const botMessage = res.data[0]?.text || 'Sorry, I did not understand.';
+        setResponse(botMessage);
+      } catch (error) {
+        console.error(error);
+        setResponse("Error: Unable to connect to the bot service.");
+      }
+    };
+
+    fetchData();
+  }, [props.steps.userQuery.message]); 
+
+  React.useEffect(() => {
+      if (response !== null && !triggered) {
+          props.triggerNextStep();
+          setTriggered(true); // Update the triggered state to prevent retriggering
+      }
+  }, [response, triggered]);
+  return <>{response}</>;
+}
+
 
 const Chatbot = () => {
   const classes = useStyles();
