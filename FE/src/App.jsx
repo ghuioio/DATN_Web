@@ -59,27 +59,6 @@ const App = () => {
   const [checkLogin, setCheckLogin] = useState(false)
   const [navigateBookId, setNavigateBookId] = useState('629f69c48c2bd1306373f81e');
   
-  // useEffect(() => {
-  //   socket.on("connect_error", (err) => {
-  //     console.log(`connect_error due to ${err.message}`);
-  //   });
-  //   socket.on('navigate', (data) => {
-  //     let bookId = data.route.split('/')[2];
-  //     setNavigateBookId(bookId);
-  //     console.log(data);
-  //   });
-  
-  //   return () => {
-  //     socket.off('navigate');
-  //   };
-  // }, []);
-
-  // useEffect(() => {
-  //   if (navigateBookId && userInfo) {
-  //     navigate('/product/' + navigateBookId);
-  //   }
-  // }, [navigateBookId]);
-
   useEffect(() => {
     // socketRef.current = socketIOClient.connect(host)
     socket.on("sendDataServer", (data) =>{

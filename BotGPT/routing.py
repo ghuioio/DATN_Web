@@ -13,69 +13,26 @@
 # print(response.json())
 
 # Python backend (Flask with Flask-SocketIO)
-import asyncio
-import json
-import websockets
-import traceback
+import socketio
 
-all_clients = []
+sio = socketio.Client()
 
+@sio.event
+def connect():
+    print("I'm connected!")
+    sio.emit("sendDataClient", {"message": "Hello from Python client!"})
 
-async def send_message(client_socket, message):
-    await client_socket.send(message)
+@sio.on('sendDataServer')
+def on_message(data):
+    print('I received a message!')
+    print(data)
 
+@sio.event
+def disconnect():
+    print("I'm disconnected!")
 
-async def new_client_connected(client_socket, path):
-    print("New client connected!")
-    all_clients.append(client_socket)
-    try:
-        while True:
-            message = await client_socket.recv()
-            data = json.loads(message)
-            command = data['command']
-            if (command == 'detect_pose'):
-                update_start = data['update_start']
-            elif (command == 'login'):
-                await send_message(client_socket, json.dumps({
-                    'command': command,
-                    'response': 'login'
-                }))
-            elif (command == 'register'):
-                await send_message(client_socket, json.dumps({
-                    'command': command,
-                    'response': 'rgistration'
-                }))
-            elif (command == 'get_levels'):
-                await send_message(client_socket, json.dumps({
-                    'command': command,
-                    'response': 'get_levels'
-                }))
-            elif (command == 'update_result'):
-                await send_message(client_socket, json.dumps({
-                    'command': command,
-                    'response': 'update_result'
-                }))
-            elif (command == 'get_all_results'):
-                await send_message(client_socket, json.dumps({
-                    'command': command,
-                    'response':'get_result'
-                }))
-                
-    except Exception as ex:
-        print('='*10, 'ERROR', ex)
-        traceback.print_tb(ex.__traceback__)
-        print('='*20)
+sio.connect('http://localhost:5000')
 
-
-async def start_server():
-    print('Server started')
-    await websockets.serve(new_client_connected, 'localhost', 5000)
-
-
-if __name__ == '__main__':
-    event_loop = asyncio.get_event_loop()
-    event_loop.run_until_complete(start_server())
-    event_loop.run_forever()
 
 
 
