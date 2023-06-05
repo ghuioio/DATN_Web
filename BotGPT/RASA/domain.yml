@@ -10,8 +10,17 @@ entities:
   - object_entity
 
 responses:
-  utter_response:
-  - text: "This is direct utter, no custom action" 
+  utter_chao:
+    - text: "Chào bạn, tôi là chatbot Tư vấn sức khoẻ!"
+
+  utter_cam_on:
+    - text: "Không có gì ạ, bạn cảm thấy hài lòng là mình vui rồi"
+
+  utter_tam_biet:
+    - text: "Tạm biệt! Chúc bạn một ngày tốt lành!"
+
+  utter_unclear:
+    - text: "Bạn có thể nói rõ hơn được không?"
 
 actions:
 - utter_response

@@ -1,9 +1,10 @@
-import os
+import os, sys
 import io
 import openai
 import random
 import requests
 import pandas as pd
+from custom_model import answerMe
 from dotenv import load_dotenv
 from rasa_sdk import Action, Tracker 
 from typing import Any, Text, Dict, List
@@ -11,19 +12,17 @@ from rasa_sdk.executor import CollectingDispatcher
 # OpenAI API Key
 
 def get_answers_from_chatgpt(user_text):
-    # openai.api_key = "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"
-    openai.api_key = "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"
-    response = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt= user_text,
-        max_tokens=1024,
-        n=1,
-        stop=None,
-        temperature=0.5,
-    ).choices[0].text
-
-    # Return the response from OpenAI
-    return response
+    # openai.api_key = "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"
+    # response = openai.Completion.create(
+    #     engine="text-davinci-003",
+    #     prompt= user_text,
+    #     max_tokens=1024,
+    #     n=1,
+    #     stop=None,
+    #     temperature=0.5,
+    # ).choices[0].text
+    # return response
+    return answerMe(user_text)
 
 class Simple_ChatGPT_Action(Action):
 
@@ -79,8 +78,8 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
         }
 
         # Emit the custom event
-        dispatcher.utter_message(json_message=event_data)
-        # dispatcher.utter_message('Google Sheets (custom_action): ' + str(self.get_answers_from_sheets(intent, entities, user_text)))
+        # dispatcher.utter_message(json_message=event_data)
+        dispatcher.utter_message('Google Sheets (custom_action): ' + str(self.get_answers_from_sheets(intent, entities, user_text)))
 
         return []
     
@@ -120,6 +119,6 @@ class ActionHelloWorld(Action):
         dispatcher.utter_message(text="Hello world! I dont feel so good")
         return []
 
-# user_text = "What is a dog?" 
+# user_text = "quyển Để con được ốm bao nhiêu tiền ?" 
 # print(user_text)
 # print(get_answers_from_chatgpt(user_text))
