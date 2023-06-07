@@ -2,16 +2,27 @@ version: "3.1"
 
 domain:
 intents:
-  - greet
+  - chao
+  - tam_biet
+  - cam_on
+  - hoi_sach
   - utter_intent
   - what_is_x
 
+slots:
+  diseases:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: books
 entities:
   - object_entity
+  - book_name
 
 responses:
   utter_chao:
-    - text: "Chào bạn, tôi là chatbot Tư vấn sức khoẻ!"
+    - text: "Chào bạn, tôi là chatbot của Book&Chill !"
 
   utter_cam_on:
     - text: "Không có gì ạ, bạn cảm thấy hài lòng là mình vui rồi"
@@ -27,6 +38,7 @@ actions:
 - simple_action_hello_world
 - simple_google_sheet_or_chatgpt_action 
 - action_gpt_default_fallback
+- action_hoi_sach
 
 session_config:
   session_expiration_time: 60

@@ -4,7 +4,7 @@ import openai
 import random
 import requests
 import pandas as pd
-from custom_model import answerMe
+# from custom_model import answerMe
 from dotenv import load_dotenv
 from rasa_sdk import Action, Tracker 
 from typing import Any, Text, Dict, List
@@ -108,16 +108,20 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
 
         # Return the answer list
         return answer
-class ActionHelloWorld(Action):
+class ActionAskBook(Action):
     def name(self) -> Text:
-        return "simple_action_hello_world"
-        # return "simple_google_sheet_or_chatgpt_action"
+        return "action_hoi_sach"
 
-    async def run(self, dispatcher: CollectingDispatcher,
+    def run(self, dispatcher: CollectingDispatcher,
                 tracker: Tracker,
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        dispatcher.utter_message(text="Hello world! I dont feel so good")
+        user_text = tracker.latest_message.get('text')
+        entities = tracker.latest_message.get('entities')
+        print(entities)
+        # dispatcher.utter_message(text="Hello world " + str(entities[0]['value']))
         return []
+    
+
 
 # user_text = "quyển Để con được ốm bao nhiêu tiền ?" 
 # print(user_text)

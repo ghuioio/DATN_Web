@@ -1,12 +1,6 @@
 version: "3.1"
 
 nlu:
-- intent: greet
-  examples: |
-    - hello world
-    - Hi 
-    - Can you say hello
-    - Can you help me
 - intent: utter_intent
   examples: |
     - can you utter?
@@ -19,60 +13,183 @@ nlu:
     - what is a [chair](object_entity)?
     - what a [dog](object_entity) is?
     - what a [chair](object_entity) is
-  s- intent: chao
-    examples: |
-      - hi
-      - hello
-      - tư vấn
-      - hỗ trợ
-      - giúp mình với
-      - chào
-      - xin chào
-      - có ai không
-      - anh ơi
-      - chị ơi
-      - chào anh
-      - chào chị
-      - bạn ơi
-      - chào bạn
+- intent: chao
+  examples: |
+    - hi
+    - hello
+    - tư vấn
+    - hỗ trợ
+    - giúp mình với
+    - chào
+    - xin chào
+    - có ai không
+    - anh ơi
+    - chị ơi
+    - chào anh
+    - chào chị
+    - bạn ơi
+    - chào bạn
 
-  - intent: tam_biet
-    examples: |
-      - tạm biệt
-      - chào tạm biệt
-      - tạm biệt nhé
-      - tạm biệt nha
-      - tạm biệt anh
-      - tạm biệt chị
-      - tạm biệt bạn
-      - xong rồi
-      - ok
-      - oke
-      - ừ
-      - ờ
-      - ừa
+- intent: tam_biet
+  examples: |
+    - tạm biệt
+    - chào tạm biệt
+    - tạm biệt nhé
+    - tạm biệt nha
+    - tạm biệt anh
+    - tạm biệt chị
+    - tạm biệt bạn
+    - xong rồi
+    - ok
+    - oke
+    - ừ
+    - ờ
+    - ừa
 
-  - intent: cam_on
-    examples: |
-      - cảm ơn shop nhé
-      - cảm ơn
-      - thank you
-      - cảm ơn shop
-      - rất bổ ích
-      - giỏi quá
-      - tuyệt quá
-      - rất hữu ích
-      - có giá trị tham khảo
-      - cũng đáng tin đấy
-      - thanks
-      - tks
-      - thank you
+- intent: cam_on
+  examples: |
+    - cảm ơn shop nhé
+    - cảm ơn
+    - thank you
+    - cảm ơn shop
+    - rất bổ ích
+    - giỏi quá
+    - tuyệt quá
+    - rất hữu ích
+    - có giá trị tham khảo
+    - cũng đáng tin đấy
+    - thanks
+    - tks
+    - thank you
 
-  - intent: hoi_chuc_nang
-    examples: |
-      - bạn có thể làm gì
-      - chức năng
-      - làm được gì
-      - có những chức năng gì
-      - có mấy chức năng
-      - làm được những gì
+- intent: hoi_sach
+  examples: |
+    - bạn có quyển [năng đoạn kim cương](book_name) không ?
+    - shop có bán quyển [nghĩ giàu làm giàu](book_name) không ?
+    - tôi muốn tìm quyển [Nhà giả kim](book_name), shop có sẵn không ?
+    - Shop có sẵn [Cây cam ngọt của tôi](book_name) ko nhỉ ?
+
+- lookup: symptoms
+  examples: |
+    - Nhà giả kim 
+    - "Thanh Gươm Diệt Quỷ - Kimetsu No Yaiba - Tập 23: Vượt Qua Tháng Năm, Sinh Mệnh Tỏa Rạng"
+    - Tôi Vẽ - Phương Pháp Tự Học Vẽ Truyện Tranh
+    - Nghĩ Giàu & Làm Giàu
+    - Trải Nghiệm Khách Hàng Xuất Sắc
+    - Hoá Học 11 - Nâng Cao (2020)
+    - Atlat Địa Lí Việt Nam - 2022
+    - Chủ Nghĩa Khắc Kỷ - Phong Cách Sống Bản Lĩnh Và Bình Thản
+    - No Vocab - No Worries
+    - Hồi Kí Bóng Đá Của Son Heung Min: Đường Đến Châu Âu
+    - Isaac Newton - Nhà Khoa Học Vĩ Đại
+    - Con Mình Chẳng Lẽ Lại Vứt
+    - Để Con Được Ốm - Tái Bản 2018
+    - "Elon Musk: Tesla, Spacex Và Sứ Mệnh Tìm Kiếm Một Tương Lai Ngoài Sức Tưởng Tượng (Tái Bản 2020)"
+    - Mê Cung Phát Triển Tư Duy - Khám Phá Thế Giới
+    - Những Đêm Không Ngủ Những Ngày Chậm Trôi
+    - Thám Tử Lừng Danh Conan - Tập 99
+    - Pokémon - Cuộc Phiêu Lưu Của Pippi Hg.Ss Heartgold.Soulsilver - Tập 1
+    - Tập Viết Tiếng Nhật Hiragana (Tái Bản 2019)
+    - Cây Cam Ngọt Của Tôi
+    - Cho Tôi Xin Một Vé Đi Tuổi Thơ 
+    - Tìm Em Nơi Anh - Find Me
+    - Chuyện Cổ Tích Dành Cho Người Lớn 
+    - Từ Điển Tiếng “Em” - Tái Bản 2021 
+    - Hạ Đỏ (Tái Bản 2018)
+    - Giết Con Chim Nhại (Tái Bản 2019)
+    - Bến Xe (Tái Bản 2020)
+    - Tô Bình Yên Vẽ Hạnh Phúc (Tái Bản 2021)
+    - "Chỉ Lo Chuyện Mình, Không Lo Chuyện Người "
+    - Giỏ Trái Cây
+    - Ra Bờ Suối Ngắm Hoa Kèn Hồng
+    - Cô Gái Cãi Lời Thượng Đế
+    - Anh
+    - Tâm An Ắt Bình An
+    - Người Thương Đã Cũ
+    - "Blockchain - Bản Chất Của Blockchain, Bitcoin, Tiền Điện Tử, Hợp Đồng Thông Minh Và Tương Lai Của Tiền Tệ"
+    - Người Bán Hàng Vĩ Đại Nhất Thế Giới
+    - Năng Đoạn Kim Cương (Tái Bản 2020)
+    - Bách Khoa Khủng Long Toàn Tập
+    - Siêu Nhí Hỏi Nhà Khoa Học Trả Lời
+    - 10 Vạn Câu Hỏi Vì Sao - Cuộc Sống Muôn Màu (Tái Bản 2018)
+    - Đi Tìm Momo - Tập Sách Ảnh Trốn Tìm - Tập 2
+    - Rèn Luyện Tư Duy Phản Biện
+    - OSHO - Yêu - Being In Love
+    - Kiếp Nào Ta Cũng Tìm Thấy Nhau - Câu Chuyện Về Những Linh Hồn Tri Kỷ Vĩnh Viễn Không Chia Lìa
+    - Đời Ngắn Đừng Ngủ Dài (Tái Bản 2018)
+    - Chào Tuổi Dậy Thì! Kiến Thức Về Dậy Thì Dành Cho Các Bạn Nam (8-12 Tuổi)
+    - Trên Đường Băng (Tái Bản 2017)
+    - "Càng Kỷ Luật, Càng Tự Do"
+    - Sức Mạnh Của Ngôn Từ 
+    - Kinh Tế Vĩ Mô (Ns Kinh Tế)
+    - Chết Vì Chứng Khoán
+    - Kinh Doanh Thời Trang Thành Công Từ A-Z
+    - "Quảng Cáo Không Nói Láo - Sự Thật Về Quảng Cáo Dưới Góc Nhìn Khoa Học, Toàn Diện Và Thực Tiễn"
+    - 300 Trò Chơi Phát Triển Trí Tuệ Cho Trẻ 3 Tuổi - Tái Bản 2018
+    - Vòng Quanh Thế Giới - Ai Cập (Tái Bản 2019)
+    - Bóng Đá - Lối Sống Brazil
+    - Hồi Ký Của Một Huyền Thoại Manchester United
+    - Mbappé - Cậu Bé Vàng
+    - Cờ Vua - Hãy Chơi Để Chiến Thắng (Tái Bản 2021)
+    - Messi Vs Ronaldo - Đại Chiến Giữa Những Vị Thần
+    - Bão Lửa U23 - Thường Châu Tuyết Trắng
+    - Tôi Tập Thể Dục - Những Bí Quyết Đơn Giản Để Có Thân Hình Đẹp Và Cơ Thể Khỏe Mạnh (2021)
+    - Luyện Viết Và Học Từ Vựng Tiếng Anh Lớp 1
+    - 5 Phút Khích Lệ Trẻ Mỗi Ngày
+    - Y Học Cổ Truyền (2020)
+    - Cẩm Nang Du Lịch - Top 10 Paris
+    - 50 Tips Du Lịch Dành Cho Bạn Gái
+    - Những Mảng Màu Du Lịch Việt Nam
+    - Cẩm Nang Du Lịch Anh Quốc
+    - Cẩm Nang Du Lịch Thái Lan
+    - Cẩm Nang Du Lịch Nhật Bản
+    - Lịch Sử Của Trà
+    - Mùa Nước Nổi Trong Đời Sống Văn Hoá Đồng Bằng Sông Cửu Long
+    - Văn Hóa Đô Thị
+    - Naruto Tập 71
+    - Naruto - Tập 61: Huynh Đệ Song Thủ!! (Tái Bản 2022)
+    - Naruto Tập 45: Chiến Trường Làng Lá!! (Tái Bản 2022)
+    - Naruto Tập 57: Naruto Xung Trận…!! (Tái Bản 2022)
+    - Dragon Ball Super - Tập 13
+    - Dragon Ball Super Tập 9: Tàn Cuộc (Tái Bản 2022)
+    - "Dragon Ball Super Tập 6: Hỡi Các Siêu Chiến Binh, Hãy Tập Hợp! (Tái Bản 2022)"
+    - Dragon Ball Super Tập 7: Giải Đấu Sức Mạnh - Cuộc Đua Tranh Sống Còn (Tái Bản 2022)
+    - Sách Giáo Khoa Bộ Lớp 11 - Sách Bài Học (Bộ 14 Cuốn) (2022) + 2 Cuộn Bao Sách Nylon TP
+    - Tập Bản Đồ Địa Lí 11 (2021)
+    - Tiếng Việt 3 - Tập 1 (2021)
+    - Sách Giáo Khoa Bộ Lớp 3 - Bài Học + Bài Tập (Bộ 13 Cuốn) (2021)
+    - Sách Giáo Khoa Bộ Lớp 4 - Sách Bài Học (Bộ 9 Cuốn) (2022) + Bao Sách Nylon TP
+    - Sách Giáo Khoa Bộ Lớp 1 - Chân Trời Sáng Tạo - Sách Bài Học (Bộ 9 Cuốn) (2022) + Bao Sách TP
+    - Luyện Đọc 1 (Kết Nối) (2021)
+    - 90% Trẻ Thông Minh Nhờ Cách Trò Chuyện Đúng Đắn Của Cha Mẹ (Tái Bản 2019)
+    - Bố Bỉm Sữa Nuôi Con Khác Biệt
+    - Mẹ Tự Tôn - Con Tự Tin
+    - Để Con Được Bay - Nuôi Con Một Mình Theo Kiểu Mẹ Phượt
+    - Phẩm Cách Cha Mẹ (Tái Bản)
+    - Mẹ Ơi! Con Cũng Muốn Được Lắng Nghe
+    - Đừng Ép Con “Khôn” Sớm (Tái Bản 2018)
+    - Y Học Sức Khỏe - Thai Kỳ Khỏe Mạnh - Vượt Cạn Bình An
+    - Dinh Dưỡng Học Bị Thất Truyền - Dinh Dưỡng Đẩy Lùi Bệnh Tật
+    - Phòng Và Hỗ Trợ Điều Trị Các Bệnh Rối Loạn Chuyển Hóa
+    - Đông Y Điều Trị - Bệnh Rối Loạn Chuyển Hóa Và Nội Tiết
+    - Chữa Ung Thư Bằng Phương Pháp Dưỡng Sinh
+    - Chẩn Trị Covid-19 Bằng Đông Tây Y
+    - Sống Chung Với Ung Thư
+    - Lưu Thông Máu Tốt Hóa Giải Bách Bệnh
+    - Bí Mật Dotcom (Tái Bản 2021)
+    - "Số Ơi, Mở Ra! - Tư Duy Phân Tích Số Liệu Và Thiết Kế Báo Cáo Excel Dashboard Chuyên Nghiệp"
+    - Clean Code - Mã Sạch Và Con Đường Trở Thành Lập Trình Viên Giỏi
+    - Vũ Trụ Trong Vỏ Hạt Dẻ (Tái Bản 2017)
+    - DevUP - Cuốn Sách Toàn Diện Phát Triển Sự Nghiệp Của Lập Trình Viên
+    - Giáo Trình C++ Và Lập Trình Hướng Đối Tượng
+    - Tự Học Photoshop CC - Toàn Tập (Tái Bản Bổ Sung Lần 2)
+    - Giáo Trình Điện Tử - Linh Kiện Điện Tử Transistor
+    - Sổ Tay Học Nhanh Toàn Diện Kiến Thức Và Dạng Bài Hóa Học Lớp 8-9
+    - Luyện Giải Bộ Đề Bồi Dưỡng Học Sinh Giỏi Tiếng Anh Lớp 8
+    - Tự Học Toàn Diện Hóa Học - Từ Cơ Bản Đến Nâng Cao Lớp 8
+    - Luyện Chuyên Sâu Ngữ Pháp Và Bài Tập Tiếng Anh 8 - Tập 2 (Chương Trình Mới)
+    - Bí Quyết Tăng Nhanh Điểm Kiểm Tra - Tiếng Anh 8 - Tập 2
+    - Quick Quick Học Nhanh Toàn Diện Từ Vựng Tiếng Anh Theo Chủ Đề - Lớp 1 (Tái Bản)
+    - Big 4 - Bộ Đề Tự Kiểm Tra 4 Kỹ Năng Nghe - Nói - Đọc - Viết (Cơ Bản Và Nâng Cao) Tiếng Anh Lớp 5 - Tập 1
+    - 20 Ngày Ôn Tập Toàn Diện Kiến Thức Tiếng Anh Lớp 5
+    - Cẩm Nang Du Lịch - Top 10 Paris

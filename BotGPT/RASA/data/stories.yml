@@ -6,12 +6,25 @@ stories:
   - intent: utter_intent
   - action: utter_response
 
-- story: simple action use - 'hello_world'
+- story: chao
   steps:
-  - intent: greet
-  - action: simple_action_hello_world
+    - intent: chao
+    - action: utter_chao
+    - intent: tam_biet
+    - action: utter_tam_biet
 
 - story: simple google sheet action use
   steps:
   - intent: what_is_x
   - action: simple_google_sheet_or_chatgpt_action
+
+- story: hoi sach
+  steps:
+    - intent: chao
+    - action: utter_chao
+    - intent: hoi_sach
+    - action: action_hoi_sach
+    - intent: cam_on
+    - action: utter_cam_on
+    - intent: tam_biet
+    - action: utter_tam_biet
