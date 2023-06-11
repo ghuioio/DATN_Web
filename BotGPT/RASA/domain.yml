@@ -6,20 +6,29 @@ intents:
   - tam_biet
   - cam_on
   - hoi_sach
+  - hoi_sach_theo_the_loai
+  - xem_gio_hang
+  - them_sach_vao_gio
   - utter_intent
   - what_is_x
 
 slots:
-  diseases:
+  book_name:
     type: text
     influence_conversation: true
     mappings:
       - type: from_entity
-        entity: books
+        entity: book_name
+  category:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: category
 entities:
   - object_entity
   - book_name
-
+  - category
 responses:
   utter_chao:
     - text: "Chào bạn, tôi là chatbot của Book&Chill !"
@@ -39,7 +48,9 @@ actions:
 - simple_google_sheet_or_chatgpt_action 
 - action_gpt_default_fallback
 - action_hoi_sach
-
+- action_hoi_sach_theo_the_loai
+- action_xem_gio_hang
+- action_them_sach_vao_gio
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

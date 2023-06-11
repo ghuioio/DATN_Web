@@ -3,7 +3,7 @@ from langchain import OpenAI
 import sys, requests, pandas as pd
 import os, io
 import openai
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 def create_index(path):
     max_input = 4096
     tokens = 200
@@ -30,8 +30,10 @@ def answerMe(question):
     index = load_index_from_storage(storage_context)
     query_engine = index.as_query_engine()
     response = query_engine.query(question)
+    # entities = response['choices'][0]['entities']
+    # print(entities)
     return response
 
-# response =  answerMe("tất cả thông tin của quyển năng đoạn kim cương?")
+# response =  answerMe("có quyển Trên đường băng ko?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1")
 # print(response)
-
+# print(extract_entities('có bán quyển Chết vì chứng khoán ko?'))

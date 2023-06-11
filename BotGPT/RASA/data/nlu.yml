@@ -68,11 +68,40 @@ nlu:
     - shop có bán quyển [nghĩ giàu làm giàu](book_name) không ?
     - tôi muốn tìm quyển [Nhà giả kim](book_name), shop có sẵn không ?
     - Shop có sẵn [Cây cam ngọt của tôi](book_name) ko nhỉ ?
+    - có [nguời thương đã cũ] (book_name) ko 
+    - có sẵn [Tâm an ắt bình an](book_name) không nhỉ ?
 
-- lookup: symptoms
+- intent: hoi_sach_theo_the_loai
+  examples: |
+    - có những quyển sách nào thuộc thể loại [sách kinh doanh](category) ?
+    - cho tôi xem danh sách các cuốn sách [Sách kinh tế](category) được không?
+    - tôi quan tâm đến [Sách thiếu nhi](category), bạn có thể giới thiệu một số quyển hay không?
+    - tôi đang tìm đọc [Sách giáo khoa](category), có gợi ý nào cho tôi không?
+    - có những quyển sách nào thuộc thể loại [Sách y học](category)?
+
+- intent: them_sach_vao_gio
+  examples: |
+    - cho tôi mua [một] (quality) quyển [Nhà giả kim](book_name)
+    - thêm vào giỏ hàng [một] (quality) quyển sách [nghĩ giàu làm giàu](book_name)
+    - tôi muốn mua [ba] (quality) cuốn [Con Mình Chẳng Lẽ Lại Vứt](book_name), hãy đặt vào giỏ hàng giúp tôi
+    - cho tôi thêm [bốn] (quality) cuốn sách [Rèn Luyện Tư Duy Phản Biện](book_name) vào giỏ hàng
+    - mua [năm] (quality) quyển sách [Mbappé - Cậu Bé Vàng](book_name)
+    - mua [1] (quality) quyển 
+    - mua cho tôi [2] (quality) cuốn
+    
+- intent: xem_gio_hang
+  examples: |
+    - xem giỏ hàng của tôi
+    - hãy cho tôi xem nội dung giỏ hàng
+    - tôi muốn biết những gì đang có trong giỏ hàng
+    - xem danh sách các sản phẩm trong giỏ hàng
+    - có thể kiểm tra giúp tôi giỏ hàng được không?
+
+
+- lookup: book_name
   examples: |
     - Nhà giả kim 
-    - "Thanh Gươm Diệt Quỷ - Kimetsu No Yaiba - Tập 23: Vượt Qua Tháng Năm, Sinh Mệnh Tỏa Rạng"
+    - Thanh Gươm Diệt Quỷ - Kimetsu No Yaiba - Tập 23: Vượt Qua Tháng Năm, Sinh Mệnh Tỏa Rạng
     - Tôi Vẽ - Phương Pháp Tự Học Vẽ Truyện Tranh
     - Nghĩ Giàu & Làm Giàu
     - Trải Nghiệm Khách Hàng Xuất Sắc
@@ -84,7 +113,7 @@ nlu:
     - Isaac Newton - Nhà Khoa Học Vĩ Đại
     - Con Mình Chẳng Lẽ Lại Vứt
     - Để Con Được Ốm - Tái Bản 2018
-    - "Elon Musk: Tesla, Spacex Và Sứ Mệnh Tìm Kiếm Một Tương Lai Ngoài Sức Tưởng Tượng (Tái Bản 2020)"
+    - Elon Musk: Tesla, Spacex Và Sứ Mệnh Tìm Kiếm Một Tương Lai Ngoài Sức Tưởng Tượng (Tái Bản 2020)
     - Mê Cung Phát Triển Tư Duy - Khám Phá Thế Giới
     - Những Đêm Không Ngủ Những Ngày Chậm Trôi
     - Thám Tử Lừng Danh Conan - Tập 99
@@ -99,7 +128,7 @@ nlu:
     - Giết Con Chim Nhại (Tái Bản 2019)
     - Bến Xe (Tái Bản 2020)
     - Tô Bình Yên Vẽ Hạnh Phúc (Tái Bản 2021)
-    - "Chỉ Lo Chuyện Mình, Không Lo Chuyện Người "
+    - Chỉ Lo Chuyện Mình, Không Lo Chuyện Người
     - Giỏ Trái Cây
     - Ra Bờ Suối Ngắm Hoa Kèn Hồng
     - Cô Gái Cãi Lời Thượng Đế
@@ -177,7 +206,7 @@ nlu:
     - Sống Chung Với Ung Thư
     - Lưu Thông Máu Tốt Hóa Giải Bách Bệnh
     - Bí Mật Dotcom (Tái Bản 2021)
-    - "Số Ơi, Mở Ra! - Tư Duy Phân Tích Số Liệu Và Thiết Kế Báo Cáo Excel Dashboard Chuyên Nghiệp"
+    - Số Ơi, Mở Ra! - Tư Duy Phân Tích Số Liệu Và Thiết Kế Báo Cáo Excel Dashboard Chuyên Nghiệp
     - Clean Code - Mã Sạch Và Con Đường Trở Thành Lập Trình Viên Giỏi
     - Vũ Trụ Trong Vỏ Hạt Dẻ (Tái Bản 2017)
     - DevUP - Cuốn Sách Toàn Diện Phát Triển Sự Nghiệp Của Lập Trình Viên
@@ -193,3 +222,22 @@ nlu:
     - Big 4 - Bộ Đề Tự Kiểm Tra 4 Kỹ Năng Nghe - Nói - Đọc - Viết (Cơ Bản Và Nâng Cao) Tiếng Anh Lớp 5 - Tập 1
     - 20 Ngày Ôn Tập Toàn Diện Kiến Thức Tiếng Anh Lớp 5
     - Cẩm Nang Du Lịch - Top 10 Paris
+
+- lookup: category
+  examples: |
+    - Sách văn học 
+    - Sách kinh tế
+    - Sách thiếu nhi
+    - Sách kỹ năng sống
+    - Sách giáo khoa
+    - Sách bà mẹ - Em bé
+    - Sách học ngoại ngữ
+    - Truyện tranh, Manga, Comic
+    - Sách thể dục thể thao 
+    - Sách y học
+    - Sách công nghệ thông tin
+    - Sách tôn giáo tâm linh
+    - Sách văn hóa - địa lý - du lịch 
+    - Tạp chí
+    - Sách tham khảo
+    - Sách chính trị, pháp lý

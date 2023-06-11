@@ -20,7 +20,7 @@ sio = socketio.Client()
 @sio.event
 def connect():
     print("I'm connected!")
-    sio.emit("sendDataClient", '62a202428801b54984b83460')
+    # sio.emit("sendDataClient", '62a202428801b54984b83460')
 
 @sio.on('sendDataServer')
 def on_message(data):
