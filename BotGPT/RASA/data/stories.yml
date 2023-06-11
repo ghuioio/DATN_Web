@@ -23,11 +23,9 @@ stories:
     - intent: chao
     - action: utter_chao
     - intent: hoi_sach
+      entities:
+      - book_name: "năng đoạn kim cương"
     - action: action_hoi_sach
-    - intent: cam_on
-    - action: utter_cam_on
-    - intent: tam_biet
-    - action: utter_tam_biet
 
 - story: xem gio hang
   steps:

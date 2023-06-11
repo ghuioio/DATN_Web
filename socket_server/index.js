@@ -15,8 +15,14 @@ socketIo.on("connection", (socket) => { ///Handle khi có connect từ client t�
   console.log("New client connected" + socket.id); 
 
   // socket.on("registerRasaServer", function(data) =>)
-  socket.on("sendDataClient", function(data) { // Handle khi có sự kiện tên là sendDataClient từ phía client
-    socketIo.emit("sendDataServer", { data });// phát sự kiện  có tên sendDataServer cùng với dữ liệu tin nhắn từ phía server
+  socket.on("sendDataFromClientToServer", function(data) {
+    console.log(data);
+    socketIo.emit("sendDataToRasa", {id: socket.id, data });// phát sự kiện  có tên sendDataServer cùng với dữ liệu tin nhắn từ phía server
+  })
+
+  socket.on("sendDataFromRasaToServer", function(data) {
+    console.log(data);
+    socketIo.to(data.id).emit("sendDataToClient", { data: data.data });// phát sự kiện  có tên sendDataServer cùng với dữ liệu tin nhắn từ phía server
   })
 
   socket.on("disconnect", () => {

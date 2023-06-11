@@ -14,14 +14,17 @@ from rasa_sdk.events import SlotSet
 import socketio
 
 sio = socketio.Client()
-
+Const_Rasa_To_Server = 'sendDataFromRasaToServer'
+clientId = 'BLRMjdMQxu54MuMuAAAF'
 @sio.event
 def connect():
     print("I'm connected!")
 
-@sio.on('sendDataServer')
+@sio.on('sendDataToRasa')
 def on_message(data):
     print('I received a message!')
+    global clientId 
+    clientId = data.id
     print(data)
 
 @sio.event
@@ -103,7 +106,7 @@ class ActionAskBook(Action):
         response =  str (answerMe(user_text +"?, nếu có hãy chỉ trả lời id của quyển sách, nếu không hãy chỉ trả lời -1") )
         print(entities, response)
         if len(response) > 5 :
-            sio.emit("sendDataClient", '/product/' + response)
+            sio.emit(Const_Rasa_To_Server, '/product/' + response)
             dispatcher.utter_message(text="Shop có quyển đấy, không biết đây có phải sách bạn cần tìm !!!" )
         else:
             dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm quyển khác không?" )
@@ -120,7 +123,11 @@ class ActionAskBookByCategory(Action):
         entities = tracker.latest_message.get('entities')
         print(entities)
         if entities != []:
-            sio.emit("sendDataClient", '/book-page/' + str(find_book_by_category('sách'+ entities[0]['value'])))
+            response = {
+                'id': clientId ,
+                'data': '/book-page/' + str(find_book_by_category('sách'+ entities[0]['value']))
+            }
+            sio.emit(Const_Rasa_To_Server, response)
             dispatcher.utter_message(text="Đây là danh sách thuộc thể loại bạn tìm." )
         else:
             dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm thể loại khác không?" )
@@ -133,7 +140,11 @@ class ActionVỉewCart(Action):
     def run(self, dispatcher: CollectingDispatcher,
                 tracker: Tracker,
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        sio.emit("sendDataClient", '/cart')
+        response = {
+                'id': clientId ,
+                'data': '/cart'
+            }
+        sio.emit(Const_Rasa_To_Server, response)
         dispatcher.utter_message(text="Đây là giỏ hàng của bạn" )
         return [] 
 

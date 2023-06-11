@@ -61,11 +61,11 @@ const App = () => {
   
   useEffect(() => {
     // socketRef.current = socketIOClient.connect(host)
-    socket.on("sendDataServer", (data) =>{
+    socket.on("sendDataToClient", (data) =>{
       navigate(data.data)
       console.log(data);
     });
-    return ()=>{socket.off("sendDataServer")}
+    return ()=>{socket.off("sendDataToClient")}
   }, []);
 
   useEffect(() => {
@@ -154,7 +154,7 @@ const App = () => {
 
           </Routes>
           <div >
-          <button onClick={()=>{socket.emit("sendDataClient", '/cart')}}>
+          <button onClick={()=>{socket.emit("sendDataFromClientToServer", '/cart')}}>
             sendMessage
           </button>
             <Chatbot />
