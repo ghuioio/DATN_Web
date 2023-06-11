@@ -43,13 +43,8 @@ def get_answers_from_chatgpt(user_text):
     return answerMe(user_text)
 
 class Simple_ChatGPT_Action(Action):
-
-    """Rasa action to parse user text and pulls a corresponding answer 
-    from ChatGPT."""
-
     def name(self) -> Text:
         return "action_gpt_default_fallback" 
-        # return "simple_google_sheet_or_chatgpt_action" 
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -59,44 +54,19 @@ class Simple_ChatGPT_Action(Action):
         user_text = tracker.latest_message.get('text')
 
         # Dispatch the response from OpenAI to the user
-        # dispatcher.utter_message('ChatGPT (custom_action): ' + get_answers_from_chatgpt(user_text))
-        event_data = {
-            "type": "chatgpt_response",
-            "data": 'ChatGPT (custom_action): ' + get_answers_from_chatgpt(user_text)
-        }
-
-        # Emit the custom event
-        dispatcher.utter_message(json_message=event_data)
-
+        dispatcher.utter_message('ChatGPT (custom_action): ' + get_answers_from_chatgpt(user_text))
         return []
     
 class Simple_Google_sheet_or_ChatGPT_Action(Action):
-
-    """Rasa action to parse user text and pulls a corresponding answer 
-    from google sheet based on the intent and entities.
-    If there is no answer in the google sheet, it will use the ChatGPT API"""
-
     def name(self) -> Text:
         return "simple_google_sheet_or_chatgpt_action" 
-        # return "action_gpt_default_fallback" 
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-
-        # Get the latest user text and intent
         user_text = tracker.latest_message.get('text')
         intent = tracker.latest_message.get('intent').get('name')
         entities = tracker.latest_message.get('entities')
-        
-        # Dispatch the response from OpenAI to the user
-        event_data = {
-            "type": "chatgpt_response",
-            "data": 'Google Sheets (custom_action): ' + str(self.get_answers_from_sheets(intent, entities, user_text))
-        }
-
-        # Emit the custom event
-        # dispatcher.utter_message(json_message=event_data)
         dispatcher.utter_message('Google Sheets (custom_action): ' + str(self.get_answers_from_sheets(intent, entities, user_text)))
 
         return []
@@ -108,10 +78,7 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
 
         GOOGLE_SHEET_URL = f"https://docs.google.com/spreadsheets/d/{sheet_url}/export?format=csv&gid=0"
         s = requests.get(GOOGLE_SHEET_URL).content
-        
-        # Read the contents of the URL as a CSV file and store it in a dataframe
         proxy_df = pd.read_csv(io.StringIO(s.decode('utf-8')))        
-        
         if entity:
             # Filter the dataframe by the intent column and retrieve the answer list
             filtered_df = proxy_df[(proxy_df['intent'] == intent) & (proxy_df['entity'] == entity[0]['value'])]
@@ -123,8 +90,6 @@ class Simple_Google_sheet_or_ChatGPT_Action(Action):
                 answer = random.choice(answers)
         else:
             answer = get_answers_from_chatgpt(user_text)
-
-        # Return the answer list
         return answer
 class ActionAskBook(Action):
     def name(self) -> Text:
@@ -135,9 +100,9 @@ class ActionAskBook(Action):
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         user_text = tracker.latest_message.get('text')
         entities = tracker.latest_message.get('entities')
-        response =  answerMe(user_text +"?, nếu có hãy chỉ trả lời id của quyển sách, nếu không hãy chỉ trả lời -1")
+        response =  str (answerMe(user_text +"?, nếu có hãy chỉ trả lời id của quyển sách, nếu không hãy chỉ trả lời -1") )
         print(entities, response)
-        if response  != '-1':
+        if len(response) > 5 :
             sio.emit("sendDataClient", '/product/' + response)
             dispatcher.utter_message(text="Shop có quyển đấy, không biết đây có phải sách bạn cần tìm !!!" )
         else:
@@ -172,21 +137,21 @@ class ActionVỉewCart(Action):
         dispatcher.utter_message(text="Đây là giỏ hàng của bạn" )
         return [] 
 
-class ActionAddBookToCart(Action):
-    def name(self) -> Text:
-        return "action_them_sach_vao_gio"
+# class ActionAddBookToCart(Action):
+#     def name(self) -> Text:
+#         return "action_them_sach_vao_gio"
 
-    def run(self, dispatcher: CollectingDispatcher,
-                tracker: Tracker,
-                domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        user_text = tracker.latest_message.get('text')
-        entities = tracker.latest_message.get('entities')
-        bookId = tracker.get_slot('book_name')
-        print(bookId, entities)
-        # sio.emit("sendDataClient", '/cart')
-        dispatcher.utter_message(text='nothing' )
-        return [] 
+#     def run(self, dispatcher: CollectingDispatcher,
+#                 tracker: Tracker,
+#                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+#         user_text = tracker.latest_message.get('text')
+#         entities = tracker.latest_message.get('entities')
+#         bookId = tracker.get_slot('book_name')
+#         print(bookId, entities)
+#         # sio.emit("sendDataClient", '/cart')
+#         dispatcher.utter_message(text='nothing' )
+#         return [] 
 
 # user_text = "quyển Để con được ốm bao nhiêu tiền ?" 
 # print(user_text)
-# print(get_answers_from_chatgpt(user_text))
+# print(get_answers_from_chatgpt('quyển sách nào đắt nhất'))

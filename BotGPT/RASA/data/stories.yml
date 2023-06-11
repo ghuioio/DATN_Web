@@ -29,15 +29,6 @@ stories:
     - intent: tam_biet
     - action: utter_tam_biet
 
-- story: them sach vao gio
-  steps:
-    - intent: chao
-    - action: utter_chao
-    - intent: hoi_sach
-    - action: action_hoi_sach
-    - intent: them_sach_vao_gio
-    - action: action_them_sach_vao_gio
-
 - story: xem gio hang
   steps:
     - intent: chao

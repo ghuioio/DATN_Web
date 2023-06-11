@@ -79,16 +79,6 @@ nlu:
     - tôi đang tìm đọc [Sách giáo khoa](category), có gợi ý nào cho tôi không?
     - có những quyển sách nào thuộc thể loại [Sách y học](category)?
 
-- intent: them_sach_vao_gio
-  examples: |
-    - cho tôi mua [một] (quality) quyển [Nhà giả kim](book_name)
-    - thêm vào giỏ hàng [một] (quality) quyển sách [nghĩ giàu làm giàu](book_name)
-    - tôi muốn mua [ba] (quality) cuốn [Con Mình Chẳng Lẽ Lại Vứt](book_name), hãy đặt vào giỏ hàng giúp tôi
-    - cho tôi thêm [bốn] (quality) cuốn sách [Rèn Luyện Tư Duy Phản Biện](book_name) vào giỏ hàng
-    - mua [năm] (quality) quyển sách [Mbappé - Cậu Bé Vàng](book_name)
-    - mua [1] (quality) quyển 
-    - mua cho tôi [2] (quality) cuốn
-    
 - intent: xem_gio_hang
   examples: |
     - xem giỏ hàng của tôi
