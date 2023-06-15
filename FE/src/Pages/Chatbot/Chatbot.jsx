@@ -5,6 +5,7 @@ import ChatBot from 'react-simple-chatbot';
 import { ThemeProvider } from 'styled-components';
 import axios from 'axios';
 import React, { useState } from 'react';
+import { v4 as uuidv4 } from 'uuid';
 const useStyles = makeStyles((theme) => ({
   root: {
     position: 'fixed',
@@ -12,15 +13,6 @@ const useStyles = makeStyles((theme) => ({
     bottom: theme.spacing(3),
     zIndex: 1004
   },
-  // conversation: {
-  //   height: theme.spacing(50),
-  //   padding: theme.spacing(1),
-  //   border: `1px solid ${theme.palette.divider}`,
-  //   borderRadius: theme.shape.borderRadius,
-  //   overflowY: 'auto',
-  //   boxShadow: theme.shadows[3],
-  //   marginBottom: theme.spacing(1),
-  // },
   button: {
     color: theme.palette.common.white,
     backgroundColor: theme.palette.primary.main,
@@ -46,39 +38,41 @@ const config = {
   floating: true,
 };
 
-const steps = [
+const initialSteps = [
   {
     id: '1',
     message: 'What do you want to ask?',
-    trigger: 'userQuery',
+    trigger: 'get-user-input',
   },
   {
-    id: 'userQuery',
+    id: 'get-user-input',
     user: true,
-    trigger: '3',
+    trigger: 'process-user-input',
   },
   {
-    id: '3',
+    id: 'process-user-input',
     component: <RasaComponent />,
     asMessage: true,
     waitAction: true,
-    trigger: '1'
+    trigger: '1',
   },
 ];
 
+// RasaComponent
 function RasaComponent(props) {
   const [response, setResponse] = useState('');
-  const [triggered, setTriggered] = useState(false);
+  const { previousStep, triggerNextStep } = props;
+
   React.useEffect(() => {
     const fetchData = async () => {
       const message = {
         sender: 'test',
-        message: props.steps.userQuery.message
+        message: previousStep.value,
       };
 
       const headers = {
         'Content-Type': 'application/json',
-        'Accept': 'application/json'
+        'Accept': 'application/json',
       };
 
       const rasa_url = 'http://localhost:5005/webhooks/rest/webhook';
@@ -87,50 +81,54 @@ function RasaComponent(props) {
         const res = await axios.post(rasa_url, message, { headers });
         const botMessage = res.data[0]?.text || 'Sorry, I did not understand.';
         setResponse(botMessage);
+        triggerNextStep();
       } catch (error) {
         console.error(error);
         setResponse("Error: Unable to connect to the bot service.");
+        triggerNextStep();
       }
     };
 
     fetchData();
-  }, [props.steps.userQuery.message]); 
+  }, [previousStep, triggerNextStep]);
 
-  React.useEffect(() => {
-      if (response !== null && !triggered) {
-          props.triggerNextStep();
-          setTriggered(true); // Update the triggered state to prevent retriggering
-      }
-  }, [response, triggered]);
   return <>{response}</>;
 }
 
-
+// Chatbot component
 const Chatbot = () => {
   const classes = useStyles();
   const [open, setOpen] = useState(false);
+  const [steps, setSteps] = useState(initialSteps);
 
-  const handleOpen = () => {
-    setOpen(true);
-  };
-
-  const handleClose = () => {
-    setOpen(false);
+  const handleEnd = ({ values, steps }) => {
+    const newId = uuidv4();
+    setSteps(prevSteps => [
+      ...prevSteps,
+      { id: newId, user: true, trigger: `process-${newId}` },
+      {
+        id: `process-${newId}`,
+        component: <RasaComponent />,
+        asMessage: true,
+        waitAction: true,
+        trigger: newId,
+      },
+    ]);
   };
 
   return (
     <div className={classes.root}>
       <Box className={classes.conversation}>
-          <ThemeProvider theme={theme}>
-            <ChatBot
-              headerTitle="Book&Chill"
-              steps={steps}
-              {...config}
-              opened={open}
-              onClose={handleClose}
-            />
-          </ThemeProvider>
-        </Box>
+        <ThemeProvider theme={theme}>
+          <ChatBot
+            steps={steps}
+            handleEnd={handleEnd}
+            {...config}
+            opened={open}
+            // onClose={handleClose}
+          />
+        </ThemeProvider>
+      </Box>
     </div>
   );
 };

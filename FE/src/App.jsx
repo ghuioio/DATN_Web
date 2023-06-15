@@ -34,7 +34,6 @@ import ChinhSachBaoMat from './Layouts/Footer/ChinhSachBaoMat'
 import GioiThieu from './Layouts/Footer/GioiThieu'
 import StatPage from "./Pages/AdminPage/StatPage/StatPage"
 import Chatbot from "./Pages/Chatbot/Chatbot"
-// import Chatbot from "./Pages/Chatbot/ChatbotRCK/Chatbot"
 import { WebsocketContext} from './socket';
 const useStyles = makeStyles((theme) => ({
   app: {
