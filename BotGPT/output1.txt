@@ -1,0 +1,2318 @@
+_id: 6294784b498c7a6524551c35
+Amount: 101
+Author: NXB Văn Học
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Tất cả những trải nghiệm trong chuyến phiêu du theo đuổi vận mệnh của mình đã giúp Santiago thấu hiểu được ý nghĩa sâu xa nhất của hạnh phúc, hòa hợp với vũ trụ và con người.
+Manufacturer: NXB Trẻ
+Tên sách: Nhà giả kim 
+Number of Pages: 350
+Price: 192000
+Publication Date: 2020
+Publisher: NXB Hội Nhà Văn
+Average Stars: 4.25
+Total Votes: 4
+Total Stars: 17
+
+_id: 62947db18d775c0116971553
+Amount: 101
+Author: Koyoharu Gotouge
+Book Cover: Bìa mềm
+Category: truyentranh
+Description: Trận chiến giữa nhóm Tanjiro và thủy tổ của loài quỷ - Kibutsuji Muzal đang dần ngã ngũ…!! Bốn loại thuốc của Tamayo đã làm Muzan suy yếu và dồn hắn vào đường cùng. Số phận của Tanjiro và Nezuko, cũng như toàn đội Diệt quỷ sẽ ra sao!? Trận chiến tưởng chừng vĩnh viễn cuối cùng cũng đi đến hồi kết!!
+Manufacturer: NXB Trẻ
+Tên sách: Thanh Gươm Diệt Quỷ - Kimetsu No Yaiba - Tập 23: Vượt Qua Tháng Năm, Sinh Mệnh Tỏa Rạng
+Number of Pages: 350
+Price: 25000
+Publication Date: 2021
+Publisher: NXB Kim Đồng
+Average Stars: 3
+Total Votes: 1
+Total Stars: 3
+
+_id: 62947e428d775c0116971558
+Amount: 50
+Author: Nhiều tác giả
+Book Cover: Bìa cứng
+Category: sachthieunhi
+Description: Tôi vẽ với 300 trang sách bao gồm những kỹ năng cơ bản cần có của một họa sĩ truyện tranh, từ tạo hình nhân vật, thiết kế bối cảnh, biểu cảm, các kỹ thuật diễn họa cho đến luật phối cảnh. Đây là một cuốn cẩm nang tuyệt vời dành cho các bạn đang bắt đầu học vẽ truyện tranh. Những kiến thức này có thể không giúp các bạn vẽ đẹp ngay lập tức nhưng sẽ là nền tảng vững chắc giúp bạn hình thành các tiêu chuẩn chuyên nghiệp trong nghề và không mất thời gian tự mò mẫm. Phần minh họa cho các bài học cũng rất hấp dẫn và sáng tạo. Các tác giả đã sử dụng chính nhân vật và trang truyện của mình để làm rõ sự liên quan giữa lý thuyết và thực tế, tính ứng dụng rõ ràng của các kỹ thuật và quy trình sáng tác.
+Manufacturer: Đông Á
+Tên sách: Tôi Vẽ - Phương Pháp Tự Học Vẽ Truyện Tranh
+Number of Pages: 350
+Price: 77000
+Publication Date: 2020
+Publisher: Đông A
+Average Stars: 4.5
+Total Votes: 2
+Total Stars: 9
+
+_id: 629481c664224ee2043fbfdd
+Amount: 50
+Author: Napoleon Hill
+Book Cover: Bìa cứng
+Category: sachkinhte
+Description: Think and Grow Rich - Nghĩ giàu và làm giàu là một trong những cuốn sách bán chạy nhất mọi thời đại. Đã hơn 60 triệu bản được phát hành với gần trăm ngôn ngữ trên toàn thế giới và được công nhận là cuốn sách tạo ra nhiều triệu phú, một cuốn sách truyền cảm hứng thành công nhiều hơn bất cứ cuốn sách kinh doanh nào trong lịch sử.
+Manufacturer: Nhã Nam
+Tên sách: Nghĩ Giàu Làm Giàu
+Number of Pages: 350
+Price: 88000
+Publication Date: 2020
+Publisher: NXB Tổng Hợp TPHCM
+Average Stars: 4
+Total Votes: 1
+Total Stars: 4
+
+_id: 6294827764224ee2043fbfe0
+Amount: 50
+Author: Nguyễn Dương
+Book Cover: Bìa cứng
+Category: sachkinhte
+Description: Bạn đang cầm trên tay cuốn sách Trải nghiệm khách hàng xuất sắc được viết từ hơn 22 năm kinh nghiệm, qua nhiều vị trí, môi trường khác nhau của ông Nguyễn Dương, một chuyên gia cấp quốc tế, một trong những người nhiệt huyết và chuyên sâu nhất về trải nghiệm khách hàng.
+Manufacturer: Nhã Nam
+Tên sách: Trải Nghiệm Khách Hàng Xuất Sắc
+Number of Pages: 350
+Price: 200000
+Publication Date: 2020
+Publisher: NXB Thế Giới
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 6294832a64224ee2043fbfe3
+Amount: 50
+Author: Bộ Giáo Dục Và Đào Tạo
+Book Cover: Bìa cứng
+Category: sachgiaokhoa
+Description: Hoá Học 11 - Nâng Cao (2020)
+Manufacturer: Nhã Nam
+Tên sách: Hoá Học 11 - Nâng Cao
+Number of Pages: 350
+Price: 23000
+Publication Date: 2020
+Publisher: NXB Giáo Dục Việt Nam
+Average Stars: 
+Total Votes: 
+Total Stars: 
+
+_id: 6294836764224ee2043fbfe6
+Amount: 50
+Author: Bộ Giáo Dục Và Đào Tạo
+Book Cover: Bìa cứng
+Category: sachgiaokhoa
+Description: Hoá Học 11 - Nâng Cao (2020)
+Manufacturer: Nhã Nam
+Tên sách: Atlat Địa Lí Việt Nam
+Number of Pages: 350
+Price: 31000
+Publication Date: 2020
+Publisher: NXB Giáo Dục Việt Nam
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 6294843664224ee2043fbfe9
+Amount: 47
+Author: William B Irvine
+Book Cover: Bìa mềm
+Category: sachkynangsong
+Description: Bạn mong muốn điều gì từ cuộc sống này? Có thể câu trả lời của bạn là muốn có một người bạn đời biết quan tâm, một công việc tốt và một ngôi nhà đẹp, nhưng chúng thực ra chỉ là một số thứ bạn muốn có trong cuộc sống. Khi hỏi bạn mong muốn điều gì từ cuộc sống này, tôi đang hỏi theo nghĩa rộng nhất. Tôi không hỏi về những mục tiêu mà bạn đề ra khi thực hiện các hoạt động hằng ngày, mà tôi đang hỏi về mục tiêu lớn lao trong cuộc sống của bạn. Nói cách khác, trong số những thứ bạn có thể theo đuổi trong cuộc sống, thứ nào bạn tin là có giá trị nhất?
+Manufacturer: Nhã Nam
+Tên sách: Chủ Nghĩa Khắc Kỷ - Phong Cách Sống Bản Lĩnh Và Bình Thản
+Number of Pages: 400
+Price: 100000
+Publication Date: 2019
+Publisher: NXB Công Thương
+Average Stars: 5
+Total Votes: 2
+Total Stars: 10
+
+_id: 6294851964224ee2043fbfec
+Amount: 50
+Author: Vũ Hải
+Book Cover: Bìa cứng
+Category: sachngoaingu
+Description: Bạn đang chuẩn bị thi IELTs mà chưa biết bắt đầu từ đâu? Vốn từ vựng còn thiếu hay cách diễn đạt còn gượng gạo, chưa mượt mà và tự nhiên là điểm yếu của bạn?.Cuốn No Vocab – No Worries sẽ giúp bạn “hóa giải” những trở ngại trên con đường chinh phục đỉnh cao IELTs. Cuốn sách được in màu với những hình minh họa sinh động, đề cập đến nhiều chủ đề khác nhau trong các đề thi thực của IELTs giúp thí sinh nâng cao vốn từ vựng cần thiết và lối tư duy để nảy ra ý tưởng và ứng biến với mọi trường hợp, mọi câu hỏi. Những mẹo nhỏ cũng được tác giả chọn lọc và trình bày ngắn gọn, dễ hiểu. Đây quả là một cuốn sách thiết thực mà bất cứ ai trên hành trình chinh phục tấm chứng chỉ IELTS cũng nên sở hữu cho mình một cuốn.
+Manufacturer: Nhã Nam
+Tên sách: No Vocab - No Worries
+Number of Pages: 350
+Price: 104000
+Publication Date: 2020
+Publisher: NXB Đại học Kinh tế quốc dân
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 6294862264224ee2043fbfef
+Amount: 50
+Author: Son Heung Min
+Book Cover: Bìa cứng
+Category: sachthethao
+Description: Cuốn hồi kí gồm 30 chương kể về hành trình của Son Heung-min từ một cậu bé mê bóng đá ở vùng quê Chuncheon (Hàn Quốc) cho đến khi trở thành chân sút đáng gờm ở giải Ngoại hạng Anh. Kèm theo đó là 6 câu chuyện được kể qua ảnh và nhiều trang infographic thống kê, ghi lại những kỉ lục, thành tích đáng nể của cầu thủ. 
+Manufacturer: Đông A
+Tên sách: Hồi Kí Bóng Đá Của Son Heung Min: Đường Đến Châu Âu
+Number of Pages: 350
+Price: 160000
+Publication Date: 2020
+Publisher: NXB Kim Đồng
+Average Stars: 
+Total Votes: 
+Total Stars: 
+
+_id: 6294869b64224ee2043fbff2
+Amount: 50
+Author: Rasmus Hoài Nam
+Book Cover: Bìa cứng
+Category: sachcongnghe
+Description: Cuốn sách nói về cuộc đời đầy biến cố và những công trình khoa học vĩ đại của Newton. Cuộc đời Newton trải qua nhiều thăng trầm, tuy nhiên những khó khăn chưa bao giờ khiến ông lùi bước. Không phải nghiên cứu nào của ông cũng đạt được thành quả ngay lập tức mà cần trải qua một quá trình lâu dài, đòi hỏi sự hi sinh và thời gian để ghi nhận.
+Manufacturer: Nhã Nam
+Tên sách: Isaac Newton - Nhà Khoa Học Vĩ Đại
+Number of Pages: 350
+Price: 33000
+Publication Date: 2020
+Publisher: NXB Thanh Niên
+Average Stars: 
+Total Votes: 
+Total Stars: 
+
+_id: 6294876164224ee2043fbff5
+Amount: 50
+Author: DR Cherry Vũ
+Book Cover: Bìa cứng
+Category: sachbame
+Description: Qua cuốn sách này, ba tác giả muốn truyền tải đến các bậc phụ huynh thông điệp: Con bạn đang sống trong một thế giới mà bạn không thể tưởng tượng được khi ở độ tuổi của chúng. Những cách làm cha mẹ hiệu quả của thế hệ trước sẽ không còn hiệu quả nữa. Bạn không biết điều gì mới là quan trọng với con mình, bạn cũng không hiểu những giá trị của chúng. Việc cố gắng áp dụng các kỹ thuật kiểm soát và trừng phạt của cha mẹ truyền thống sẽ chỉ tạo ra những đứa trẻ không hạnh phúc, thậm chí gây tổn hại đến sức khỏe tâm thần của chúng.
+Manufacturer: Đông A
+Tên sách: Con Mình Chẳng Lẽ Lại Vứt
+Number of Pages: 350
+Price: 122000
+Publication Date: 2020
+Publisher: NXB Thế Giới
+Average Stars: 
+Total Votes: 
+Total Stars: 
+
+_id: 629488ae64224ee2043fbff8
+Amount: 50
+Author: BS Trí Đoàn
+Book Cover: Bìa cứng
+Category: sachdaycon
+Description: Để con được ốm có thể coi là một cuốn nhật ký học làm mẹ thông qua những câu chuyện từ trải nghiệm thực tế mà chị Uyên Bùi đã trải qua từ khi mang thai đến khi em bé chào đời và trở thành một cô bé khỏe mạnh, vui vẻ. Cùng với những câu chuyện nhỏ thú vị của người mẹ là lời khuyên mang tính chuyên môn, giải đáp cụ thể từ bác sỹ Nguyễn Trí Đoàn, giúp hóa giải những hiểu lầm từ kinh nghiệm dân gian được truyền lại, cũng như lý giải một cách khoa học những thông tin chưa đúng đắn đang được lưu truyền hiện nay, mang đến góc nhìn đúng đắn nhất cho mỗi hiện tượng, sự việc với những kiến thức y khoa hiện đại được cập nhật liên tục. Cuốn sách sẽ giúp các bậc phụ huynh trang bị một số kiến thức cơ bản trong việc chăm sóc trẻ một cách khoa học và góp phần giúp các mẹ và những-người-sẽ-là-mẹ trở nên tự tin hơn trong việc chăm con, xua tan đi những lo lắng, để mỗi em bé ra đời đều được hưởng sự chăm sóc tốt nhất.
+Manufacturer: Đông A
+Tên sách: Để Con Được Ốm
+Number of Pages: 350
+Price: 76000
+Publication Date: 2020
+Publisher: NXB Thế Giới
+Average Stars: 
+Total Votes: 
+Total Stars: 
+
+_id: 629489e0bfc748518b31f44f
+Amount: 49
+Author: Ashlee Vance
+Book Cover: Bìa cứng
+Category: sachkinhte
+Description: Trong cuốn Elon Musk: Tesla, SpaceX và sứ mệnh tìm kiếm một tương lai ngoài sức tưởng tượng, nhà báo công nghệ kỳ cựu Ashlee Vance đã mở cánh cửa đầu tiền nhìn vào cuộc sống phi thường của doanh nhân táo bạo nhất thung lũng Silicon. Được viết với độc quyền tiếp cận Musk, gia đình và bạn bè anh, cuốn sách lần theo cuộc hành trình của doanh nhân này, từ thuở nhỏ được nuôi dạy ở Nam Phi đến khi lên đến đỉnh cao của giới kinh doanh toàn cầu. Vance dành hơn 30 giờ trò chuyện với Musk và phỏng vấn gần 300 người để kể những câu chuyện đầy biến động về các công ty đang làm thay đổi thế giới mà Musk thành lập: PayPal, Tesla Motors, SpaceX và SolarCity, và để mô tả một người đàn ông đã tạo sức sống mới cho ngành công nghiệp Mỹ và thổi bùng tinh thần đổi mới ở một cấp độ khác, trong khi cũng tạo nên không ít kẻ thù trên con đường đó.
+Manufacturer: Nhã Nam
+Tên sách: Elon Musk: Tesla, Spacex Và Sứ Mệnh Tìm Kiếm Một Tương Lai Ngoài Sức Tưởng Tượng
+Number of Pages: 350
+Price: 191000
+Publication Date: 2020
+Publisher: NXB Thế Giới
+Average Stars: 5
+Total Votes: 2
+Total Stars: 10
+
+_id: 62948bdabfc748518b31f452
+Amount: 50
+Author: Sam Smith
+Book Cover: Bìa cứng
+Category: sachthieunhi
+Description: Bộ sách MÊ CUNG PHÁT TRIỂN TƯ DUY đúng như tên gọi Chính của các tập sách, giúp trẻ phát triển rất nhiều kĩ năng thông qua việc tìm đường đi trong mê cung.
+Manufacturer: Nhã Nam
+Tên sách: Mê Cung Phát Triển Tư Duy - Khám Phá Thế Giới
+Number of Pages: 350
+Price: 69000
+Publication Date: 2020
+Publisher: NXB Phụ Nữ
+Average Stars: 
+Total Votes: 
+Total Stars: 
+
+_id: 62948c6abfc748518b31f455
+Amount: 50
+Author: A Crazy Mind
+Book Cover: Bìa cứng
+Category:  sachvanhoc
+Description: Cuốn sách là tập hợp những câu chuyện có thật của những số phận khác nhau đang gặp phải các vấn đề về tâm lý: trầm cảm, rối loạn lo âu, rối loạn lưỡng cực… và những người đang học tập và làm việc trong ngành tâm lý học. 
+Manufacturer: Nhã Nam
+Tên sách: Những Đêm Không Ngủ Những Ngày Chậm Trôi
+Number of Pages: 350
+Price: 169000
+Publication Date: 2020
+Publisher: AZ Việt Nam
+Average Stars: 
+Total Votes: 
+Total Stars: 
+
+_id: 62948fdbbfc748518b31f45b
+Amount: 49
+Author: Gosho Aoyama
+Book Cover: Bìa cứng
+Category: truyentranh
+Description: Chuyện gì đã xảy ra trên cầu Vauxhall ở London…? Bí ẩn bao trùm hai mẹ con Mary và Masumi Sera sẽ được làm sáng tỏ trong chương phá giải vụ án đầu độc tại bữa tiệc của người mẫu!. Tìm đến nơi Kazami đang lâm nạn, Toru Amuro tình cờ gặp Conan và nhóm thám tử nhí rồi bước vào vụ án giam cầm ở trang trại chăn nuôi! Tại đây, anh cũng chạm trán Rumi Wakasa - người đã dẫn bọn trẻ tới…!?
+Manufacturer: Nhã Nam
+Tên sách: Thám Tử Lừng Danh Conan - Tập 99
+Number of Pages: 350
+Price: 20000
+Publication Date: 2020
+Publisher: NXB Kim Đồng
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 62949093bfc748518b31f45e
+Amount: 50
+Author: Kosaku Anakubo
+Book Cover: Bìa cứng
+Category: truyentranh
+Description: Ông tổ của làng truyện hài Pokémon nay đã chính thức oanh tạc thế giới của HGSS! Lần này sẽ là vùng Johto!!. Cả nhóm liên tục tìm kiếm các cơ hội học hỏi kĩ năng mới trong HGSS, thậm chí còn nhiệt tình tham gia quyết đấu Pokémon 3 môn phối hợp, mặc sức quậy tưng cả thành phố mà chẳng buồn để tâm luật lệ là thế nào...
+Manufacturer: Nhã Nam
+Tên sách: Pokémon - Cuộc Phiêu Lưu Của Pippi Hg.Ss Heartgold.Soulsilver - Tập 1
+Number of Pages: 350
+Price: 22000
+Publication Date: 2020
+Publisher: NXB Kim Đồng
+Average Stars: 
+Total Votes: 
+Total Stars: 
+
+_id: 6294915cbfc748518b31f461
+Amount: 50
+Author: Thảo Nguyên
+Book Cover: Bìa mềm
+Category: sachngoaingu
+Description: Đây là bộ tài liệu được biên soạn kỹ lưỡng nhằm giúp người học có thể nhanh chóng nắm vững bộ vần 46 ký tự Hiragana và Katakana, hai bộ vần căn bản của tiếng Nhật. Bộ sách Tự học viết tiếng Nhật căn bản (Hiragana & Katakana) được biên soạn khoa học, hình thức trình bày hấp dẫn, dễ tiếp cận và nhấn mạnh vào vai trò chủ động của học viên nhắm giúp học viên dễ dàng học cách viết đẹp và nhanh 46 mẫu tự trong hai bộ vần Hiragana và Katakana.
+Manufacturer: Nhã Nam
+Tên sách: Tập Viết Tiếng Nhật Hiragana
+Number of Pages: 400
+Price: 32000
+Publication Date: 2019
+Publisher: NXB Dân Trí
+Average Stars: 
+Total Votes: 
+Total Stars: 
+
+_id: 629c74ea94d4f89fd8bc733c
+Amount: 38
+Author: José Mauro de Vasconcelos
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Mở đầu bằng những thanh âm trong sáng và kết thúc lắng lại trong những nốt trầm hoài niệm, Cây cam ngọt của tôi khiến ta nhận ra vẻ đẹp thực sự của cuộc sống đến từ những điều giản dị như bông hoa trắng của cái cây sau nhà, và rằng cuộc đời thật khốn khổ nếu thiếu đi lòng yêu thương và niềm trắc ẩn. Cuốn sách kinh điển này bởi thế không ngừng khiến trái tim người đọc khắp thế giới thổn thức, kể từ khi ra mắt lần đầu năm 1968 tại Brazil.
+Manufacturer: Nhã Nam
+Tên sách: Cây Cam Ngọt Của Tôi
+Number of Pages: 350
+Price: 108000
+Publication Date: 2020
+Publisher: NXB Hội Nhà Văn
+Average Stars: 4.333333333333333
+Total Votes: 3
+Total Stars: 13
+
+_id: 629c771894d4f89fd8bc7351
+Amount: 88
+Author: Nguyễn Nhật Ánh
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Trong Cho tôi xin một vé đi tuổi thơ, nhà văn Nguyễn Nhật Ánh mời người đọc lên chuyến tàu quay ngược trở lại thăm tuổi thơ và tình bạn dễ thương của 4 bạn nhỏ. Những trò chơi dễ thương thời bé, tính cách thật thà, thẳng thắn một cách thông minh và dại dột, những ước mơ tự do trong lòng… khiến cuốn sách có thể làm các bậc phụ huynh lo lắng rồi thở phào. Không chỉ thích hợp với người đọc trẻ, cuốn sách còn có thể hấp dẫn và thực sự có ích cho người lớn trong quan hệ với con mình.
+Manufacturer: Nhã Nam
+Tên sách: Cho Tôi Xin Một Vé Đi Tuổi Thơ 
+Number of Pages: 350
+Price: 90000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 4
+Total Votes: 2
+Total Stars: 8
+
+_id: 629c77fb94d4f89fd8bc7357
+Amount: 49
+Author: André Aciman
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Trong Cho tôi xin một vé đi tuổi thơ, nhà văn Nguyễn Nhật Ánh mời người đọc lên chuyến tàu quay ngược trở lại thăm tuổi thơ và tình bạn dễ thương của 4 bạn nhỏ. Những trò chơi dễ thương thời bé, tính cách thật thà, thẳng thắn một cách thông minh và dại dột, những ước mơ tự do trong lòng… khiến cuốn sách có thể làm các bậc phụ huynh lo lắng rồi thở phào. Không chỉ thích hợp với người đọc trẻ, cuốn sách còn có thể hấp dẫn và thực sự có ích cho người lớn trong quan hệ với con mình.
+Manufacturer: Nhã Nam
+Tên sách: Tìm Em Nơi Anh - Find Me
+Number of Pages: 350
+Price: 80000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 4
+Total Votes: 3
+Total Stars: 12
+
+_id: 629f54cda8aaf1190391c0df
+Amount: 50
+Author: Nguyễn Nhật Ánh
+Book Cover: Bìa mềm
+Category: sachvanhoc
+Description: Tác phẩm gồm 20 truyện ngắn về những chuyện của người lớn dưới con mắt nhìn của tuổi mới lớn. Văn phong dí dỏm cuốn hút người đọc.
+Manufacturer: Nhã Nam
+Tên sách: Chuyện Cổ Tích Dành Cho Người Lớn 
+Number of Pages: 400
+Price: 43000
+Publication Date: 2019
+Publisher: NXB Trẻ
+Average Stars: 3.5
+Total Votes: 2
+Total Stars: 7
+
+_id: 629f554ea8aaf1190391c0e2
+Amount: 50
+Author: :Khotudien
+Book Cover: Bìa mềm
+Category: sachvanhoc
+Description: Tác phẩm gồm 20 truyện ngắn về những chuyện của người lớn dưới con mắt nhìn của tuổi mới lớn. Văn phong dí dỏm cuốn hút người đọc.
+Manufacturer: Nhã Nam
+Tên sách: Từ Điển Tiếng “Em” 
+Number of Pages: 350
+Price: 43000
+Publication Date: 2021
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 629f55ada8aaf1190391c0e5
+Amount: 47
+Author: Nguyễn Nhật Ánh
+Book Cover: Bìa mềm
+Category: sachvanhoc
+Description: Kể về mối tình đầu trong sáng của một cậu học trò dành cho một cô gái quê 16 tuổi trong dịp về quê nghỉ hè, và những việc làm cao đẹp của cậu cho em bé quê chân chất chịu nhiều thiệt thòi ở nông thôn. Chuyện nhiều hình ảnh, dễ thương và trong sáng… vẫn không thiếu những “pha” thú vị cho ta những tiếng cười sảng khoái.
+Manufacturer: Nhã Nam
+Tên sách: Hạ Đỏ
+Number of Pages: 520
+Price: 49000
+Publication Date: 2018
+Publisher: NXB Trẻ
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 629f5641a8aaf1190391c0e8
+Amount: 50
+Author: Harper Lee
+Book Cover: Bìa mềm
+Category: sachvanhoc
+Description: Nào, hãy mở cuốn sách này ra. Bạn phải làm quen ngay với bố Atticus của hai anh em - Jem và Scout, ông bố luật sư có một cách riêng, để những đứa trẻ của mình cứng cáp và vững vàng hơn khi đón nhận những bức xúc không sao hiểu nổi trong cuộc sống. Bạn sẽ nhớ rất lâu người đàn ông thích trốn trong nhà Boo Radley, kẻ bị đám đông coi là lập dị đã chọn một cách rất riêng để gửi những món quà nhỏ cho Jem và Scout, và khi chúng lâm nguy, đã đột nhiên xuất hiện để che chở. Và tất nhiên, bạn không thể bỏ qua anh chàng Tom Robinson, kẻ bị kết án tử hình vì tội hãm hiếp một cô gái da trắng, sự thật thà và suy nghĩ quá đỗi đơn giản của anh lại dẫn đến một cái kết hết sức đau lòng, chỉ vì lý do anh là một người da đen.
+Manufacturer: Nhã Nam
+Tên sách: Giết Con Chim Nhại
+Number of Pages: 400
+Price: 99000
+Publication Date: 2019
+Publisher: NXB Trẻ
+Average Stars: 3
+Total Votes: 2
+Total Stars: 6
+
+_id: 629f56ffa8aaf1190391c0eb
+Amount: 50
+Author: Thương Thái Vi
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Nào, hãy mở cuốn sách này ra. Bạn phải làm quen ngay với bố Atticus của hai anh em - Jem và Scout, ông bố luật sư có một cách riêng, để những đứa trẻ của mình cứng cáp và vững vàng hơn khi đón nhận những bức xúc không sao hiểu nổi trong cuộc sống. Bạn sẽ nhớ rất lâu người đàn ông thích trốn trong nhà Boo Radley, kẻ bị đám đông coi là lập dị đã chọn một cách rất riêng để gửi những món quà nhỏ cho Jem và Scout, và khi chúng lâm nguy, đã đột nhiên xuất hiện để che chở. Và tất nhiên, bạn không thể bỏ qua anh chàng Tom Robinson, kẻ bị kết án tử hình vì tội hãm hiếp một cô gái da trắng, sự thật thà và suy nghĩ quá đỗi đơn giản của anh lại dẫn đến một cái kết hết sức đau lòng, chỉ vì lý do anh là một người da đen.
+Manufacturer: Nhã Nam
+Tên sách: Bến Xe
+Number of Pages: 350
+Price: 99000
+Publication Date: 2020
+Publisher: NXB Văn Học
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 629f57d1a8aaf1190391c0ee
+Amount: 50
+Author: Kulzsc
+Book Cover: Bìa mềm
+Category: sachvanhoc
+Description: Sau thành công của cuốn sách đầu tay “Phải lòng với cô đơn” chàng họa sĩ nổi tiếng và tài năng Kulzsc đã trở lại với một cuốn sách vô cùng đặc biệt mang tên: "Tô bình yên - vẽ hạnh phúc” –  sắc nét phong cách cá nhân với một chút “thơ thẩn, rất hiền”.
+Manufacturer: Nhã Nam
+Tên sách: Tô Bình Yên Vẽ Hạnh Phúc
+Number of Pages: 350
+Price: 63000
+Publication Date: 2021
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 629f58daa8aaf1190391c0f1
+Amount: 35
+Author: Dae Ho Choi
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: ‘Lo lắng’ luôn là từ mang ý nghĩa chẳng mấy tốt đẹp. Tôi viết cuốn sách này với mong muốn từ nay về sau sẽ không có chuyện mình cứ lùi về phía sau mà không thể tiến lên phía trước chỉ vì cái nhìn hay những lời nói của người ngoài. Trên đời này mọi chuyện đều có thể lo lắng nhưng ngược lại, có những chuyện chẳng cần lo gì cũng được. Cuốn sách này chứa đựng phương pháp giảm bớt nỗi âu lo và những điều ta nhận ra sau khi gạt đi lo lắng. Chuyện của tôi, để tôi lo.
+Manufacturer: Đông A
+Tên sách: Chỉ Lo Chuyện Mình, Không Lo Chuyện Người 
+Number of Pages: 350
+Price: 81000
+Publication Date: 2020
+Publisher: NXB Văn Học
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 629f59d9a8aaf1190391c0f4
+Amount: 21
+Author: Liêu Hà Trinh
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Liêu Hà Trinh khắc hoạ một chữ “Thương” thật lớn qua “Giỏ Trái Cây”, ký gửi nỗi niềm của mình lên từng trang viết.Tôi, bạn và chúng ta - tất cả những con người đều chịu ít nhiều ảnh hưởng do biến động từ đại dịch. Dù là ở nghĩa bóng hay nghĩa đen, mỗi người đều cần cho mình 1 “Giỏ trái cây” để thân thể khoẻ mạnh, để tâm hồn sáng trong và nồng đượm mến thương.Đây cuốn sách chuyên chở sự tươi mát của năng lượng lạc quan, chia sẻ tinh thần ủi an, và ve vuốt nhẹ nhàng như một giỏ trái cây, một thùng rau củ chuyền tay nhau trong giai đoạn “thành phố bệnh”. Dù là táo, lê, cam, quýt, hay mâm cúng “cầu vừa đủ xài” (mãng cầu, dừa, đu đủ, xoài) thì quà tặng từ tấm lòng, với lời cầu mong sức khoẻ và bình an luôn cần thiết cho bất cứ ai, bất cứ đâu.
+Manufacturer: Đông A
+Tên sách: Giỏ Trái Cây
+Number of Pages: 350
+Price: 101000
+Publication Date: 2020
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 629f5b7ca8aaf1190391c0f9
+Amount: 19
+Author: Nguyễn Nhật Ánh
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Một thế giới mới đồng dạng cả tin, đầy những thứ giả tạo đẹp đẽ, nơi người ta đánh mất dần cá tính, sự hoài nghi, rung cảm, mất luôn cả bóng mình. Những con người không bóng, thì cô độc nào hơn?
+Manufacturer: Đông A
+Tên sách: Ra Bờ Suối Ngắm Hoa Kèn Hồng
+Number of Pages: 350
+Price: 130000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 2
+Total Votes: 1
+Total Stars: 2
+
+_id: 629f669e8c2bd1306373f815
+Amount: 33
+Author: Ploy
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Cuốn sách không chỉ có những nỗi đau, mà còn xen lẫn cả những kỷ niệm đẹp đẽ, trong sáng của tuổi thanh xuân. Rất có thể bạn sẽ thấy bóng dáng của mình trong mối tình ngây dại thuở học trò, như lần đầu tiên tặng hoa cho con gái hay khuôn mặt đỏ như trái cà chua lúc được người ấy lau bảng giúp.
+Manufacturer: Đông A
+Tên sách: Cô Gái Cãi Lời Thượng Đế
+Number of Pages: 350
+Price: 87000
+Publication Date: 2020
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 5
+Total Votes: 2
+Total Stars: 10
+
+_id: 629f679e8c2bd1306373f818
+Amount: 33
+Author: Liêu Hà Trinh
+Book Cover: Bìa mềm
+Category: sachvanhoc
+Description: Tiếp nối những cuộc trò chuyện thân mật, riêng tư và không kém phần dịu dàng từ cuốn sách Em mà Liêu Hà Trinh đã gửi gắm đến độc giả, là những lời bộc bạch được cô đọng tinh tế trong Anh.Nếu như Em là những lời thở than, những tâm tư trải dài từ tình yêu đến cuộc sống, những khao khát yêu đương cháy bỏng và cả những phút cô đơn đến ướt lòng thì Anh lại được Liêu Hà Trinh khoác cho mình một gam màu trầm trưởng thành và sâu lắng hơn.
+Manufacturer: Nhã Nam
+Tên sách: Anh
+Number of Pages: 350
+Price: 114000
+Publication Date: 2021
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 3.5
+Total Votes: 2
+Total Stars: 7
+
+_id: 629f68dd8c2bd1306373f81b
+Amount: 0
+Author: Thiên An
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Tiếp nối những cuộc trò chuyện thân mật, riêng tư và không kém phần dịu dàng từ cuốn sách Em mà Liêu Hà Trinh đã gửi gắm đến độc giả, là những lời bộc bạch được cô đọng tinh tế trong Anh.Nếu như Em là những lời thở than, những tâm tư trải dài từ tình yêu đến cuộc sống, những khao khát yêu đương cháy bỏng và cả những phút cô đơn đến ướt lòng thì Anh lại được Liêu Hà Trinh khoác cho mình một gam màu trầm trưởng thành và sâu lắng hơn.
+Manufacturer: Nhã Nam
+Tên sách: Tâm An Ắt Bình An
+Number of Pages: 350
+Price: 80000
+Publication Date: 2020
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 3.5
+Total Votes: 2
+Total Stars: 7
+
+_id: 629f69c48c2bd1306373f81e
+Amount: 18
+Author: Nguyên Bảo
+Book Cover: Bìa cứng
+Category: sachvanhoc
+Description: Cuốn sách là những dòng tản mạn về tình yêu trong quá khứ với nhiều day dứt và trân trọng. Đó là những câu chuyện không trọn vẹn, nhưng được kể lại khi mà vết xước ngày cũ đã thôi cồn cào. Nó như bức tâm thư mà tác giả gửi đến những đoạn ký ức đẹp, những hạnh phúc đã từng nếm trải.Người thương đã cũ còn hấp dẫn, thu hút bởi lời văn nhẹ nhàng, du dương, đặc biệt là rất đẹp. Cuốn sách khơi gợi những niềm tâm tư mà dường như không phải ai cũng có thể chia sẻ, những miền chỉ muốn cất giấu cho riêng mình.
+Manufacturer: Đông A
+Tên sách: Người Thương Đã Cũ
+Number of Pages: 350
+Price: 69000
+Publication Date: 2020
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 4.25
+Total Votes: 4
+Total Stars: 17
+
+_id: 62a1fe6f8801b54984b83451
+Amount: 48
+Author: Mark Gates
+Book Cover: Bìa cứng
+Category: sachkinhte
+Description: Blockchain được giới công nghệ đánh giá là phát kiến vĩ đại nhất sau khi mạng Internet ra đời. Ứng dụng phổ biến nhất của nó là các loại tiền điện tử nổi tiếng (Bitcoin, Ethereum, Ripple...) đang làm mưa làm gió trên thị trường. Nhưng nghịch lý là, lại rất ít người nắm được bản chất của tiền điện tử và Blockchain. Rốt cuộc, Blockchain là gì? Nó hoạt động như thế nào? Blockchain thật sự là một đột phá trong công nghệ hay chỉ là một trào lưu nhất thời? Blockchain có liên hệ như thế nào với Bitcoin? Liệu Blockchain có nắm giữ tiềm năng thay đổi thế giới?...
+Manufacturer: Đông A
+Tên sách: Blockchain - Bản Chất Của Blockchain, Bitcoin, Tiền Điện Tử, Hợp Đồng Thông Minh Và Tương Lai Của Tiền Tệ
+Number of Pages: 350
+Price: 66000
+Publication Date: 2020
+Publisher: NXB Lao Động
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 62a1febe8801b54984b83454
+Amount: 47
+Author: Og Mandino
+Book Cover: Bìa cứng
+Category: sachkinhte
+Description: Người Bán Hàng Vĩ Đại Nhất Thế Giới kể về câu chuyện của Hafid, một cậu bé chăn lạc đà nghèo, ở Jerusalem thời cổ đại.  Xuất thân là một cậu nhóc trông lạc đà cho đoàn buôn của Pathros, nhưng với quyết tâm đổi đời, muốn cải thiện vị trí của mình trong cuộc sống, Hafid luôn nuôi ước mơ được trở thành người bán hàng. Cậu tin chỉ như thế mình mới có cơ hội trở nên giàu có và thành công.
+Manufacturer: Nhã Nam
+Tên sách: Người Bán Hàng Vĩ Đại Nhất Thế Giới
+Number of Pages: 350
+Price: 69000
+Publication Date: 2020
+Publisher: NXB Tổng Hợp TPHCM
+Average Stars: 3.6666666666666665
+Total Votes: 3
+Total Stars: 11
+
+_id: 62a2002b8801b54984b83457
+Amount: 36
+Author: Geshe Michael Roach
+Book Cover: Bìa cứng
+Category: sachkinhte
+Description: Cuốn sách này là một câu chuyện về tác giả đã xây dựng đơn vị kim cương lại tại Andin International như thế nào khi sử dụng những nguyên tắc được thu thập từ trí tuệ xưa cổ của Phật giáo, từ cái không có gì thành một hoạt động khắp thế giới sinh nhiều triệu đô la mỗi năm. Phần lớn những quyết định và chính sách trong đơn vị của Tác giả trong suốt thời gian tác giả giữ chức Phó Chủ tịch đều được suy động bỏi những nguyên tắc mà bạn sẽ tìm thấy trong cuốn sách này.
+Manufacturer: Nhã Nam
+Tên sách: Năng Đoạn Kim Cương
+Number of Pages: 350
+Price: 77000
+Publication Date: 2020
+Publisher: NXB Tri Thức
+Average Stars: 2
+Total Votes: 1
+Total Stars: 2
+
+_id: 62a200f08801b54984b8345a
+Amount: 50
+Author: Dougal Dixon
+Book Cover: Bìa cứng
+Category: sachthieunhi
+Description: Đây là cuốn sách không thể thiếu dành cho những người yêu khủng long – một tài liệu hướng dẫn nhận diện 355 loài khủng long và động vật cùng thời, do chuyên gia chấp bút, và được minh họa theo kiến thức khoa học mới nhất.
+Manufacturer: Nhã Nam
+Tên sách: Bách Khoa Khủng Long Toàn Tập
+Number of Pages: 350
+Price: 246000
+Publication Date: 2020
+Publisher: NXB Tri Thức
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a201988801b54984b8345d
+Amount: 50
+Author: DK
+Book Cover: Bìa mềm
+Category: sachthieunhi
+Description: Cuốn sách khoa học đáng yêu cho các bạn nhỏ này tập hợp 100 câu hỏi về cuộc sống hàng ngày từ các bạn học sinh trên khắp thế giới gửi đến nhà khoa học Robert Winston. Cuốn sách cho chúng ta thấy sự tò mò chung của trẻ em đối với thế giới xung quanh qua những câu hỏi những thu thập từ trẻ em ở Vương quốc Anh, các nước Châu Âu khác, Canada, Mỹ, Ấn Độ, Trung Quốc và Nhật Bản. Các câu hỏi xoay quanh những khía cạnh khác nhau của khoa học, bao trùm ở các chủ đề chính gồm cơ thể con người, vật lý, hóa học, không gian, khoa học tự nhiên và Trái Đất.
+Manufacturer: Nhã Nam
+Tên sách: Siêu Nhí Hỏi Nhà Khoa Học Trả Lời
+Number of Pages: 350
+Price: 156000
+Publication Date: 2021
+Publisher: NXB Tri Thức
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 62a202428801b54984b83460
+Amount: 50
+Author: Tôn Nguyên Vĩ
+Book Cover: Bìa mềm
+Category: sachthieunhi
+Description: Tuổi thơ là khoảng thời gian đẹp nhất trong cuộc đời mỗi người. Ở lứa tuổi này luôn tràn đầy hy vọng, ước mơ, cùng những ngây thơ trong sáng buổi ban đầu. Đứng trước thế giới với bao điều kỳ diệu, mang trong mình sự tò mò, khát vọng tìm hiểu, câu nói thường thấy nhất ở trẻ là “Vì sao?”. Để có thể trả lời chính xác câu hỏi của trẻ, không phải là việc đơn giản. Các nghiên cứu cho thấy, sự phát triển của bộ não trẻ diễn ra nhanh nhất vào tuổi 13 trở về trước, là một phụ huynh, khi không mang lại cho trẻ cơ hội suy nghĩ, tìm hiểu, có thể bạn sẽ phải rất ân hận! Thế giới ngày nay phát triển nhanh chóng, kho tàng kiến thức là vô hạn, luôn được đổi mới với tốc độ chóng mặt.
+Manufacturer: Nhã Nam
+Tên sách: 10 Vạn Câu Hỏi Vì Sao - Cuộc Sống Muôn Màu
+Number of Pages: 520
+Price: 44000
+Publication Date: 2018
+Publisher: NXB Tri Thức
+Average Stars: 2
+Total Votes: 1
+Total Stars: 2
+
+_id: 62a2030b8801b54984b83463
+Amount: 48
+Author: Andrew Knapp
+Book Cover: Bìa cứng
+Category: sachthieunhi
+Description: Momo là một chú chó giống Border Collie vô cùng nhanh nhẹn và có tài ẩn nấp. Trong mỗi hành trình cùng nhiếp ảnh gia Andrew Knapp, Momo vô tư chạy nhảy khắp nơi và thường thể hiện phẩm chất của một chú chó chăn cừu thực sự. Cậu vùi mình trong một thảm lá vàng, trốn dưới một bến tàu hay trong một tiệm cafe đông đúc... Momo luôn biết cách giấu mình để thử thách Andrew và chúng ta tìm ra chú.
+Manufacturer: Nhã Nam
+Tên sách: Đi Tìm Momo - Tập Sách Ảnh Trốn Tìm - Tập 2
+Number of Pages: 350
+Price: 91000
+Publication Date: 2020
+Publisher: NXB Kim Đồng
+Average Stars: 3
+Total Votes: 1
+Total Stars: 3
+
+_id: 62a203988801b54984b83466
+Amount: 50
+Author: Albert Rutherford
+Book Cover: Bìa cứng
+Category: sachkynangsong
+Description: Như bạn có thể thấy, chìa khóa để trở thành một người có tư duy phản biện tốt chính là sự tự nhận thức. Bạn cần phải đánh giá trung thực những điều trước đây bạn nghĩ là đúng, cũng như quá trình suy nghĩ đã dẫn bạn tới những kết luận đó. Nếu bạn không có những lý lẽ hợp lý, hoặc nếu suy nghĩ của bạn bị ảnh hưởng bởi những kinh nghiệm và cảm xúc, thì lúc đó hãy cân nhắc sử dụng tư duy phản biện! Bạn cần phải nhận ra được rằng con người, kể từ khi sinh ra, rất giỏi việc đưa ra những lý do lý giải cho những suy nghĩ khiếm khuyết của mình. Nếu bạn đang có những kết luận sai lệch này thì có một sự thật là những đức tin của bạn thường mâu thuẫn với nhau và đó thường là kết quả của thiên kiến xác nhận, nhưng nếu bạn biết điều này, thì bạn đã tiến gần hơn tới sự thật rồi!
+Manufacturer: Nhã Nam
+Tên sách: Rèn Luyện Tư Duy Phản Biện
+Number of Pages: 350
+Price: 59000
+Publication Date: 2020
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a205ef8801b54984b8346c
+Amount: 50
+Author: OSHO
+Book Cover: Bìa cứng
+Category: sachkynangsong
+Description: Thông qua từng chương của cuốn sách, bạn đọc nhận diện những dấu hiệu của một tình yêu đích thực: Sự cho đi và không chờ đợi được nhận lại, sự trưởng thành cá nhân, đặc biệt là sự tỉnh thức khi yêu. “Việc tỉnh táo nhận biết về bản thể của mình là sự khởi đầu của hành trình hướng tới tình yêu”.
+Manufacturer: Đông A
+Tên sách: OSHO - Yêu - Being In Love
+Number of Pages: 350
+Price: 59000
+Publication Date: 2020
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2204c9244fb290e901169
+Amount: 50
+Author: Brain L Weiss
+Book Cover: Bìa cứng
+Category: sachkynangsong
+Description: Định mệnh sẽ dẫn lối cho những linh hồn tri kỷ hội ngộ. Chúng ta sẽ gặp họ. Nhưng quyết định làm gì sau đó lại là quyền tự do lựa chọn của mỗi người. Một lựa chọn sai lầm hoặc một cơ hội bị bỏ lỡ có thể dẫn đến nỗi cô đơn và thống khổ tột cùng. Và một lựa chọn đúng đắn, một cơ hội được nắm bắt có thể mang lại niềm hạnh phúc sâu sắc.
+Manufacturer: Nhã Nam
+Tên sách: Kiếp Nào Ta Cũng Tìm Thấy Nhau - Câu Chuyện Về Những Linh Hồn Tri Kỷ Vĩnh Viễn Không Chia Lìa
+Number of Pages: 350
+Price: 129000
+Publication Date: 2020
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a220fa9244fb290e90116c
+Amount: 49
+Author: Robin Sharma
+Book Cover: Bìa cứng
+Category: sachkynangsong
+Description: Bằng những lời chia sẻ thật ngắn gọn, dễ hiểu về những trải nghiệm và suy ngẫm trong đời, Robin Sharma tiếp tục phong cách viết của ông từ cuốn sách Điều vĩ đại đời thường để mang đến cho độc giả những bài viết như lời tâm sự, vừa chân thành vừa sâu sắc.
+Manufacturer: Đông A
+Tên sách: Đời Ngắn Đừng Ngủ Dài
+Number of Pages: 350
+Price: 63000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a223419244fb290e901197
+Amount: 50
+Author: BS Trần Thị Uyên Thảo
+Book Cover: Bìa cứng
+Category: sachkynangsong
+Description: “Có một điều chúng ta cần biết và nên biết, là nếu chúng ta hiểu được quá trình dậy thì một cách thấu đáo, chuẩn bị tinh thần và cơ thể thật tốt cho nó, dậy thì sẽ trở thành một giai đoạn mà chúng ta có thể chủ động kiểm soát và vui vẻ đón nhận một cách tự tin hơn. Khi đó, chúng ta sẽ giúp bản thân có một quá trình dậy thì khỏe mạnh, giúp bản thân phát triển thật vui khỏe và có những mong đợi thực tế. Từ đó, chúng ta sẽ giúp cho bản thân, bạn bè, và gia đình bớt đi những ưu phiền, lo lắng, khó chịu không cần thiết, và giúp chúng ta thật sự thưởng thức cuộc đời ta!
+Manufacturer: Nhã Nam
+Tên sách: Chào Tuổi Dậy Thì! Kiến Thức Về Dậy Thì Dành Cho Các Bạn Nam (8-12 Tuổi)
+Number of Pages: 350
+Price: 65000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a224429244fb290e9011a2
+Amount: 49
+Author: Tony Buổi Sáng
+Book Cover: Bìa mềm
+Category: sachkynangsong
+Description: Trên Đường Băng của Tony Buổi Sáng tuy hướng đến những đọc giả là những người trẻ nhưng những người lớn hơn vẫn để hiểu hơn, và có cách nhìn nhận cũng như giáo dục con em mình tốt nhất thay vì bảo vệ con quá kĩ trở nên yếu ớt và thiếu tự lập. Và để yêu thương “khoa học” nhất. Đây cũng là cuốn sách mà những người đi làm nên sở hữu để nhìn lại chặng đường mình đã đi qua, suy ngẫm và thay đổi vì chưa bao giờ là quá muộn
+Manufacturer: Nhã Nam
+Tên sách: Trên Đường Băng
+Number of Pages: 350
+Price: 65000
+Publication Date: 2017
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2259f9244fb290e9011ad
+Amount: 50
+Author: Ca Tây
+Book Cover: Bìa cứng
+Category: sachkynangsong
+Description: KỶ LUẬT vốn là ván cờ bạn phải tự đấu với chính mình. Thắng - bạn sẽ có được “bản năng của người mạnh mẽ nhất”, đó là sự tự kiểm soát bản thân. Thua - bạn mãi sống trong cảm giác tạm bợ, nuối tiếc. Càng dễ dàng dung túng cho những thói quen trì hoãn bao nhiêu, cuộc sống của bạn sẽ đi càng nhanh tới sự mất kiểm soát và thiếu quy hoạch bấy nhiêu.
+Manufacturer: Đông A
+Tên sách: Càng Kỷ Luật, Càng Tự Do
+Number of Pages: 350
+Price: 87000
+Publication Date: 2020
+Publisher: NXB Thế Giới
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a226049244fb290e9011b0
+Amount: 50
+Author: Shin Dohyeon, Yun Naru
+Book Cover: Bìa cứng
+Category: sachkynangsong
+Description: Kỹ năng giao tiếp là một trong những kỹ năng sống vô cùng quan trọng, tuy nhiên đôi khi chúng ta lại không mấy để ý tới chúng. Để đạt được điều bạn mong muốn, ngôn từ chính là chiếc chìa khóa đầu tiên. Sức mạnh của ngôn từcó thể đưa bạn từ sự vui sướng tột độ đến tâm trạng tụt dốc, buồn đau,chán nản. Cuộc sống của bạn sẽ trở nên tốt đẹp và hạnh phúc hơn nếu thấu hiểu được ẩn ý và cách sử dụng khéo léo và linh hoạt  ngôn từ trong giao tiếp.
+Manufacturer: Đông A
+Tên sách: Sức Mạnh Của Ngôn Từ 
+Number of Pages: 350
+Price: 77000
+Publication Date: 2020
+Publisher: NXB Thế Giới
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a226b99244fb290e9011bc
+Amount: 49
+Author: Nguyễn Minh Tuấn
+Book Cover: Bìa cứng
+Category: sachkinhte
+Description: Xu thế hội nhập toàn cầu là động lực thúc đẩy sự phát triển kinh tế của các quốc gia trên thế giới. Xu hướng này vừa là một thách thức vừa là một cơ hội để các quốc gia đang trên đà phát triển như Việt Nam tự khẳng định mình. Vì vậy, sự am hiểu về các vấn đề kinh tế ở cấp vĩ mô như lạm phát, thất nghiệp, chính sách tài khoản, chính sách tiền tệ... của một quốc gia là điều hết sức cần thiết đối với sinh viên Đại học ngành Quản trị kinh doanh nói riêng và với sinh viên khối ngành Kinh tế nói chung.
+Manufacturer: Đông A
+Tên sách: Kinh Tế Vĩ Mô
+Number of Pages: 350
+Price: 57000
+Publication Date: 2020
+Publisher: NXB Kinh tế TP.Hồ Chí Minh
+Average Stars: 0
+Total Votes: 1
+Total Stars: 0
+
+_id: 62a228a49244fb290e9011c9
+Amount: 48
+Author: Richard Smitten
+Book Cover: Bìa mềm
+Category: sachkinhte
+Description: Đáp ứng nhu cầu ngày càng tăng trong việc tìm hiểu về cổ phần, cổ phiếu, chứng khoán, chiến lược đầu tư của độc giả, Alpha Books chọn mua bản quyền dịch và xuất bản bộ sách về đầu tư chứng khoán bao gồm: Giàu từ chứng khoán; Trở thành thiên tài chứng khoán; Cổ phiếu thường - lợi nhuận phi thường; Hồi ức của một thiên tài chứng khoán; Phố Wall - Một Las Vegas khác; Quy tắc số 1: đầu tư thành công chỉ với 15 phút mỗi tuần; Trên đỉnh Phố Wall….
+Manufacturer: Nhã Nam
+Tên sách: Chết Vì Chứng Khoán
+Number of Pages: 400
+Price: 163000
+Publication Date: 2019
+Publisher: NXB Lao Động
+Average Stars: 3.5
+Total Votes: 2
+Total Stars: 7
+
+_id: 62a229799244fb290e9011d4
+Amount: 49
+Author: Nguyễn Mến
+Book Cover: Bìa cứng
+Category: sachkinhte
+Description: Tác giả Nguyễn Mến là Tổng giám đốc Công ty Cổ phần thời trang MC Việt Nam, nhà sáng lập 5 thương hiệu thời trang tầm trung nổi tiếng: MC Fashion, Anadi Fashion, Gala Lady, MC Young, Anadi Young. Nguyễn Mến cũng là diễn giả được yêu thích của nhiều trường doanh nhân uy tín và chuỗi chương trình hội thảo về khởi nghiệp do Đoàn TNCS Hồ Chí Minh và Hội Liên hiệp Thanh Niên Việt Nam các tỉnh thành tổ chức trong năm 2020 và 2021.
+Manufacturer: Đông A
+Tên sách: Kinh Doanh Thời Trang Thành Công Từ A-Z
+Number of Pages: 350
+Price: 213000
+Publication Date: 2020
+Publisher: NXB Thanh Niên
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a229d99244fb290e9011d7
+Amount: 49
+Author: Hồ Công Hoài Phương
+Book Cover: Bìa mềm
+Category: sachkinhte
+Description: Tác giả Nguyễn Mến là Tổng giám đốc Công ty Cổ phần thời trang MC Việt Nam, nhà sáng lập 5 thương hiệu thời trang tầm trung nổi tiếng: MC Fashion, Anadi Fashion, Gala Lady, MC Young, Anadi Young. Nguyễn Mến cũng là diễn giả được yêu thích của nhiều trường doanh nhân uy tín và chuỗi chương trình hội thảo về khởi nghiệp do Đoàn TNCS Hồ Chí Minh và Hội Liên hiệp Thanh Niên Việt Nam các tỉnh thành tổ chức trong năm 2020 và 2021.
+Manufacturer: Nhã Nam
+Tên sách: Quảng Cáo Không Nói Láo - Sự Thật Về Quảng Cáo Dưới Góc Nhìn Khoa Học, Toàn Diện Và Thực Tiễn
+Number of Pages: 350
+Price: 168000
+Publication Date: 2021
+Publisher: NXB Thanh Niên
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a22ab19244fb290e9011e0
+Amount: 50
+Author: Cung Huân
+Book Cover: Bìa cứng
+Category: sachthieunhi
+Description: Hiện nay, nhiều bậc cha mẹ thường chú trọng bồi dưỡng phát triển não trái cho con mà coi nhẹ phát triển não phải. Tiến sĩ Roger Wolcott Sperry, người đạt giải Nobel về y học đã nghiên cứu và phát hiện ra rằng, sự phát triển của não phải cũng rất quan trọng. Hai bán cầu đại não cùng hoạt động nhịp nhàng, cân bằng thì trí tuệ trẻ mới phát triển toàn diện về mặt nền tảng vững chắc cho sự trưởng thành sau này.
+Manufacturer: Đông A
+Tên sách: 300 Trò Chơi Phát Triển Trí Tuệ Cho Trẻ 3 Tuổi
+Number of Pages: 350
+Price: 38000
+Publication Date: 2020
+Publisher: NXB Thanh Niên
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a22b349244fb290e9011e3
+Amount: 48
+Author: Hoài Nam
+Book Cover: Bìa mềm
+Category: sachthieunhi
+Description: Mỗi đất nước trên thế giới đều có rất nhiều điều thú vị để khám phá. Với chuyến du hành Vòng quanh thế giới, bạn sẽ được ghé thăm rất nhiều quốc gia, địa điểm nổi tiếng, biết thêm nhiều truyền thống văn hóa, lễ hội lí thú của con người khắp mọi nơi.
+Manufacturer: Nhã Nam
+Tên sách: Vòng Quanh Thế Giới - Ai Cập
+Number of Pages: 400
+Price: 10000
+Publication Date: 2019
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a22bfc9244fb290e9011ea
+Amount: 50
+Author: Alex Bellos
+Book Cover: Bìa mềm
+Category: sachthethao
+Description: Bóng đá đến với Brazil vào năm 1894. ‘Môn thể thao bạo lực của người Anh’ được đón nhận nồng nhiệt ngoài mong đợi. Chỉ trong vài thập kỷ, nó đã trở thành biểu tượng mạnh mẽ nhất của bản sắc Brazil. Đội tuyển quốc gia Brazil, như chúng ta đều biết, đã giành được nhiều chức vô địch World Cup hơn bất kỳ đội tuyển nào khác. Đất nước này cũng sản sinh ra Pelé, cầu thủ vĩ đại nhất mọi thời đại. Hơn thế nữa, người Brazil đã phát minh ra một lối chơi đầy khoa trương, thu hút, kịch tính và duyên dáng - điều dường như là một chuẩn mực ‘không thể đạt được’ cho phần còn lại của thế giới. Người Anh gọi bóng đá là ‘môn thể thao đẹp’ (beautiful game). Người Brazil thì gọi nó là ‘futebol-arte”, tức là bóng đá nghệ thuật (art-football). Cho dù bạn gọi nó bằng cái tên nào đi nữa, trong toàn bộ nền thể thao quốc tế, chẳng gì có được sức hấp dẫn tương tự như bóng đá.
+Manufacturer: Nhã Nam
+Tên sách: Bóng Đá - Lối Sống Brazil
+Number of Pages: 350
+Price: 240000
+Publication Date: 2021
+Publisher: NXB Văn hóa Văn nghệ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a22c919244fb290e9011f1
+Amount: 49
+Author: Ole
+Book Cover: Bìa cứng
+Category: sachthethao
+Description:     Nhưng thực tế, Ole không phải là người “sinh  ra đã có số phận làm cầu thủ”. Ông luôn nói với mọi người rằng, nếu không quyết định làm cầu thủ, ông sẽ trở thành một kế toán giỏi. Vậy mà Ole đã chọn bóng đá, đặc biệt là việc ghi bàn vào lưới đối phương. Có một phân tích cho thấy rằng, trong số 126 bàn thắng mà Ole ghi cho United, thì có 50 bàn được thực hiện trong 30 phút cuối cùng của trận đấu, trong đó lại có 33 bàn được ghi trong vòng 15 phút cuối. Ông thường vào sân từ băng ghế dự bị, nhưng ông được gọi là “Siêu Dự Bị” vì ông luôn theo dõi trận đấu sát sao, vào sân ở thời điểm nào cũng bắt nhịp được ngay lập tức, và dứt điểm rất hiệu quả. Bàn thắng ấn tượng nhất của ông là bàn ghi vào lưới Bayern Munich, giúp United vô địch Champions League năm 1999, giành được Cú Ăn Ba trứ danh.
+Manufacturer: Đông A
+Tên sách: Hồi Ký Của Một Huyền Thoại Manchester United
+Number of Pages: 350
+Price: 100000
+Publication Date: 2020
+Publisher: NXB Văn hóa Văn nghệ
+Average Stars: 0
+Total Votes: 1
+Total Stars: 0
+
+_id: 62a22cf09244fb290e9011f4
+Amount: 50
+Author: Luca Caioli
+Book Cover: Bìa mềm
+Category: sachthethao
+Description: Idrisse năm nay 9 tuổi. Ngoài thời gian ở trường, cậu bé chơi bóng cho đội U-10. Trong vài chục chữ, cậu bé đã có thể tóm lược được suy nghĩ của tất cả mọi người ở Bondy, từ Madame La Maire (Bà Thị trưởng - N.D), tới những đứa trẻ đang chơi bóng trên những sân bóng ở Stade Léo-Lagrange chỉ cách đó vài trăm mét……
+Manufacturer: Nhã Nam
+Tên sách: Mbappé - Cậu Bé Vàng
+Number of Pages: 400
+Price: 95000
+Publication Date: 2019
+Publisher: NXB Văn hóa Văn nghệ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a22db09244fb290e901204
+Amount: 50
+Author: Claire Summerscale
+Book Cover: Bìa mềm
+Category: sachthethao
+Description: Cờ Vua - Hãy chơi để chiến thắng có thể giúp các bạn nhỏ chưa biết gì về cờ vua nắm rõ luật và những thủ thuật chơi cơ bản thông qua phương pháp hướng dẫn lí thuyết đi kèm với thực hành.
+Manufacturer: Nhã Nam
+Tên sách: Cờ Vua - Hãy Chơi Để Chiến Thắng
+Number of Pages: 350
+Price: 98000
+Publication Date: 2021
+Publisher: NXB Văn hóa Văn nghệ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a22e379244fb290e901207
+Amount: 50
+Author: Luca Caioli
+Book Cover: Bìa mềm
+Category: sachthethao
+Description: Messi vs Ronaldo - Ai là người xuất sắc hơn? Đấy không phải là câu hỏi mà cuốn sách này cố gắng trả lời. Nhưng thông qua cuốn sách này, các bạn sẽ có được tất cả những gì các bạn cần phải biết về hai siêu sao bóng đá đương đại, để từ đó có thể tự mình đưa ra quyết định
+Manufacturer: Nhã Nam
+Tên sách: Messi Vs Ronaldo - Đại Chiến Giữa Những Vị Thần
+Number of Pages: 350
+Price: 103000
+Publication Date: 2021
+Publisher: NXB Hà Nội
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a22edf9244fb290e90120e
+Amount: 50
+Author: Nhiều Tác Giả
+Book Cover: Bìa cứng
+Category: sachthethao
+Description: Như chúng ta đều biết, những thành quả mà Đội tuyển U23 Việt Nam đạt được tại VCK U23 châu Á 2018 đã mang lại những cảm xúc khó quên trong lòng mỗi người con đất Việt. Những cảm hứng tuyệt vời đó thật hiếm hoi và đáng quý, cần được lan tỏa, lưu giữ theo thời gian, để luôn  nhắc nhở chúng ta rằng, người Việt giàu tinh thần dân tộc, tinh thần thượng võ, giàu ý chí, nghị lực, đặc biệt là trước những thử thách, nghịch cảnh. Thế hệ trẻ Việt Nam hoàn toàn có thể chinh phục những đỉnh cao trong nhiều lĩnh vực khác như kinh tế, giáo dục, khoa học kỹ thuật… như trong thể thao như U23 đã làm được.
+Manufacturer: Nhã Nam
+Tên sách: Bão Lửa U23 - Thường Châu Tuyết Trắng
+Number of Pages: 350
+Price: 95000
+Publication Date: 2020
+Publisher: NXB Hà Nội
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a22fc89244fb290e901211
+Amount: 50
+Author: Lê Huỳnh Đức
+Book Cover: Bìa cứng
+Category: sachthethao
+Description: Có lẽ tất cả chúng ta đều ý thức được rằng: thói quen tập thể dục là tốt cho sức khoẻ. Tuy nhiên lại có quá nhiều nỗi lo để bắt đầu việc luyện tập, và quá nhiều lý do để nguỵ biện cho việc không đi tập. Chưa kể đến vẫn có rất nhiều nhận thức sai lầm ngay khi bạn chỉ mới bắt đầu, dẫn đến việc từ bỏ luyện tập và không tạo được một thói quen đúng đắn.
+Manufacturer: Đông A
+Tên sách: Tôi Tập Thể Dục - Những Bí Quyết Đơn Giản Để Có Thân Hình Đẹp Và Cơ Thể Khỏe Mạnh
+Number of Pages: 350
+Price: 105000
+Publication Date: 2020
+Publisher: NXB Hà Nội
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a230759244fb290e90121e
+Amount: 50
+Author: Hà Thanh Uyên
+Book Cover: Bìa mềm
+Category: sachthamkhao
+Description: Luyện Viết Và Học Từ Vựng Tiếng Anh Lớp 1
+Manufacturer: Nhã Nam
+Tên sách: Luyện Viết Và Học Từ Vựng Tiếng Anh Lớp 1
+Number of Pages: 400
+Price: 28000
+Publication Date: 2019
+Publisher: NXB Hà Nội
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 62a231459244fb290e901225
+Amount: 50
+Author: NXB Phụ Nữ Việt Nam
+Book Cover: Bìa cứng
+Category: sachbame
+Description: Yêu thương con cái là lẽ thường tình, nhưng bạn đã yêu con đúng cách hay chưa? Đã bao giờ bạn tự hỏi, con bạn cần tình yêu như thế nào chưa?
+Manufacturer: Nhã Nam
+Tên sách: 5 Phút Khích Lệ Trẻ Mỗi Ngày
+Number of Pages: 350
+Price: 28000
+Publication Date: 2020
+Publisher: NXB Phụ Nữ Việt Nam
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a231ce9244fb290e90122c
+Amount: 50
+Author: Nguyễn Mạnh Trí
+Book Cover: Bìa cứng
+Category: sachyhoc
+Description: Tài liệu này góp phần đào tạo bác sĩ đa khoa và các thầy thuốc, lương y, y sĩ, điều dưỡng, dược sĩ công tác tại khoa Y học cổ truyền của các bệnh viện và tuyết y tế cơ sở. Mục đích của những bài giảng này: Làm cho sinh viên hiểu và trân trọng bản sắc văn hoá dân tộc trong Y học cổ truyền để từ đó yêu thích môn học và tích cực tìm hiểu, nghiên cứu Y học cổ truyền. Trang bị cho sinh viên phương pháp luận và những kiến thức cơ bản của Y học cổ truyền để bổ sung thêm vào sở học hiện đại của mình. Trang bị cho sinh viên các phương pháp chẩn đoán và điều trị một số vấn đề sức khoẻ thông thường. Nâng cao nhận thức về tầm quan trọng của việc phòng trị bệnh, trị bệnh và bồi thường sức khoẻ bằng Y học cổ truyền; tích cực trong công tác chăm sóc sức khoẻ cho cá nhân và cộng đồng bằng việc phối hợp phương pháp Y học cổ truyền và Y học hiện đại. Đây chỉ là những kiến thức Y học cổ truyền cơ bản, những thầy thuốc bước qua ngưỡng cửa này có thể tự học, tìm hiểu, nghiên cứu và từ đó àp dụng sâu rộng hơn.
+Manufacturer: Đông A
+Tên sách: Y Học Cổ Truyền
+Number of Pages: 350
+Price: 118000
+Publication Date: 2020
+Publisher: NXB Tổng Hợp TPHCM
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a232dd9244fb290e901236
+Amount: 50
+Author: Nguyễn Mạnh Trí
+Book Cover: Bìa cứng
+Category: sachvanhoa
+Description: Chúng ta yêu Paris: văn hóa của nó, sự quyến rũ của nó, cái je ne sais quoi (cái khó tả, khó gọi tên) của nó. Còn gì hơn được khám phá những cửa hiệu sang trọng ở Khu Marais hay hít hà những loại pho mát hảo hạng nhất trong cái chợ tươi ngon trên Đường Rue Montorgueil; lang thang ở Khu Montmartre mộng mơ hay dạo qua những hiệu sách ở Khu Latinh; xem ca vũ trong quán rượu khi đêm muộn hay thẩn thơ bước dọc Đại lộ Boulevard St-Germain để đến uống một li cà phê buổi sáng ở Quán Café de Flore theo dấu chân Hemingway và Picasso? Và còn gì vui hơn là nhảy lên một cái xe Vélib’ và đạp xe dọc Sông Seine từ Tháp Eiffel đến Nhà thờ Đức Bà?
+Manufacturer: Nhã Nam
+Tên sách: Cẩm Nang Du Lịch - Top 10 Paris
+Number of Pages: 350
+Price: 96000
+Publication Date: 2020
+Publisher: NXB Tổng Hợp TPHCM
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2b1301f8da0aa891e8317
+Amount: 50
+Author: An Khuê
+Book Cover: Bìa cứng
+Category: sachvanhoa
+Description: 50 tips for girls gồm các cuốn: 50 tips du lịch dành cho các bạn gái, 50 tips giúp bạn gái vượt qua thất tình, 50 tips hẹn hò thành công, 50 tips cho những người yêu lần đầu được biên soạn như một món quà dành tặng cho các bạn gái, với một mong muốn là giúp các bạn gái thực sự biết trân trọng mình, biết cách khiến mình hạnh phúc và tận hưởng những điều cuộc sống đã ban tặng cho mình.
+Manufacturer: Đông A
+Tên sách: 50 Tips Du Lịch Dành Cho Bạn Gái
+Number of Pages: 350
+Price: 44000
+Publication Date: 2020
+Publisher: NXB Lao Động
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2b1cb1f8da0aa891e831a
+Amount: 50
+Author: Phan Huy Xu
+Book Cover: Bìa mềm
+Category: sachvanhoa
+Description: Khách du lịch nước ngoài có thể thấy cuộc sống của chúng ta còn nghèo về mặt vật chất nhưng không thể xem chúng ta thiếu văn hóa. Không thể để đồng tiền làm mất giá trị cao đẹp về uy tín của thương hiệu du lịch. Cần khẳng định văn hóa phải song hành với du lịch. Văn hóa là nền tảng tinh thần và động lực của phát triển du lịch. Nếu văn hóa xuống cấp thì du lịch không thể phát triển bền vững vì văn hóa là gốc rễ của sự phát triển du lịch.
+Manufacturer: Nhã Nam
+Tên sách: Những Mảng Màu Du Lịch Việt Nam
+Number of Pages: 400
+Price: 108000
+Publication Date: 2019
+Publisher: NXB Lao Động
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2b29e1f8da0aa891e831f
+Amount: 50
+Author: Dorling Kindersley Limited
+Book Cover: Bìa cứng
+Category: sachvanhoa
+Description: Cuốn cẩm nang này sẽ giúp bạn có được trải nghiệm tuyệt vời nhất trong chuyến du lịch đảo Anh, với hàng loạt thông tin thiết thực và gợi ý hữu ích từ các chuyên gia. Phần Giới thiệu đảo Anh cho bạn cái nhìn tổng thể về bối cảnh văn hóa và lịch sử của đảo quốc này. Sáu chương tiếp theo cộng với chương về London sẽ giới thiệu các vùng miền của đảo Anh, miêu tả các thắng cảnh quan trọng kèm theo bản đồ và hình ảnh minh họa. Các mục chính đề cập các chủ đề từ kiến trúc, vườn tược đến các môn thể thao. Hướng dẫn về nhà hàng và khách sạn nằm ở phần Hành trang du khách. Phần Những điều cần biết cung cấp những thông tin thiết thực về mọi vấn đề từ giao thông cho đến an toàn cá nhân.
+Manufacturer: Nhã Nam
+Tên sách: Cẩm Nang Du Lịch Anh Quốc
+Number of Pages: 350
+Price: 108000
+Publication Date: 2020
+Publisher: NXB Dân Trí
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2b3e81f8da0aa891e8337
+Amount: 50
+Author: Dorling Kindersley Limited
+Book Cover: Bìa mềm
+Category: sachvanhoa
+Description: Cuốn cẩm nang này sẽ giúp bạn có được những trải nghiệm tuyệt vời nhất trong chuyến du lịch Thái Lan, với hàng loạt những thông tin thiết thực và gợi ý hữu ích từ các chuyên gia. Phần Giới thiệu Thái Lan phác họa cho bạn cái nhìn tổng thể về bối cảnh văn hóa và lịch sử của quốc gia này. Năm phần tiếp theo giới thiệu về năm miền địa lí của Thái Lan, cộng với Bangkok, và miêu tả các thắng cảnh quan trọng kèm theo bản đồ, hình ảnh và tranh minh họa. Các mục chính đề cập các chủ đề từ kiến trúc và mĩ nghệ cho đến động vật hoang dã và các môn thể thao. Hướng dẫn về nhà hàng và khách sạn nằm ở phần Hành trang du khách. Phần Những điều cần biết cung cấp những thông tin thiết thực về mọi vấn đề từ giao thông cho đến an toàn cá nhân.
+Manufacturer: Nhã Nam
+Tên sách: Cẩm Nang Du Lịch Thái Lan
+Number of Pages: 400
+Price: 200000
+Publication Date: 2019
+Publisher: NXB Dân Trí
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2b6bb545b7fcb54642695
+Amount: 50
+Author: Dorling Kindersley Limited
+Book Cover: Bìa mềm
+Category: sachvanhoa
+Description: Cuốn cẩm nang này sẽ giúp bạn có được những trải nghiệm tuyệt vời nhất trong chuyến du lịch Thái Lan, với hàng loạt những thông tin thiết thực và gợi ý hữu ích từ các chuyên gia. Phần Giới thiệu Thái Lan phác họa cho bạn cái nhìn tổng thể về bối cảnh văn hóa và lịch sử của quốc gia này. Năm phần tiếp theo giới thiệu về năm miền địa lí của Thái Lan, cộng với Bangkok, và miêu tả các thắng cảnh quan trọng kèm theo bản đồ, hình ảnh và tranh minh họa. Các mục chính đề cập các chủ đề từ kiến trúc và mĩ nghệ cho đến động vật hoang dã và các môn thể thao. Hướng dẫn về nhà hàng và khách sạn nằm ở phần Hành trang du khách. Phần Những điều cần biết cung cấp những thông tin thiết thực về mọi vấn đề từ giao thông cho đến an toàn cá nhân.
+Manufacturer: NXB Dân Trí
+Tên sách: Cẩm Nang Du Lịch Nhật Bản
+Number of Pages: 350
+Price: 182000
+Publication Date: 2021
+Publisher: NXB Dân Trí
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2eb0b465201fdc127d1ce
+Amount: 49
+Author: Laura C Martin
+Book Cover: Bìa mềm
+Category: sachvanhoa
+Description: Là loại đồ uống phổ biến thứ hai trên thế giới, chỉ sau nước, bạn thật sự có thể tìm thấy trà ở bất cứ đâu, từ Á sang Âu, từ nông thôn đến thành thị, từ những quán nước bình dân bên lề đường đến các nhà hàng sang trọng bậc nhất. Trà là thức uống quen thuộc được thưởng thức và yêu thích bởi tất cả tầng lớp trong xã hội bất kể giới tính, tuổi tác hay nghề nghiệp.LỊCH SỬ CỦA TRÀ cung cấp một cái nhìn tổng quát, tinh tế và đầy thú vị về dòng chảy hai ngàn năm của thứ đồ uống quyền lực này, đưa chúng ta du ngoạn qua vùng rừng núi Trung Quốc với những câu chuyện thần thoại, qua phòng trà Nhật Bản với các nghi thức trà đạo khắt khe, qua cả những bữa tiệc trà phù phiếm tại Anh hay các đồn điền trà bát ngát ở Ấn Độ và Sri Lanka.
+Manufacturer: NXB Dân Trí
+Tên sách: Lịch Sử Của Trà
+Number of Pages: 300
+Price: 182000
+Publication Date: 2021
+Publisher: NXB Dân Trí
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2eb76465201fdc127d1d1
+Amount: 50
+Author: Nguyễn Hữu Hiếu
+Book Cover: Bìa mềm
+Category: sachvanhoa
+Description: Mùa nước nổi đồng bằng sông Cửu Long, chỉ kéo dài tối đa là bốn tháng trong năm, là thời điểm mà cư dân địa phương tập trung cao độ tri thức, phương tiện ứng phó với thiên nhiên.Những hoạt động sản xuất và sinh hoạt đời thường khác của cư dân địa phương trong mùa nước nổi góp phần tăng thêm sự phong phú đa dạng, nhiều màu sắc cho văn hóa miền sông nước đồng bằng sông Cửu Long.
+Manufacturer: NXB Dân Trí
+Tên sách: Mùa Nước Nổi Trong Đời Sống Văn Hoá Đồng Bằng Sông Cửu Long
+Number of Pages: 300
+Price: 64000
+Publication Date: 2021
+Publisher: NXB Dân Trí
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2ebfc465201fdc127d1d4
+Amount: 50
+Author: Trần Ngọc Khánh
+Book Cover: Bìa mềm
+Category: sachvanhoa
+Description: Văn hóa không chỉ là khái niệm, mà còn được coi là thành quả. Đó là cột mốc mở ra các thời đại văn minh của loài người. Cách nay hàng vạn năm, nhờ các hoạt động trồng trọt và sản xuất nông nghiệp, loài người đã vượt qua thời kỳ dài săn bắt - hái lượm. Họ không còn lệ thuộc vào tự nhiên để sinh tồn. Họ khai thác, chinh phục tự nhiên, biến tự nhiên thành văn hóa, nhờ phát triển nhận thức. Kể từ đó, loài người bắt đầu tạo lập đời sống riêng của mình, xây dựng Thế giới tự nhiên thứ hai, được gọi là quá trình đô thị hóa. Đô thị là quá trình con người tạo lập nên đời sống. Từ thời cổ trung đại đến hiện đại, đô thị đã trải qua nhiều hình thái. Chức năng của đô thị là nối dài sự phát triển của văn hóa, đáp ứng các nhu cầu phong phú, đa dạng của con người. Trong quá trình này, con người đã sáng tạo ra một loạt các thành quả văn hóa, trên các lĩnh vực tư tưởng, tôn giáo, khoa học, giáo dục, kinh tế, công nghệ và nhiều thiết chế khác. Đô thị vừa có vai trò quan trọng trong quá trình tiến hóa, vừa có xu thế lan tỏa trên mọi phạm vi không gian. Đô thị trở thành môi trường sống của loài người, trong các tương quan hài hòa với thế giới tự nhiên, đồng bộ về kỹ thuật tiện ích, để con người ngày càng văn minh, tiến bộ.
+Manufacturer: NXB Dân Trí
+Tên sách: Văn Hóa Đô Thị
+Number of Pages: 200
+Price: 25000
+Publication Date: 2020
+Publisher: NXB Dân Trí
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2ed39465201fdc127d1d7
+Amount: 50
+Author: Masashi Kishimoto
+Book Cover: Bìa mềm
+Category: truyentranh
+Description: Tsukuyomi vô hạn được phát động, đưa người người chìm vào mộng giới. Qua âm mưu của Hắc Zetsu, Kaguya đã phục sinh và tiến hành thống nhất Chakra!! Với sức mạnh được Lục Đạo Tiên Nhân phó thác, Naruto và Sasuke sẽ đứng lên chống lại Kaguya và phong ấn bà ta!?
+Manufacturer: NXB Kim Đồng
+Tên sách: Naruto Tập 71
+Number of Pages: 160
+Price: 12000
+Publication Date: 2020
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2ed84465201fdc127d1da
+Amount: 50
+Author: Masashi Kishimoto
+Book Cover: Bìa mềm
+Category: truyentranh
+Description: Dù mang sức mạnh áp đảo, nhưng Ngũ Kage cũng không thể tiếp cận Uchiha Madara. Liệu Tsunade có phá vỡ quy tắc của Ninja trị liệu để ra tay hành động!? Cùng lúc đó, Itachi và Sasuke cũng đứng ra đối đầu Kabuto nhằm ngăn chặn “Uế Thổ Chuyển Sinh”.
+Manufacturer: NXB Kim Đồng
+Tên sách: Naruto - Tập 61: Huynh Đệ Song Thủ!! (Tái Bản 2022)
+Number of Pages: 160
+Price: 25000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2edd8465201fdc127d1dd
+Amount: 50
+Author: Masashi Kishimoto
+Book Cover: Bìa mềm
+Category: truyentranh
+Description: Sau khi khai phóng được sức mạnh của Vĩ thú, Killer Bee bắt đầu phản công nhóm Sasuke! Chứng kiến đồng đội bị đánh bại bởi thứ Chakra vượt xa cả hiểu biết, trong bước đường cùng, Sasuke sẽ xoay trở thế nào!? Cùng thời điểm đó, trong lúc Naruto đang ngày đêm khổ luyện tiên thuật, một mối nguy khôn lường chưa từng có đã ập vào làng Lá!!
+Manufacturer: NXB Kim Đồng
+Tên sách: Naruto Tập 45: Chiến Trường Làng Lá!! (Tái Bản 2022)
+Number of Pages: 160
+Price: 25000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2eecf465201fdc127d1e0
+Amount: 50
+Author: Masashi Kishimoto
+Book Cover: Bìa mềm
+Category: truyentranh
+Description: Toàn quân bị đẩy vào thế thầm lặng chiến đấu! Nhưng Naruto đã biết Madara âm mưu nhắm vào cậu cũng như muốn châm ngòi chiến tranh. Bỏ qua lời thuyết phục của thầy Iruka, Naruto cương quyết tự đứng ra xử lí vấn đề trực tiếp tại chiến trường! Trong khi ở tiền tuyến, những trận đối đầu một mất một còn vẫn tiếp diễn. Màn đêm buông xuống, cuộc tập kích âm thầm trong bóng tối bắt đầu!!
+Manufacturer: NXB Kim Đồng
+Tên sách: Naruto Tập 57: Naruto Xung Trận…!! (Tái Bản 2022)
+Number of Pages: 160
+Price: 25000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2ef35465201fdc127d1e3
+Amount: 50
+Author: Akira Toriyama
+Book Cover: Bìa mềm
+Category: truyentranh
+Description: Trận chiến giữa quân đoàn Moro và các chiến binh Địa Cầu đang mỗi lúc một căng thẳng. Buộc chúa tể của chúng phải thân chinh xuất trận. Được Moro tiếp thêm sức mạnh, Saganbo đánh áp đảo bọn Gohan khiến Địa Cầu đứng trước nguy cơ thất thủ. Goku và Vegeta liệu có trở về kịp hay không? 
+Manufacturer: NXB Kim Đồng
+Tên sách: Dragon Ball Super - Tập 13
+Number of Pages: 160
+Price: 22000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2ef8a465201fdc127d1e6
+Amount: 50
+Author: Akira Toriyama
+Book Cover: Bìa mềm
+Category: truyentranh
+Description: Giải đấu sức mạnh đã đi vào hồi kết khi trên sàn đấu chỉ còn một vài đại diện của vũ trụ 7 và Jiren của vũ trụ 11. Trước đấu thủ cực mạnh là Jiren, Goku đã đạt tới “bản năng vô cực” nhưng liệu có làm nên chuyện? Ở Địa Cầu, ma Buu đang gặp nguy hiểm?
+Manufacturer: NXB Kim Đồng
+Tên sách: Dragon Ball Super Tập 9: Tàn Cuộc
+Number of Pages: 160
+Price: 22000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2efd2465201fdc127d1e9
+Amount: 50
+Author: Akira Toriyama
+Book Cover: Bìa mềm
+Category: truyentranh
+Description: Giải đấu sức mạnh do Đấng Toàn Năng làm “chủ xị” đã chính thức khởi tranh!! Vòng loại do các Thần Hủy Diệt tiến hành cũng đã xong, luật lệ cũng đã được ấn định: ngoại trừ vũ trụ chiến thắng, những vũ trụ thua cuộc đều sẽ bị hủy diệt. Goku đã phải khổ công chạy đôn chạy đáo để chọn ra 10 chiến binh xứng đáng nhất tham gia giải đấu như thế nào?
+Manufacturer: NXB Kim Đồng
+Tên sách: Dragon Ball Super Tập 6: Hỡi Các Siêu Chiến Binh, Hãy Tập Hợp!
+Number of Pages: 160
+Price: 22000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f00f465201fdc127d1ec
+Amount: 50
+Author: Akira Toriyama
+Book Cover: Bìa mềm
+Category: truyentranh
+Description: Giải đấu sức mạnh do Đấng Toàn Năng làm “chủ xị” đã chính thức khởi tranh!! Vòng loại do các Thần Hủy Diệt tiến hành cũng đã xong, luật lệ cũng đã được ấn định: ngoại trừ vũ trụ chiến thắng, những vũ trụ thua cuộc đều sẽ bị hủy diệt. Goku đã phải khổ công chạy đôn chạy đáo để chọn ra 10 chiến binh xứng đáng nhất tham gia giải đấu như thế nào?
+Manufacturer: NXB Kim Đồng
+Tên sách: Dragon Ball Super Tập 7: Giải Đấu Sức Mạnh - Cuộc Đua Tranh Sống Còn
+Number of Pages: 160
+Price: 22000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f12c465201fdc127d1ef
+Amount: 50
+Author: Bộ Giáo Dục Và Đào Tạo
+Book Cover: Bìa mềm
+Category: sachgiaokhoa
+Description: Sách Giáo Khoa Bộ Lớp 11 - Sách Bài Học (Bộ 14 Cuốn) (2022) + 2 Cuộn Bao Sách Nylon TP
+Manufacturer: NXB Giáo Dục Việt Nam
+Tên sách: Sách Giáo Khoa Bộ Lớp 11 - Sách Bài Học (Bộ 14 Cuốn) (2022) + 2 Cuộn Bao Sách Nylon TP
+Number of Pages: 900
+Price: 220000
+Publication Date: 2022
+Publisher: NXB Giáo Dục Việt Nam
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 62a2f17a465201fdc127d1f2
+Amount: 50
+Author: Bộ Giáo Dục Và Đào Tạo
+Book Cover: Bìa mềm
+Category: sachgiaokhoa
+Description: Bản đồ, atlat địa lí, tập bản đồ địa lí là những phương tiện giảng dạy và học tập rất cần thiết đối với môn Địa lí ở nhà trường phổ thông. Cùng với sách giáo khoa, tập bản đồ là nguồn cung cấp kiến thức, hỗ trợ thiết thực cho các thầy, cô giáo và các em học sinh trong quá trình dạy và học môn Địa lí.
+Manufacturer: NXB Giáo Dục Việt Nam
+Tên sách: Tập Bản Đồ Địa Lí 11
+Number of Pages: 900
+Price: 22000
+Publication Date: 2022
+Publisher: NXB Giáo Dục Việt Nam
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 62a2f201465201fdc127d1f5
+Amount: 50
+Author: Bộ Giáo Dục Và Đào Tạo
+Book Cover: Bìa mềm
+Category: sachgiaokhoa
+Description: Tiếng Việt 3 - Tập 1 (2021)
+Manufacturer: NXB Giáo Dục Việt Nam
+Tên sách: Tiếng Việt 3 - Tập 1
+Number of Pages: 80
+Price: 6500
+Publication Date: 2022
+Publisher: NXB Giáo Dục Việt Nam
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f315465201fdc127d1f8
+Amount: 50
+Author: Bộ Giáo Dục Và Đào Tạo
+Book Cover: Bìa mềm
+Category: sachgiaokhoa
+Description: Sách Giáo Khoa Bộ Lớp 3 - Bài Học + Bài Tập (Bộ 13 Cuốn) (2021)
+Manufacturer: NXB Giáo Dục Việt Nam
+Tên sách: Sách Giáo Khoa Bộ Lớp 3 - Bài Học + Bài Tập (Bộ 13 Cuốn)
+Number of Pages: 900
+Price: 115000
+Publication Date: 2022
+Publisher: NXB Giáo Dục Việt Nam
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f35f465201fdc127d1fb
+Amount: 50
+Author: Bộ Giáo Dục Và Đào Tạo
+Book Cover: Bìa mềm
+Category: sachgiaokhoa
+Description: Sách Giáo Khoa Bộ Lớp 4 - Sách Bài Học (Bộ 9 Cuốn) (2022) + Bao Sách Nylon TP
+Manufacturer: NXB Giáo Dục Việt Nam
+Tên sách: Sách Giáo Khoa Bộ Lớp 4
+Number of Pages: 900
+Price: 115000
+Publication Date: 2022
+Publisher: NXB Giáo Dục Việt Nam
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f3ac465201fdc127d1fe
+Amount: 50
+Author: Bộ Giáo Dục Và Đào Tạo
+Book Cover: Bìa mềm
+Category: sachgiaokhoa
+Description: Sách Giáo Khoa Bộ Lớp 1 - Chân Trời Sáng Tạo - Sách Bài Học (Bộ 9 Cuốn) (2022) + Bao Sách TP
+Manufacturer: NXB Giáo Dục Việt Nam
+Tên sách: Sách Giáo Khoa Bộ Lớp 1 - Chân Trời Sáng Tạo - Sách Bài Học
+Number of Pages: 900
+Price: 205000
+Publication Date: 2022
+Publisher: NXB Giáo Dục Việt Nam
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f429465201fdc127d201
+Amount: 50
+Author: Bộ Giáo Dục Và Đào Tạo
+Book Cover: Bìa mềm
+Category: sachgiaokhoa
+Description: Luyện Đọc 1 (Kết Nối) (2021)
+Manufacturer: NXB Giáo Dục Việt Nam
+Tên sách: Luyện Đọc 1 (Kết Nối)
+Number of Pages: 50
+Price: 15000
+Publication Date: 2022
+Publisher: NXB Giáo Dục Việt Nam
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f547465201fdc127d204
+Amount: 50
+Author: Urako Kanamori
+Book Cover: Bìa mềm
+Category: sachbame
+Description: Bạn có bao giờ thốt ra những câu dù biết là không nên nói như  “Còn lề mề đến bao giờ nữa hả?” hay “Chẳng được cái trò trống gì, đưa đây xem nào!”… nhưng vẫn lỡ lời không?
+Manufacturer: NXB Kim Đồng
+Tên sách: 90% Trẻ Thông Minh Nhờ Cách Trò Chuyện Đúng Đắn Của Cha Mẹ
+Number of Pages: 50
+Price: 33000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f5af465201fdc127d207
+Amount: 50
+Author: Jung Wooyul
+Book Cover: Bìa mềm
+Category: sachbame
+Description: “Tôi mong có một ngày sẽ không còn ai gọi tôi là “Gà trống chăm con” nữa. Và tôi mong có một ngày, việc một ông bố chăm con sẽ là điều hiển nhiên trong mắt mọi người. Vậy nên hy vọng rằng văn hoá các ông bố chăm sóc con này sẽ được lan truyền rộng rãi hơn nữa. Sẽ thật nhiều thiếu sót nếu chỉ đưa ra những thông tin đơn thuần về cách chăm sóc con cái. Chúng ta phải tiếp cận việc chăm con một cách bao quát, song không chỉ là năm chắc lý thuyết tổng thể mà còn cần phải hiểu được cả sự phát triển về tâm lý của trẻ, tâm lý của những người trong gia đình và của hai vợ chồng nữa.” Đó là những dòng tâm sự của tác giả Jung Wooyul trong cuốn sách Bố bỉm sữa nuôi con khác biệt.
+Manufacturer: NXB Kim Đồng
+Tên sách: Bố Bỉm Sữa Nuôi Con Khác Biệt
+Number of Pages: 50
+Price: 120000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f615465201fdc127d20a
+Amount: 50
+Author: Kim Mi Kyung
+Book Cover: Bìa mềm
+Category: sachbame
+Description: Phụ nữ bắt đầu vai trò làm mẹ từ khi em bé được hình thành trong bụng và duy trì liên tục cho tới khi nhắm mắt xuôi tay. Tuy nhiên, nhiều người thiết lập sai lầm ngay từ đầu mối quan hệ cha mẹ – con cái quý giá này. Nhiều bà mẹ tin chắc rằng “bổn phận chân chính của người làm mẹ” chính là phải trở thành chuyên gia về đào tạo và nuôi dạy trẻ. Và họ dốc toàn lực để theo đuổi niềm tin đó. Nhưng, giây phút chúng ta thiết lập vai trò bản thân theo quan điểm như vậy cũng là lúc bi kịch bắt đầu.
+Manufacturer: NXB Kim Đồng
+Tên sách: Mẹ Tự Tôn - Con Tự Tin
+Number of Pages: 50
+Price: 120000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f696465201fdc127d20d
+Amount: 50
+Author: Lam Linh
+Book Cover: Bìa mềm
+Category: sachbame
+Description: Mẹ đơn thân - cụm từ đã không còn xa lạ với cuộc sống hiện đại hôm nay, nhưng dù đã được nhìn nhận nhiều hơn, vẫn còn rất nhiều những ánh nhìn thiếu thiện cảm của người đời cho một lựa chọn có phần “không giống với nhiều người bình thường khác”.
+Manufacturer: NXB Kim Đồng
+Tên sách: Để Con Được Bay - Nuôi Con Một Mình Theo Kiểu Mẹ Phượt
+Number of Pages: 50
+Price: 84000
+Publication Date: 2022
+Publisher: NXB Kim Đồng
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f809465201fdc127d210
+Amount: 50
+Author: Bando Mariko
+Book Cover: Bìa mềm
+Category: sachbame
+Description: Cuốn sách Phẩm cách cha mẹ của tác giả Bando Mariko gồm 7 chương: Giáo dục sinh mệnh (bắt đầu từ lời chào hỏi, đến việc cả gia đình cùng ăn cơm, cùng con ca hát, đọc sách, khám phá thiên nhiên); Giáo dục phép tắc cư xử (cho con giúp đỡ cha mẹ, tạo cho con thói quen sinh hoạt tốt…); Giáo dục nhân tính (luôn giữ lời hứa, khiêm tốn vừa phải, giúp con tự tin…); Sự tiếp xúc với trường học, Giáo dục trẻ tuổi teen; Cách tiếp cận thông tin; Duy trì mối quan hệ giữa cha mẹ và con cái khi các con đã trưởng thành;
+Manufacturer: NXB Phụ Nữ
+Tên sách: Phẩm Cách Cha Mẹ
+Number of Pages: 50
+Price: 71000
+Publication Date: 2022
+Publisher: NXB Phụ Nữ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f890465201fdc127d213
+Amount: 50
+Author: Janet Lansbury
+Book Cover: Bìa mềm
+Category: sachbame
+Description: “Trước khi dạy trẻ biết đọc biết viết, hãy trao cho trẻ yêu thương. Trước khi dạy cho trẻ những điều cao siêu, hãy trao cho trẻ sự tôn trọng” được viết bởi chính trải nghiệm và sự học hỏi, trưởng thành của tác giả Janet Lansbury từ  phương pháp nuôi dạy con RIE ( Phương pháp làm cha mẹ tôn trọng). Đây là phương pháp được xây dựng bởi Tiến sĩ Magda Gerber- một chuyên gia về trẻ nhỏ đồng thời là người tiên phong trong lĩnh vực chăm sóc trẻ và bác sĩ nhi khoa Emmi Pikler khi xây dựng nên tổ chức RIE – Tổ chức nhằm nâng cao chất lượng chăm sóc và giáo dục trẻ.
+Manufacturer: NXB Phụ Nữ
+Tên sách: Mẹ Ơi! Con Cũng Muốn Được Lắng Nghe
+Number of Pages: 50
+Price: 84000
+Publication Date: 2022
+Publisher: NXB Phụ Nữ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f916465201fdc127d216
+Amount: 50
+Author: Shin Yee Jin
+Book Cover: Bìa mềm
+Category: sachbame
+Description: Làn sóng giáo dục sớm đang trở nên mạnh mẽ và chính là nguyên nhân khiến cho ngày càng nhiều trẻ em bị tổn thương tâm lý. Trước khi là một chuyên gia tâm lý trẻ em, tác giả Shin Yee Jin còn là một người mẹ. Bởi vậy cuốn sách này không chỉ chứa đựng những kinh nghiệm quý báu được tác giả chắt lọc trong suốt quá trình điều trị cho những trẻ em chịu nhiều tổn thương từ phương pháp giáo dục sớm, mà còn là kinh nghiệm nuôi dạy hai con trải qua không ít khó khăn cùng với quá trình đấu tranh tư tưởng mạnh mẽ trước sự tác động của trào lưu giáo dục sớm hiện nay.
+Manufacturer: NXB Phụ Nữ
+Tên sách: Đừng Ép Con “Khôn” Sớm
+Number of Pages: 50
+Price: 54000
+Publication Date: 2018
+Publisher: NXB Phụ Nữ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2f9bc465201fdc127d219
+Amount: 50
+Author: TS BS Bùi Chí Thương
+Book Cover: Bìa mềm
+Category: sachyhoc
+Description: Có con là niềm vui cũng là thử thách lớn trong đời người phụ nữ bởi biết bao điều khó ngờ chờ đợi. Dù cho y học phát triển tới đâu, những thắc mắc của phụ nữ thời nào cũng như nhau: Sức khỏe như thế nào thì đảm bảo có thai an toàn? Khi mang thai làm sao cho mẹ khỏe bé khỏe? và khi vượt cạn làm sao cho thuận lợi, mẹ hồi phục nhanh, bé mau ăn chóng lớn.
+Manufacturer: NXB Trẻ
+Tên sách: Y Học Sức Khỏe - Thai Kỳ Khỏe Mạnh - Vượt Cạn Bình An
+Number of Pages: 50
+Price: 54000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2fa05465201fdc127d21c
+Amount: 50
+Author: Vương Đào
+Book Cover: Bìa mềm
+Category: sachyhoc
+Description: DINH DƯỠNG HỌC BỊ THẤT TRUYỀN - Sách bán chạy hơn 500.000 nghìn bản Đông y nói “thực dược đồng nguyên” - thức ăn và thuốc cùng chung nguồn gốc, hay thức ăn chính là thuốc; thế nên việc ăn uống của chúng ta không chỉ đơn thuần là ăn để sống hay ăn cho khoái khẩu, mà sâu xa hơn là để cơ thể có đầy đủ dinh dưỡng, đầy đủ các nguyên vật liệu cần thiết nhằm bù đắp cho những phần đã tiêu hao hoặc tái sinh lại những phần đã bị tổn thương.
+Manufacturer: NXB Trẻ
+Tên sách: Dinh Dưỡng Học Bị Thất Truyền - Dinh Dưỡng Đẩy Lùi Bệnh Tật
+Number of Pages: 50
+Price: 154000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2fa5f465201fdc127d21f
+Amount: 50
+Author: VS GS TSKH Đái Duy Ban
+Book Cover: Bìa mềm
+Category: sachyhoc
+Description: Các bệnh không truyền nhiễm, cụ thể hơn là các bệnh rối loạn chuyển hóa, chưa bao giờ thôi là một nguy cơ lớn với sức khỏe cộng đồng. Ngay cả trong bối cảnh các bệnh truyền nhiễm đang hoành hành, những căn bệnh này vẫn luôn ngấm ngầm phát triển, kéo dài dai dẳng và khó điều trị dứt điểm. Chính vì vậy, phòng và điều trị những căn bệnh này vẫn luôn là một phần không thể thiếu trong các chương trình chăm sóc sức khỏe.
+Manufacturer: NXB Trẻ
+Tên sách: Phòng Và Hỗ Trợ Điều Trị Các Bệnh Rối Loạn Chuyển Hóa
+Number of Pages: 50
+Price: 88000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a2faee465201fdc127d222
+Amount: 50
+Author: VS GS TSKH Đái Duy Ban
+Book Cover: Bìa mềm
+Category: sachyhoc
+Description: Bệnh rối loạn chuyển hóa và nội tiết là những chứng bệnh mạn tính kéo dài hàng năm, có khi mắc bệnh suốt cuộc đời gây cho người bệnh nhiều biến chứng thật khổ sở. Nguyên nhân bệnh là khá phức tạp, nhiều mặt chưa thật rõ ràng có giới tính rõ rệt như bướu cổ phần nhiều nữ giới hay mắc, bệnh gút thì nam giới mắc nhiều, bệnh lại có tính di truyền mạnh như các bệnh gút, bệnh béo phì, bệnh tiểu đường... bệnh phát sinh theo tuổi tác như bệnh tiểu dường týp I thường phát sinh ở tuổi trẻ mà bệnh tiểu đường týp II thường gặp ở lứa tuổi trên 40, bệnh cường giáp thường gặp ở phụ nữ vào tuổi 30 đến 45 là tuổi đang sung sức còn hội chứng tiền mãn kinh thì phát sinh ở lứa tuổi trước và sau khi tắt kinh... Tất cả đều nói lên các bệnh rối loạn nội tiết và chuyển hóa là có liên quan đến đặc điểm tâm sinh lý của con người theo giới tính, theo từng giai đoạn tuổi và tình hình sinh hoạt của họ. Phương pháp điều trị bệnh nội tiết và rối loạn chuyển hóa hiện nay của y học hiện đại như dùng Insulin các loại sulfamit trị tiểu đường, dùng hydrocortison, DOCA trị suy thượng thận, dùng thyroid, lugol trị bướu cổ, dùng MTU trị cường giáp... cũng chỉ là phương pháp trị ngọn nên thường phải dùng thuốc lâu dài, năm này  qua năm khác, thuốc dùng lâu tích lũy hay dùng quá liều dễ gây ra những biến chứng nguy hiểm.
+Manufacturer: NXB Trẻ
+Tên sách: Đông Y Điều Trị - Bệnh Rối Loạn Chuyển Hóa Và Nội Tiết
+Number of Pages: 50
+Price: 88000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a31214465201fdc127d225
+Amount: 47
+Author: Ki Yong Jo
+Book Cover: Bìa mềm
+Category: sachyhoc
+Description: Trong quá trình cho ra đời cuốn sách này, tôi đã nhận được sự giúp đỡ của rất nhiều người. Xin gửi lời cảm ơn chân thành tới những bệnh nhân đã tìm đến phòng khám, các nhân viên, các bạn đồng nghiệp, các bác sĩ về răng hàm mặt đã hợp tác cùng tôi, giám đốc Lee Yong Gil cũng như các nhân viên của Moabooks. Những lời động viên, khích lệ và cổ vũ của các bạn đã trở thành nguồn sức mạnh cho tôi.
+Manufacturer: NXB Trẻ
+Tên sách: Chữa Ung Thư Bằng Phương Pháp Dưỡng Sinh
+Number of Pages: 50
+Price: 77000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 4
+Total Votes: 1
+Total Stars: 4
+
+_id: 62a31272465201fdc127d228
+Amount: 50
+Author: Trương Bá Lễ
+Book Cover: Bìa mềm
+Category: sachyhoc
+Description: Coronavirus chủ yếu truyền bệnh ở động vật, nhưng đã tiến hóa và lây nhiễm sang người. Tháng 12 năm 2019, tâm dịch đầu tiên ở Vũ Hán, Trung Quốc đã ghi nhận “27 người bị viêm phổi không rõ nguyên nhân, bảy người trong tình trạng nghiêm trọng, đe dọa tính mạng”. Chỉ một tháng sau, căn bệnh lây lan không kiểm soát sang nhiều vùng miền Trung Quốc và các quốc gia khác, bao gồm cả Việt Nam.
+Manufacturer: NXB Trẻ
+Tên sách: Chẩn Trị Covid-19 Bằng Đông Tây Y
+Number of Pages: 50
+Price: 127000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a312d4465201fdc127d22b
+Amount: 50
+Author: Từ Khắc Thành
+Book Cover: Bìa mềm
+Category: sachyhoc
+Description: Ung thư là gì? Ung thư không phải là cuộc tấn công của kẻ thù bên ngoài. Tế bào ung thư là những “người tốt” (tế bào bình thường) đột biến thành “kẻ xấu”. Cơ thể con người có 40 nghìn tỷ đến 60 nghìn tỷ tế bào và có 35.000 gien. Mỗi gien chứa hàng nghìn cặp bazơ. Khi các chất gây ung thư phá hủy ADN, các gien này dễ bị đột biến và tích tụ dần dần. Hơn nữa, trong quá trình phân chia tế bào, những sai sót ngẫu nhiên khi sao chép gien cũng có thể gây đột biến gien. Đột biến này xảy ra trong cơ thể chúng ta mọi lúc và phát triển thành bệnh tật, ung bướu cùng với quá trình lão hóa, tái tạo, chữa lành và sinh sản tự nhiên mà chúng ta không thể nào tránh được. Theo nghĩa này, mỗi người chúng ta đều đang sống chung với ung thư. Do đó, ung thư không đáng sợ, nó là một phần của tiến hóa.
+Manufacturer: NXB Trẻ
+Tên sách: Sống Chung Với Ung Thư
+Number of Pages: 50
+Price: 70000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a31342465201fdc127d22e
+Amount: 50
+Author: Akiyoshi Horie
+Book Cover: Bìa mềm
+Category: sachyhoc
+Description: Với kinh nghiệm là đời thứ tư của hiệu thuốc Đông y cổ truyền 90 năm tuổi, chữa trị cho khoảng 50.000 trường hợp bệnh nhân trên khắp nước Nhật và cả nước ngoài, từ đau bụng kinh, lạc nội mạc tử cung, vô sinh hiếm muộn đến trầm cảm, làm đẹp và giảm cân, tác giả hoàn toàn có đủ tự tin cho luận điểm của mình. Không giống như phương pháp chữa trị Tây y, chữa trị Đông y đòi hỏi Akiyoshi Horie phải dành hàng giờ để khám và chẩn đoán, theo dõi sát sao mức độ cải thiện thể chất và tinh thần của người bệnh và mỗi đơn thuốc là sự kết hợp của hàng trăm loại thảo dược khác nhau. Trong suốt quá trình tích góp kinh nghiệm chậm rãi và phong phú trong hơn một thập kỷ, Akiyoshi Horie nhận ra được sự liên hệ mật thiết giữa cơ thể với tinh thần và việc lưu thông máu thật sự ảnh hưởng triệt để đến thân-tâm ta mỗi ngày.
+Manufacturer: NXB Trẻ
+Tên sách: Lưu Thông Máu Tốt Hóa Giải Bách Bệnh
+Number of Pages: 50
+Price: 70000
+Publication Date: 2020
+Publisher: Thái Hà
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a31432465201fdc127d231
+Amount: 50
+Author: Russel Brunson
+Book Cover: Bìa mềm
+Category: sachcongnghe
+Description: Nếu bạn đang muốn xây dựng một CÔNG TY ONLINE bền vững, đây đích thị là cuốn sách dành cho bạn. Nó sẽ mang đến cho bạn một sự hiểu biết sâu sắc và một sự thấu suốt về cấu trúc và khoa học marketing hiệu quả để áp dụng chúng trên thế giới truyền thông online. Cuốn sách sẽ giúp bạn biết cách làm thế nào để cấu trúc lại sản phẩm và dịch vụ của công ty mình sao cho số tiền kiếm được nhiều gấp hai đến ba lần từ lượng truy cập bạn đang có. Khi làm theo các bước được hướng dẫn, mọi thứ sẽ bắt đầu vào guồng xoay của nó và bạn có thể đầu tư nhiều hơn để kiếm được nhiều khách hàng mới hơn.
+Manufacturer: NXB Thế Giới
+Tên sách: Bí Mật Dotcom
+Number of Pages: 50
+Price: 162000
+Publication Date: 2020
+Publisher: Thái Hà
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a3148f465201fdc127d234
+Amount: 50
+Author: Nguyễn Thị Lan Phượng
+Book Cover: Bìa mềm
+Category: sachcongnghe
+Description: Bạn mất rất nhiều thời gian để “làm sạch những bảng số liệu dài dằng dặc mà kết quả nhiều khi vẫn bị lỗi và không chính xác? Bạn bỏ công sức làm báo cáo ngày đêm mà vẫn không được duyệt và không đúng ý sếp hay khách hàng? Bạn muốn tạp ra một báo cáo trực quan, sinh động nhưng cũng không kém phần chuyên nghiệp khiến đồng nghiệp và sếp phải trầm trồ
+Manufacturer: Alpha Books
+Tên sách: Số Ơi, Mở Ra! - Tư Duy Phân Tích Số Liệu Và Thiết Kế Báo Cáo Excel Dashboard Chuyên Nghiệp
+Number of Pages: 50
+Price: 142000
+Publication Date: 2020
+Publisher: NXB Dân Trí
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a3151e465201fdc127d237
+Amount: 50
+Author: Robert Cecil Martin
+Book Cover: Bìa mềm
+Category: sachcongnghe
+Description: Hiện nay, lập trình viên là một trong những nghề nghiệp được nhiều người lựa chọn theo đuổi và gắn bó. Đây là công việc đòi hỏi sự tỉ mỉ, nhiều công sức nhưng mang lại giá trị cao và một tương lai công việc hứa hẹn. Là một trong số những chuyên gia giàu kinh nghiệm, điêu luyện và lành nghề trong ngành, tác giả đã đúc rút từ kinh nghiệm của mình, viết về những tình huống trong thực tế, đôi khi có thể trái ngược với lý thuyết để xây dựng nên cuốn cẩm nang này, nhằm hỗ trợ những người đang muốn trở thành một lập trình viên chuyên nghiệp.
+Manufacturer: Alpha Books
+Tên sách: Clean Code - Mã Sạch Và Con Đường Trở Thành Lập Trình Viên Giỏi
+Number of Pages: 400
+Price: 335000
+Publication Date: 2020
+Publisher: NXB Dân Trí
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a3167b465201fdc127d23a
+Amount: 50
+Author: Stephen Hawking
+Book Cover: Bìa mềm
+Category: sachcongnghe
+Description: Lòng khát khao khám phá luôn là động lực cho trí sáng tạo của con người trong mọi lĩnh vực không chỉ trong khoa học. Điều đó được kiểm chứng trong quyển Vũ trụ trong vỏ hạt dẻ
+Manufacturer: NXB Trẻ
+Tên sách: Vũ Trụ Trong Vỏ Hạt Dẻ
+Number of Pages: 200
+Price: 87000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 62a31702465201fdc127d23d
+Amount: 50
+Author: Nguyễn Hiển
+Book Cover: Bìa mềm
+Category: sachcongnghe
+Description: Thế giới đang đối mặt với những thay đổi chưa từng có. Những gì chúng ta chắc chắn vào 5 năm, hoặc 2 năm trước, giờ đây đang bị thử thách. Từ “cơn bão” của Trí tuệ nhân tạo, những chức năng, ứng dụng mới của các ngôn ngữ lập trình cho đến sự xuất hiện của đa dạng nền tảng công nghệ. Cuốn sách này, vì vậy ra đời với mong muốn giải đáp câu hỏi “Cần phải làm gì? và “Làm như thế nào?” cho những lập trình viên “bình thường” - những người muốn tốt và tốt hơn từng ngày, không phải những lập trình viên siêu hạng hay những người muốn nhanh chóng nhảy cóc tới đỉnh tháp.
+Manufacturer: NXB Trẻ
+Tên sách: DevUP - Cuốn Sách Toàn Diện Phát Triển Sự Nghiệp Của Lập Trình Viên
+Number of Pages: 200
+Price: 122000
+Publication Date: 2020
+Publisher: NXB Trẻ
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a3177c465201fdc127d240
+Amount: 120
+Author: Lê Trường Thông
+Book Cover: Bìa mềm
+Category: sachcongnghe
+Description: Lập trình cấu trúc là phương pháp tổ chức, phân chia chương trình thành các hàm, thủ tục. Chúng được dùng để xử lý dữ liệu nhưng lại tách rời các cấu trúc dữ liệu. Lập trình hướng đối tượng dựa trên việc tổ chức chương trình thành các lớp. Khác với hàm và thủ tục, lớp là một đơn vị bao gồm cả dữ liệu và các phương thức xử lý.
+Manufacturer: Huy Hoang Bookstore
+Tên sách: Giáo Trình C++ Và Lập Trình Hướng Đối Tượng
+Number of Pages: 120
+Price: 116000
+Publication Date: 2020
+Publisher: NXB Bách Khoa Hà Nội
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a317f6465201fdc127d243
+Amount: 120
+Author: Phạm Quang Huy
+Book Cover: Bìa mềm
+Category: sachcongnghe
+Description: Tự Học Photoshop Cc - Toàn Tập (Tái bản bổ sung lần 2) gồm 20 chương lý thuyết và bài tập thực hành khai thác các công cụ và lệnh cơ bản trong Photoshop, giúp các bạn tiết kiệm thời gian, đạt năng suất hơn khi làm việc với Photoshop CC cũng như với các phiên bản cũ hơn như Photoshop CS4, CS5, CS6. Các chương được trình bày độc lập rõ ràng, dễ dàng sử dụng, bạn đọc có thể thực hành các bài tập từ chương bắt đầu đến kết thúc hoặc chuyển đến các chương nào tùy ý. Không như các quyển sách hướng dẫn học Photoshop do tủ sách STK biên soạn với đối tượng là người bắt đầu, yêu cầu với quyển sách này là các bạn đã dùng qua các lệnh cơ bản trong Photoshop, bây giờ muốn hiểu rõ hơn các công cụ và lệnh này qua các ví dụ, với các phím tắt, thủ thuật và lời khuyên giúp cho bạn làm việc thông minh, nhanh hơn trong Photoshop. Có như vậy bạn sẽ tìm hiểu Photoshop ở mức sâu hơn. Sách là tài liệu không thể thiếu cho các học sinh, sinh viên, giáo viên, các chuyên viên đồ họa và nhiều hơn nữa đã làm quen với Photoshop nay muốn khai thác và sử dụng hiệu quả chương trình đầy quyền năng này thì đây chính là cuốn sách dành cho bạn hiểu và khai thác Photoshop ở mức độ nâng cao, tiết kiệm nhiều thời gian khi học.
+Manufacturer: NXB Thanh Niên
+Tên sách: Tự Học Photoshop CC
+Number of Pages: 320
+Price: 126000
+Publication Date: 2020
+Publisher: NXB Thanh Niên
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a31895465201fdc127d246
+Amount: 120
+Author: Nguyễn Văn Phước
+Book Cover: Bìa mềm
+Category: sachcongnghe
+Description: Sách trình bày nội dung một cách ngắn gọn, cơ bản và dễ hiểu. Trong sách, các tác giả không đi quá sâu vào kiến thức chuyên ngành cũng như không phân tích quá chi tiết transistor ở góc độ vật lý bán dẫn, sinh viên được giới thiệu lý thuyết vừa đủ và thông qua việc tính toán, thiết kế, giải các bài tập để củng cố kiến thức đã học ở phần lý thuyết. Tất cả kiến thức toán học phù hợp với yêu cầu của môn học. Ở mỗi chương có ví dụ minh họa, câu hỏi và bài tập để sinh viên có thể luyện tập, hiểu sâu hơn những vấn đề mình đã học. Trong quá trình học, sinh viên có thể trao đổi thêm với giảng viên về cách giải các bài tập khó hay được giải đáp các câu hỏi có liên quan đến môn học.
+Manufacturer: NXB Thanh Niên
+Tên sách: Giáo Trình Điện Tử - Linh Kiện Điện Tử Transistor
+Number of Pages: 320
+Price: 173000
+Publication Date: 2020
+Publisher: NXB Thanh Niên
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a31a59465201fdc127d251
+Amount: 120
+Author: Trần Thị Yến
+Book Cover: Bìa mềm
+Category: sachthamkhao
+Description: Tổng hợp toàn bộ những kiến thức trọng tâm của chương trình Hóa học THCS. Chỉ với cuốn sách này, các teen lớp 8, lớp 9 hoàn toàn có thể nắm chắc kiến thức để làm bài tập và ôn luyện trước các kì kiểm tra. Được coi là cuốn sổ tay thần thánh không chỉ tổng hợp lý thuyết, công thức hóa học, cuốn sách còn tổng hợp các dạng bài thường gặp nhất trong các đề kiểm tra. Sau khi học lý thuyết, các bài thực hành giúp người học hiểu sâu sắc và nhớ lâu hơn.
+Manufacturer: NXB Đại Học Quốc Gia Hà Nội
+Tên sách: Sổ Tay Học Nhanh Toàn Diện Kiến Thức Và Dạng Bài Hóa Học Lớp 8-9
+Number of Pages: 320
+Price: 53000
+Publication Date: 2020
+Publisher: Megabook
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a31e4a465201fdc127d254
+Amount: 120
+Author: Dương Hương
+Book Cover: Bìa mềm
+Category: sachthamkhao
+Description: Luyện giải bộ đề Bồi dưỡng học sinh giỏi tiếng Anh lớp 8 là cuốn sách giúp học sinh tổng hợp lại kiến thức từ cơ bản đến nâng cao, cùng bộ đề ôn luyện học sinh giỏi với các bài tập đa dạng và bám sát chương trình học.
+Manufacturer: NXB Đại Học Quốc Gia Hà Nội
+Tên sách: Luyện Giải Bộ Đề Bồi Dưỡng Học Sinh Giỏi Tiếng Anh Lớp 8
+Number of Pages: 320
+Price: 93000
+Publication Date: 2020
+Publisher: Megabook
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a31ea2465201fdc127d257
+Amount: 120
+Author: Đào Thị Hoàng Ly
+Book Cover: Bìa mềm
+Category: sachthamkhao
+Description: Tự học toàn diện Hóa học – Từ cơ bản đến nâng cao lớp 8 là cuốn sách được trình bày theo các chuyên đề học tập, kèm bài tập vận dụng và đề kiểm tra giúp các học sinh lớp 8 có thể dễ dàng tự học, ôn luyện môn Hóa học ngay tại nhà một cách bài bản, khoa học và hiệu quả.
+Manufacturer: NXB Đại Học Quốc Gia Hà Nội
+Tên sách: Tự Học Toàn Diện Hóa Học - Từ Cơ Bản Đến Nâng Cao Lớp 8
+Number of Pages: 320
+Price: 93000
+Publication Date: 2020
+Publisher: Megabook
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a31f7e465201fdc127d25a
+Amount: 120
+Author: Tống Ngọc Huyền
+Book Cover: Bìa mềm
+Category: sachthamkhao
+Description: Luyện Chuyên Sâu Ngữ Pháp Và Bài Tập Tiếng Anh 8 (Chương Trình Mới) giúp em có thể tự kiểm tra, đánh giá năng lực cũng như củng cố lại kiến thức Tiếng Anh đã học trên lớp hiệu quả. Cuốn sách gồm 6 Unit với Từ Vựng – Ngữ Pháp – Bài tập tương ứng bám sát chương trình Tiếng Anh lớp 8 theo chuẩn theo chương trình mới của Bộ Giáo Dục và Đào tạo.
+Manufacturer: NXB Đại Học Quốc Gia Hà Nội
+Tên sách: Luyện Chuyên Sâu Ngữ Pháp Và Bài Tập Tiếng Anh 8 - Tập 2 (Chương Trình Mới)
+Number of Pages: 320
+Price: 55000
+Publication Date: 2020
+Publisher: Megabook
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a32042465201fdc127d25d
+Amount: 120
+Author: Nhiều Tác Giả
+Book Cover: Bìa mềm
+Category: sachthamkhao
+Description: “Bí quyết tăng nhanh điểm kiểm tra Tiếng Anh 8 – Tập 2” nằm trong bộ sách “Bí quyết tăng nhanh điểm kiểm tra lớp 8” do CCBook phối hợp cùng NXB Đại học Quốc gia Hà Nội biên soạn. Với nhiều ưu điểm nổi bật, cuốn sách chính là một tài liệu tham khảo định hướng và hỗ trợ các em trong quá trình tự học, giúp các em có những bước tiến bộ vượt bậc trong học tập mà trước hết là “tăng nhanh điểm kiểm tra” trên lớp.
+Manufacturer: NXB Đại Học Quốc Gia Hà Nội
+Tên sách: Bí Quyết Tăng Nhanh Điểm Kiểm Tra - Tiếng Anh 8 - Tập 2
+Number of Pages: 320
+Price: 35000
+Publication Date: 2020
+Publisher: Megabook
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a320b2465201fdc127d260
+Amount: 120
+Author: Hoàng Thị Ngọc Tú
+Book Cover: Bìa mềm
+Category: sachthamkhao
+Description: Quick Quick – Bộ sách giúp con phát âm chuẩn, ghi nhớ từ vựng nhanh.
+Manufacturer: NXB Đại Học Quốc Gia Hà Nội
+Tên sách: Quick Quick Học Nhanh Toàn Diện Từ Vựng Tiếng Anh Theo Chủ Đề - Lớp 1 (Tái Bản)
+Number of Pages: 320
+Price: 71000
+Publication Date: 2020
+Publisher: Megabook
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+_id: 62a32113465201fdc127d263
+Amount: 115
+Author: Hoàng Thị Ngọc Tú
+Book Cover: Bìa mềm
+Category: sachthamkhao
+Description: Big 4 Bộ Đề Tự Kiểm Tra 4 Kỹ Năng Nghe – Nói – Đọc – Viết (Cơ Bản và Nâng Cao) Tiếng Anh Lớp 5 Tập 1 viết theo chuẩn khung chương trình mới của Bộ Giáo Dục và Đào Tạo giúp các em học sinh lớp 5 củng cố và phát triển toàn diện các kỹ năng: Nghe – Nói – Đọc – Viết Tiếng Anh.
+Manufacturer: NXB Đại Học Quốc Gia Hà Nội
+Tên sách: Big 4 - Bộ Đề Tự Kiểm Tra 4 Kỹ Năng Nghe - Nói - Đọc - Viết (Cơ Bản Và Nâng Cao) Tiếng Anh Lớp 5 - Tập 1
+Number of Pages: 320
+Price: 71000
+Publication Date: 2020
+Publisher: Megabook
+Average Stars: 5
+Total Votes: 1
+Total Stars: 5
+
+_id: 62a32164465201fdc127d266
+Amount: 120
+Author: Hoàng Thị Ngọc Tú
+Book Cover: Bìa mềm
+Category: sachthamkhao
+Description: Nhằm hệ thống hóa kiến thức tiếng Anh một cách trọng tâm, ngắn gọn, dễ nhớ nhất, đội ngũ tác giả của Megabook đã cho ra đời bộ sách “20 ngày ôn tập toàn diện kiến thức tiếng Anh”. Bộ sách sẽ giúp các em tiết kiệm thời gian ôn luyện, nắm vững kiến thức chỉ trong 20 ngày.
+Manufacturer: NXB Đại Học Quốc Gia Hà Nội
+Tên sách: 20 Ngày Ôn Tập Toàn Diện Kiến Thức Tiếng Anh Lớp 5
+Number of Pages: 320
+Price: 81000
+Publication Date: 2020
+Publisher: Megabook
+Average Stars: 1
+Total Votes: 1
+Total Stars: 1
+
+_id: 62d62b0cfcdb43fb6d105411
+Amount: 50
+Author: Nguyễn Mạnh Trí
+Book Cover: 
+Category: sachdulich
+Description: Chúng ta yêu Paris: văn hóa của nó, sự quyến rũ của nó, cái je ne sais quoi (cái khó tả, khó gọi tên) của nó. Còn gì hơn được khám phá những cửa hiệu sang trọng ở Khu Marais hay hít hà những loại pho mát hảo hạng nhất trong cái chợ tươi ngon trên Đường Rue Montorgueil; lang thang ở Khu Montmartre mộng mơ hay dạo qua những hiệu sách ở Khu Latinh; xem ca vũ trong quán rượu khi đêm muộn hay thẩn thơ bước dọc Đại lộ Boulevard St-Germain để đến uống một li cà phê buổi sáng ở Quán Café de Flore theo dấu chân Hemingway và Picasso? Và còn gì vui hơn là nhảy lên một cái xe Vélib’ và đạp xe dọc Sông Seine từ Tháp Eiffel đến Nhà thờ Đức Bà?
+Manufacturer: 
+Tên sách: Cẩm Nang Du Lịch - Top 10 Paris
+Number of Pages: 
+Price: 96000
+Publication Date: 
+Publisher: NXB Tổng Hợp TPHCM
+Average Stars: 0
+Total Votes: 0
+Total Stars: 0
+
+có quyển Nhà giả kim  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294784b498c7a6524551c35
+
+có quyển Thanh Gươm Diệt Quỷ - Kimetsu No Yaiba - Tập 23: Vượt Qua Tháng Năm, Sinh Mệnh Tỏa Rạng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62947db18d775c0116971553
+
+có quyển Tôi Vẽ - Phương Pháp Tự Học Vẽ Truyện Tranh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62947e428d775c0116971558
+
+có quyển Nghĩ Giàu Làm Giàu không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629481c664224ee2043fbfdd
+
+có quyển Trải Nghiệm Khách Hàng Xuất Sắc không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294827764224ee2043fbfe0
+
+có quyển Hoá Học 11 - Nâng Cao không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294832a64224ee2043fbfe3
+
+có quyển Atlat Địa Lí Việt Nam không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294836764224ee2043fbfe6
+
+có quyển Chủ Nghĩa Khắc Kỷ - Phong Cách Sống Bản Lĩnh Và Bình Thản không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294843664224ee2043fbfe9
+
+có quyển No Vocab - No Worries không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294851964224ee2043fbfec
+
+có quyển Hồi Kí Bóng Đá Của Son Heung Min: Đường Đến Châu Âu không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294862264224ee2043fbfef
+
+có quyển Isaac Newton - Nhà Khoa Học Vĩ Đại không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294869b64224ee2043fbff2
+
+có quyển Con Mình Chẳng Lẽ Lại Vứt không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294876164224ee2043fbff5
+
+có quyển Để Con Được Ốm không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629488ae64224ee2043fbff8
+
+có quyển Elon Musk: Tesla, Spacex Và Sứ Mệnh Tìm Kiếm Một Tương Lai Ngoài Sức Tưởng Tượng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629489e0bfc748518b31f44f
+
+có quyển Mê Cung Phát Triển Tư Duy - Khám Phá Thế Giới không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62948bdabfc748518b31f452
+
+có quyển Những Đêm Không Ngủ Những Ngày Chậm Trôi không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62948c6abfc748518b31f455
+
+có quyển Thám Tử Lừng Danh Conan - Tập 99 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62948fdbbfc748518b31f45b
+
+có quyển Pokémon - Cuộc Phiêu Lưu Của Pippi Hg.Ss Heartgold.Soulsilver - Tập 1 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62949093bfc748518b31f45e
+
+có quyển Tập Viết Tiếng Nhật Hiragana không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+6294915cbfc748518b31f461
+
+có quyển Cây Cam Ngọt Của Tôi không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629c74ea94d4f89fd8bc733c
+
+có quyển Cho Tôi Xin Một Vé Đi Tuổi Thơ  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629c771894d4f89fd8bc7351
+
+có quyển Tìm Em Nơi Anh - Find Me không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629c77fb94d4f89fd8bc7357
+
+có quyển Chuyện Cổ Tích Dành Cho Người Lớn  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f54cda8aaf1190391c0df
+
+có quyển Từ Điển Tiếng “Em”  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f554ea8aaf1190391c0e2
+
+có quyển Hạ Đỏ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f55ada8aaf1190391c0e5
+
+có quyển Giết Con Chim Nhại không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f5641a8aaf1190391c0e8
+
+có quyển Bến Xe không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f56ffa8aaf1190391c0eb
+
+có quyển Tô Bình Yên Vẽ Hạnh Phúc không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f57d1a8aaf1190391c0ee
+
+có quyển Chỉ Lo Chuyện Mình, Không Lo Chuyện Người  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f58daa8aaf1190391c0f1
+
+có quyển Giỏ Trái Cây không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f59d9a8aaf1190391c0f4
+
+có quyển Ra Bờ Suối Ngắm Hoa Kèn Hồng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f5b7ca8aaf1190391c0f9
+
+có quyển Cô Gái Cãi Lời Thượng Đế không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f669e8c2bd1306373f815
+
+có quyển Anh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f679e8c2bd1306373f818
+
+có quyển Tâm An Ắt Bình An không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f68dd8c2bd1306373f81b
+
+có quyển Người Thương Đã Cũ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+629f69c48c2bd1306373f81e
+
+có quyển Blockchain - Bản Chất Của Blockchain, Bitcoin, Tiền Điện Tử, Hợp Đồng Thông Minh Và Tương Lai Của Tiền Tệ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a1fe6f8801b54984b83451
+
+có quyển Người Bán Hàng Vĩ Đại Nhất Thế Giới không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a1febe8801b54984b83454
+
+có quyển Năng Đoạn Kim Cương không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2002b8801b54984b83457
+
+có quyển Bách Khoa Khủng Long Toàn Tập không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a200f08801b54984b8345a
+
+có quyển Siêu Nhí Hỏi Nhà Khoa Học Trả Lời không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a201988801b54984b8345d
+
+có quyển 10 Vạn Câu Hỏi Vì Sao - Cuộc Sống Muôn Màu không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a202428801b54984b83460
+
+có quyển Đi Tìm Momo - Tập Sách Ảnh Trốn Tìm - Tập 2 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2030b8801b54984b83463
+
+có quyển Rèn Luyện Tư Duy Phản Biện không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a203988801b54984b83466
+
+có quyển OSHO - Yêu - Being In Love không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a205ef8801b54984b8346c
+
+có quyển Kiếp Nào Ta Cũng Tìm Thấy Nhau - Câu Chuyện Về Những Linh Hồn Tri Kỷ Vĩnh Viễn Không Chia Lìa không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2204c9244fb290e901169
+
+có quyển Đời Ngắn Đừng Ngủ Dài không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a220fa9244fb290e90116c
+
+có quyển Chào Tuổi Dậy Thì! Kiến Thức Về Dậy Thì Dành Cho Các Bạn Nam (8-12 Tuổi) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a223419244fb290e901197
+
+có quyển Trên Đường Băng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a224429244fb290e9011a2
+
+có quyển Càng Kỷ Luật, Càng Tự Do không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2259f9244fb290e9011ad
+
+có quyển Sức Mạnh Của Ngôn Từ  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a226049244fb290e9011b0
+
+có quyển Kinh Tế Vĩ Mô không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a226b99244fb290e9011bc
+
+có quyển Chết Vì Chứng Khoán không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a228a49244fb290e9011c9
+
+có quyển Kinh Doanh Thời Trang Thành Công Từ A-Z không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a229799244fb290e9011d4
+
+có quyển Quảng Cáo Không Nói Láo - Sự Thật Về Quảng Cáo Dưới Góc Nhìn Khoa Học, Toàn Diện Và Thực Tiễn không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a229d99244fb290e9011d7
+
+có quyển 300 Trò Chơi Phát Triển Trí Tuệ Cho Trẻ 3 Tuổi không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a22ab19244fb290e9011e0
+
+có quyển Vòng Quanh Thế Giới - Ai Cập không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a22b349244fb290e9011e3
+
+có quyển Bóng Đá - Lối Sống Brazil không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a22bfc9244fb290e9011ea
+
+có quyển Hồi Ký Của Một Huyền Thoại Manchester United không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a22c919244fb290e9011f1
+
+có quyển Mbappé - Cậu Bé Vàng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a22cf09244fb290e9011f4
+
+có quyển Cờ Vua - Hãy Chơi Để Chiến Thắng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a22db09244fb290e901204
+
+có quyển Messi Vs Ronaldo - Đại Chiến Giữa Những Vị Thần không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a22e379244fb290e901207
+
+có quyển Bão Lửa U23 - Thường Châu Tuyết Trắng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a22edf9244fb290e90120e
+
+có quyển Tôi Tập Thể Dục - Những Bí Quyết Đơn Giản Để Có Thân Hình Đẹp Và Cơ Thể Khỏe Mạnh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a22fc89244fb290e901211
+
+có quyển Luyện Viết Và Học Từ Vựng Tiếng Anh Lớp 1 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a230759244fb290e90121e
+
+có quyển 5 Phút Khích Lệ Trẻ Mỗi Ngày không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a231459244fb290e901225
+
+có quyển Y Học Cổ Truyền không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a231ce9244fb290e90122c
+
+có quyển Cẩm Nang Du Lịch - Top 10 Paris không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a232dd9244fb290e901236
+
+có quyển 50 Tips Du Lịch Dành Cho Bạn Gái không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2b1301f8da0aa891e8317
+
+có quyển Những Mảng Màu Du Lịch Việt Nam không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2b1cb1f8da0aa891e831a
+
+có quyển Cẩm Nang Du Lịch Anh Quốc không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2b29e1f8da0aa891e831f
+
+có quyển Cẩm Nang Du Lịch Thái Lan không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2b3e81f8da0aa891e8337
+
+có quyển Cẩm Nang Du Lịch Nhật Bản không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2b6bb545b7fcb54642695
+
+có quyển Lịch Sử Của Trà không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2eb0b465201fdc127d1ce
+
+có quyển Mùa Nước Nổi Trong Đời Sống Văn Hoá Đồng Bằng Sông Cửu Long không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2eb76465201fdc127d1d1
+
+có quyển Văn Hóa Đô Thị không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2ebfc465201fdc127d1d4
+
+có quyển Naruto Tập 71 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2ed39465201fdc127d1d7
+
+có quyển Naruto - Tập 61: Huynh Đệ Song Thủ!! (Tái Bản 2022) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2ed84465201fdc127d1da
+
+có quyển Naruto Tập 45: Chiến Trường Làng Lá!! (Tái Bản 2022) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2edd8465201fdc127d1dd
+
+có quyển Naruto Tập 57: Naruto Xung Trận…!! (Tái Bản 2022) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2eecf465201fdc127d1e0
+
+có quyển Dragon Ball Super - Tập 13 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2ef35465201fdc127d1e3
+
+có quyển Dragon Ball Super Tập 9: Tàn Cuộc không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2ef8a465201fdc127d1e6
+
+có quyển Dragon Ball Super Tập 6: Hỡi Các Siêu Chiến Binh, Hãy Tập Hợp! không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2efd2465201fdc127d1e9
+
+có quyển Dragon Ball Super Tập 7: Giải Đấu Sức Mạnh - Cuộc Đua Tranh Sống Còn không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f00f465201fdc127d1ec
+
+có quyển Sách Giáo Khoa Bộ Lớp 11 - Sách Bài Học (Bộ 14 Cuốn) (2022) + 2 Cuộn Bao Sách Nylon TP không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f12c465201fdc127d1ef
+
+có quyển Tập Bản Đồ Địa Lí 11 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f17a465201fdc127d1f2
+
+có quyển Tiếng Việt 3 - Tập 1 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f201465201fdc127d1f5
+
+có quyển Sách Giáo Khoa Bộ Lớp 3 - Bài Học + Bài Tập (Bộ 13 Cuốn) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f315465201fdc127d1f8
+
+có quyển Sách Giáo Khoa Bộ Lớp 4 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f35f465201fdc127d1fb
+
+có quyển Sách Giáo Khoa Bộ Lớp 1 - Chân Trời Sáng Tạo - Sách Bài Học không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f3ac465201fdc127d1fe
+
+có quyển Luyện Đọc 1 (Kết Nối) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f429465201fdc127d201
+
+có quyển 90% Trẻ Thông Minh Nhờ Cách Trò Chuyện Đúng Đắn Của Cha Mẹ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f547465201fdc127d204
+
+có quyển Bố Bỉm Sữa Nuôi Con Khác Biệt không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f5af465201fdc127d207
+
+có quyển Mẹ Tự Tôn - Con Tự Tin không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f615465201fdc127d20a
+
+có quyển Để Con Được Bay - Nuôi Con Một Mình Theo Kiểu Mẹ Phượt không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f696465201fdc127d20d
+
+có quyển Phẩm Cách Cha Mẹ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f809465201fdc127d210
+
+có quyển Mẹ Ơi! Con Cũng Muốn Được Lắng Nghe không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f890465201fdc127d213
+
+có quyển Đừng Ép Con “Khôn” Sớm không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f916465201fdc127d216
+
+có quyển Y Học Sức Khỏe - Thai Kỳ Khỏe Mạnh - Vượt Cạn Bình An không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2f9bc465201fdc127d219
+
+có quyển Dinh Dưỡng Học Bị Thất Truyền - Dinh Dưỡng Đẩy Lùi Bệnh Tật không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2fa05465201fdc127d21c
+
+có quyển Phòng Và Hỗ Trợ Điều Trị Các Bệnh Rối Loạn Chuyển Hóa không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2fa5f465201fdc127d21f
+
+có quyển Đông Y Điều Trị - Bệnh Rối Loạn Chuyển Hóa Và Nội Tiết không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a2faee465201fdc127d222
+
+có quyển Chữa Ung Thư Bằng Phương Pháp Dưỡng Sinh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31214465201fdc127d225
+
+có quyển Chẩn Trị Covid-19 Bằng Đông Tây Y không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31272465201fdc127d228
+
+có quyển Sống Chung Với Ung Thư không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a312d4465201fdc127d22b
+
+có quyển Lưu Thông Máu Tốt Hóa Giải Bách Bệnh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31342465201fdc127d22e
+
+có quyển Bí Mật Dotcom không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31432465201fdc127d231
+
+có quyển Số Ơi, Mở Ra! - Tư Duy Phân Tích Số Liệu Và Thiết Kế Báo Cáo Excel Dashboard Chuyên Nghiệp không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a3148f465201fdc127d234
+
+có quyển Clean Code - Mã Sạch Và Con Đường Trở Thành Lập Trình Viên Giỏi không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a3151e465201fdc127d237
+
+có quyển Vũ Trụ Trong Vỏ Hạt Dẻ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a3167b465201fdc127d23a
+
+có quyển DevUP - Cuốn Sách Toàn Diện Phát Triển Sự Nghiệp Của Lập Trình Viên không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31702465201fdc127d23d
+
+có quyển Giáo Trình C++ Và Lập Trình Hướng Đối Tượng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a3177c465201fdc127d240
+
+có quyển Tự Học Photoshop CC không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a317f6465201fdc127d243
+
+có quyển Giáo Trình Điện Tử - Linh Kiện Điện Tử Transistor không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31895465201fdc127d246
+
+có quyển Sổ Tay Học Nhanh Toàn Diện Kiến Thức Và Dạng Bài Hóa Học Lớp 8-9 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31a59465201fdc127d251
+
+có quyển Luyện Giải Bộ Đề Bồi Dưỡng Học Sinh Giỏi Tiếng Anh Lớp 8 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31e4a465201fdc127d254
+
+có quyển Tự Học Toàn Diện Hóa Học - Từ Cơ Bản Đến Nâng Cao Lớp 8 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31ea2465201fdc127d257
+
+có quyển Luyện Chuyên Sâu Ngữ Pháp Và Bài Tập Tiếng Anh 8 - Tập 2 (Chương Trình Mới) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a31f7e465201fdc127d25a
+
+có quyển Bí Quyết Tăng Nhanh Điểm Kiểm Tra - Tiếng Anh 8 - Tập 2 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a32042465201fdc127d25d
+
+có quyển Quick Quick Học Nhanh Toàn Diện Từ Vựng Tiếng Anh Theo Chủ Đề - Lớp 1 (Tái Bản) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a320b2465201fdc127d260
+
+có quyển Big 4 - Bộ Đề Tự Kiểm Tra 4 Kỹ Năng Nghe - Nói - Đọc - Viết (Cơ Bản Và Nâng Cao) Tiếng Anh Lớp 5 - Tập 1 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a32113465201fdc127d263
+
+có quyển 20 Ngày Ôn Tập Toàn Diện Kiến Thức Tiếng Anh Lớp 5 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62a32164465201fdc127d266
+
+có quyển Cẩm Nang Du Lịch - Top 10 Paris không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+62d62b0cfcdb43fb6d105411
+

@@ -3,7 +3,7 @@ from langchain import OpenAI
 import sys, requests, pandas as pd
 import os, io
 import openai
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 def create_index(path):
     max_input = 4096
     tokens = 200
@@ -26,14 +26,14 @@ def create_index(path):
     vectorIndex.storage_context.persist(persist_dir = 'ChatGPT')
 
 def answerMe(question):
-    storage_context = StorageContext.from_defaults(persist_dir = 'D:\Code\AAA_github\DATN_Web\BotGPT\ChatGPT_1006')
+    storage_context = StorageContext.from_defaults(persist_dir = 'D:\Code\AAA_github\DATN_Web\BotGPT\ChatGPT_1206')
     index = load_index_from_storage(storage_context)
     query_engine = index.as_query_engine()
     response = query_engine.query(question)
     return response
 
-# response =  answerMe("có quyển Năng đoạn kim cương ko?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1")
-# print(response)
+response =  answerMe("có quyển  Năng đoạn kim cương không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1")
+print(response)
 # print(extract_entities('có bán quyển Chết vì chứng khoán ko?'))
 # response =  answerMe("quyển sách nào đắt nhất")
 # print(response)
