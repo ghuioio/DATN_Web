@@ -152,11 +152,11 @@ const App = () => {
             <Route path="/dieu-khoan" element={<DieuKhoan />} />
 
           </Routes>
-          <div >
-          <button onClick={()=>{socket.emit("sendDataFromClientToServer", '/cart')}}>
+          <div>
+          {/* <button onClick={()=>{socket.emit("sendDataFromClientToServer", '/cart'); console.log(socket)}}>
             sendMessage
-          </button>
-            <Chatbot />
+          </button> */}
+            <Chatbot socket={socket} />
           </div>
           {/* <Box flexGrow={1} display='flex' alignItems='end'>
             <Footer signedIn={signedIn}/>

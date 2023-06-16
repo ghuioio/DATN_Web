@@ -38,31 +38,10 @@ const config = {
   floating: true,
 };
 
-const initialSteps = [
-  {
-    id: '1',
-    message: 'What do you want to ask?',
-    trigger: 'get-user-input',
-  },
-  {
-    id: 'get-user-input',
-    user: true,
-    trigger: 'process-user-input',
-  },
-  {
-    id: 'process-user-input',
-    component: <RasaComponent />,
-    asMessage: true,
-    waitAction: true,
-    trigger: '1',
-  },
-];
-
 // RasaComponent
 function RasaComponent(props) {
   const [response, setResponse] = useState('');
-  const { previousStep, triggerNextStep } = props;
-
+  const { previousStep, triggerNextStep, socket } = props;
   React.useEffect(() => {
     const fetchData = async () => {
       const message = {
@@ -77,6 +56,7 @@ function RasaComponent(props) {
 
       const rasa_url = 'http://localhost:5005/webhooks/rest/webhook';
 
+      socket.emit("sendDataFromClientToServer", '/cart');
       try {
         const res = await axios.post(rasa_url, message, { headers });
         const botMessage = res.data[0]?.text || 'Sorry, I did not understand.';
@@ -96,11 +76,32 @@ function RasaComponent(props) {
 }
 
 // Chatbot component
-const Chatbot = () => {
+const Chatbot = (props) => {
   const classes = useStyles();
+  const {socket} = props
+  const initialSteps = [
+    {
+      id: '1',
+      message: 'What do you want to ask?',
+      trigger: 'get-user-input',
+    },
+    {
+      id: 'get-user-input',
+      user: true,
+      trigger: 'process-user-input',
+    },
+    {
+      id: 'process-user-input',
+      component: <RasaComponent socket={socket}/>,
+      asMessage: true,
+      waitAction: true,
+      trigger: '1',
+    },
+  ];
+  
   const [open, setOpen] = useState(false);
   const [steps, setSteps] = useState(initialSteps);
-
+  
   const handleEnd = ({ values, steps }) => {
     const newId = uuidv4();
     setSteps(prevSteps => [
@@ -108,7 +109,7 @@ const Chatbot = () => {
       { id: newId, user: true, trigger: `process-${newId}` },
       {
         id: `process-${newId}`,
-        component: <RasaComponent />,
+        component: <RasaComponent socket={socket}/>,
         asMessage: true,
         waitAction: true,
         trigger: newId,
