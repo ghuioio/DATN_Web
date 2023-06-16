@@ -87,6 +87,15 @@ nlu:
     - xem danh sách các sản phẩm trong giỏ hàng
     - có thể kiểm tra giúp tôi giỏ hàng được không?
 
+- intent: xem_lich_su
+  examples: |
+    - xem đơn hàng của tôi
+    - hãy cho tôi xem nội dung đơn hàng
+    - tôi muốn xem danh sách mua hàng gần đây
+    - muốn xem chi tiết đơn hàng gần đây
+    - muốn xem lịch sử mua hàng của tôi
+    - làm sao để xem lịch sử mua hàng?
+    - tôi muốn xem các sản phẩm tôi đã mua
 
 - lookup: book_name
   examples: |

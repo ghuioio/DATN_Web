@@ -147,7 +147,20 @@ class ActionVỉewCart(Action):
         sio.emit(Const_Rasa_To_Server, response)
         dispatcher.utter_message(text="Đây là giỏ hàng của bạn" )
         return [] 
+class ActionVỉewBill(Action):
+    def name(self) -> Text:
+        return "action_xem_lich_su"
 
+    def run(self, dispatcher: CollectingDispatcher,
+                tracker: Tracker,
+                domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        response = {
+                'id': clientId ,
+                'data': '/bill'
+            }
+        sio.emit(Const_Rasa_To_Server, response)
+        dispatcher.utter_message(text="Đây là danh sách đơn hàng của bạn" )
+        return [] 
 # class ActionAddBookToCart(Action):
 #     def name(self) -> Text:
 #         return "action_them_sach_vao_gio"

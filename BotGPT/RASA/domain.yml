@@ -8,6 +8,7 @@ intents:
   - hoi_sach
   - hoi_sach_theo_the_loai
   - xem_gio_hang
+  - xem_lich_su
   - utter_intent
   - what_is_x
 
@@ -49,7 +50,7 @@ actions:
 - action_hoi_sach
 - action_hoi_sach_theo_the_loai
 - action_xem_gio_hang
-
+- action_xem_lich_su
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

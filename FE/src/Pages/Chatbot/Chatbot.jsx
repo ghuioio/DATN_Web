@@ -54,7 +54,7 @@ const initialSteps = [
     component: <RasaComponent />,
     asMessage: true,
     waitAction: true,
-    trigger: '1',
+    trigger: 'get-user-input',
   },
 ];
 
