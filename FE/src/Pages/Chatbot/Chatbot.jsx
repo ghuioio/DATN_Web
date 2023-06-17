@@ -45,7 +45,7 @@ function RasaComponent(props) {
   React.useEffect(() => {
     const fetchData = async () => {
       const message = {
-        sender: 'test',
+        sender: socket.id,
         message: previousStep.value,
       };
 
@@ -56,7 +56,6 @@ function RasaComponent(props) {
 
       const rasa_url = 'http://localhost:5005/webhooks/rest/webhook';
 
-      socket.emit("sendDataFromClientToServer", '/cart');
       try {
         const res = await axios.post(rasa_url, message, { headers });
         const botMessage = res.data[0]?.text || 'Sorry, I did not understand.';

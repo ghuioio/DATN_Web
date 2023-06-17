@@ -15,7 +15,6 @@ import socketio
 
 sio = socketio.Client()
 Const_Rasa_To_Server = 'sendDataFromRasaToServer'
-clientId = 'BLRMjdMQxu54MuMuAAAF'
 @sio.event
 def connect():
     print("I'm connected!")
@@ -23,8 +22,6 @@ def connect():
 @sio.on('sendDataToRasa')
 def on_message(data):
     print('I received a message!')
-    global clientId 
-    clientId = data.id
     print(data)
 
 @sio.event
@@ -33,16 +30,6 @@ def disconnect():
 
 sio.connect('http://localhost:5000')
 def get_answers_from_chatgpt(user_text):
-    # openai.api_key = "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"
-    # response = openai.Completion.create(
-    #     engine="text-davinci-003",
-    #     prompt= user_text,
-    #     max_tokens=1024,
-    #     n=1,
-    #     stop=None,
-    #     temperature=0.5,
-    # ).choices[0].text
-    # return response
     return answerMe(user_text)
 
 class Simple_ChatGPT_Action(Action):
@@ -121,6 +108,7 @@ class ActionAskBookByCategory(Action):
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         user_text = tracker.latest_message.get('text')
         entities = tracker.latest_message.get('entities')
+        clientId = tracker.sender_id
         print(entities)
         if entities != []:
             response = {
@@ -140,6 +128,8 @@ class ActionVỉewCart(Action):
     def run(self, dispatcher: CollectingDispatcher,
                 tracker: Tracker,
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        print('tracker: ' + tracker.sender_id )
+        clientId = tracker.sender_id
         response = {
                 'id': clientId ,
                 'data': '/cart'
@@ -154,6 +144,7 @@ class ActionVỉewBill(Action):
     def run(self, dispatcher: CollectingDispatcher,
                 tracker: Tracker,
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        clientId = tracker.sender_id
         response = {
                 'id': clientId ,
                 'data': '/bill'
@@ -161,21 +152,3 @@ class ActionVỉewBill(Action):
         sio.emit(Const_Rasa_To_Server, response)
         dispatcher.utter_message(text="Đây là danh sách đơn hàng của bạn" )
         return [] 
-# class ActionAddBookToCart(Action):
-#     def name(self) -> Text:
-#         return "action_them_sach_vao_gio"
-
-#     def run(self, dispatcher: CollectingDispatcher,
-#                 tracker: Tracker,
-#                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-#         user_text = tracker.latest_message.get('text')
-#         entities = tracker.latest_message.get('entities')
-#         bookId = tracker.get_slot('book_name')
-#         print(bookId, entities)
-#         # sio.emit("sendDataClient", '/cart')
-#         dispatcher.utter_message(text='nothing' )
-#         return [] 
-
-# user_text = "quyển Để con được ốm bao nhiêu tiền ?" 
-# print(user_text)
-# print(get_answers_from_chatgpt('quyển sách nào đắt nhất'))

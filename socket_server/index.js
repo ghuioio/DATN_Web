@@ -11,7 +11,7 @@ const socketIo = require("socket.io")(server, {
   }); 
 
 socketIo.on("connection", (socket) => { 
-  console.log("New client connected" + socket.id); 
+  console.log("New client connected  " + socket.id); 
 
   // socket.on("registerRasaServer", function(data) =>)
   socket.on("sendDataFromClientToServer", function(data) {
