@@ -90,10 +90,15 @@ class ActionAskBook(Action):
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         user_text = tracker.latest_message.get('text')
         entities = tracker.latest_message.get('entities')
+        clientId = tracker.sender_id
         response =  str (answerMe(user_text +"?, nếu có hãy chỉ trả lời id của quyển sách, nếu không hãy chỉ trả lời -1") )
         print(entities, response)
         if len(response) > 5 :
-            sio.emit(Const_Rasa_To_Server, '/product/' + response)
+            res= {
+                'id': clientId ,
+                'data': '/product/' + response
+            }
+            sio.emit(Const_Rasa_To_Server, res)
             dispatcher.utter_message(text="Shop có quyển đấy, không biết đây có phải sách bạn cần tìm !!!" )
         else:
             dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm quyển khác không?" )
