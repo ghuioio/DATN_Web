@@ -95,7 +95,7 @@ const Chatbot = (props) => {
       component: <RasaComponent socket={socket}/>,
       asMessage: true,
       waitAction: true,
-      trigger: '1',
+      trigger: 'get-user-input',
     },
   ];
   
