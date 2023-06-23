@@ -1,35 +1,55 @@
 import requests
 import pandas as pd
-import io
-import random
+import io, openai
+import random, csv, json, os
+from typing import Any, Text, Dict, List
+import pandas as pd
+import requests
+os.environ["OPENAI_API_KEY"] = "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"
 
-def get_answers_from_chatgpt(user_text):
-    # Dummy function, replace this with your actual ChatGPT function
-    return "ChatGPT response"
+class BookAPI(object):
 
-def get_answers_from_sheets(intent, entity, user_text):
-    # Connect to Google Sheets
-    sheet_url = "1F8K6GNaz0Xo2Q7a9SjRsVZW8L58lBMTOCN9OyTVKye8"
-    GOOGLE_SHEET_URL = f"https://docs.google.com/spreadsheets/d/{sheet_url}/export?format=csv&gid=0"
-    s = requests.get(GOOGLE_SHEET_URL).content
-        
-    # Read the contents of the URL as a CSV file and store it in a dataframe
-    proxy_df = pd.read_csv(io.StringIO(s.decode('utf-8')))        
-    print(proxy_df)
-    if entity:
-        # Filter the dataframe by the intent column and retrieve the answer list
-        filtered_df = proxy_df[(proxy_df['intent'] == intent) & (proxy_df['entity'] == entity[0]['value'])]
+    def __init__(self):
+        self.db = pd.read_csv("books.csv")
 
-        if filtered_df.empty:
-            answer = get_answers_from_chatgpt(user_text) 
-        else:
-            answers = filtered_df['answer'].tolist()
-            answer = random.choice(answers)
-    else:
-        answer = get_answers_from_chatgpt(user_text)
+    def fetch_books(self):
+        return self.db.head(10)
 
-    # Return the answer list
-    return answer
+    def format_books(self, df, header=True) -> Text:
+        return df.to_csv(index=False, header=header)
 
-# Test with dummy data
-print(get_answers_from_sheets("intent_name", [{"value": "entity_value"}], "user text"))
+
+class ChatGPT(object):
+
+    def __init__(self):
+        self.url = "https://api.openai.com/v1/chat/completions"
+        self.model = "gpt-3.5-turbo"
+        self.headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {os.getenv('OPENAI_API_KEY')}"
+        }
+        self.prompt = "Answer the following question, based on the data shown. " \
+            "Answer in a complete sentence and don't say anything else."
+
+    def ask(self, restaurants, question):
+        content  = self.prompt + "\n\n" + restaurants + "\n\n" + question
+        body = {
+            "model":self.model, 
+            "messages":[{"role": "user", "content": content}]
+        }
+        result = requests.post(
+            url=self.url,
+            headers=self.headers,
+            json=body,
+        )
+        return result.json()
+
+book_api = BookAPI()
+chatGPT = ChatGPT()
+
+books = book_api.fetch_books()
+results = book_api.format_books(books)
+readable = book_api.format_books(books[['name', 'price']], header=False)
+question = 'có quyển Nhà giả kim không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1'
+answer = chatGPT.ask(results, question)
+print(answer)
