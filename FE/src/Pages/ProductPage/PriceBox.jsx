@@ -61,7 +61,7 @@ const PriceBox = ({ smallImages, price, setRefreshNavbar, maxAmount, userInfo, l
   }, [buy_amount])
 
   useEffect(() => {
-    let buyable = isNumber(amount) && amount > 0 && parseFloat(amount) === parseInt(amount) && amount <= maxAmount && (userInfo && !userInfo.isAdmin)
+    let buyable = isNumber(amount) && amount > 0 && parseFloat(amount) === parseInt(amount) && amount <= maxAmount && (!userInfo || (userInfo && !userInfo.isAdmin))
     setBuyable(buyable)
   }, [amount])
 
@@ -79,7 +79,6 @@ const PriceBox = ({ smallImages, price, setRefreshNavbar, maxAmount, userInfo, l
   const addToCart = async () => {
 
     if (!userInfo) {
-      // console.log(window.location.pathname)
       localStorage.setItem('prevpage', window.location.pathname)
       navigate('/signin')
       return

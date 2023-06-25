@@ -33,6 +33,7 @@ const LoginBox = ({ _setUserInfo }) => {
     else {
       _setUserInfo({ ...response.data, 'username': username })
       let prevpage = localStorage.getItem('prevpage')
+      console.log('loginbox: '+prevpage)
       if (prevpage) navigate(prevpage)
       else navigate('/')
     }

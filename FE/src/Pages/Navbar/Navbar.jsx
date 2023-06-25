@@ -277,6 +277,7 @@ const Navbar = (props) => {
     localStorage.setItem('access_token', '')
     localStorage.setItem('cart', JSON.stringify([]))
     localStorage.setItem('prev', '')
+    localStorage.setItem('prevpage', '')
     window.location.reload()
   }
 
