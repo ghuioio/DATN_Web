@@ -62,5 +62,5 @@ def adding_data_to_GPT():
 # response =  answerMe("có quyển  Năng đoạn kim cương không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1")
 # print(response)
 # print(extract_entities('có bán quyển Chết vì chứng khoán ko?'))
-response =  answerMe("cuốn Kinh Doanh Thời Trang Thành Công Từ A-Z đắt nhất")
-print(response)
+# response =  answerMe("cuốn Kinh Doanh Thời Trang Thành Công Từ A-Z đắt nhất")
+# print(response)
