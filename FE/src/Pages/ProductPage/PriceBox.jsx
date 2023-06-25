@@ -61,7 +61,7 @@ const PriceBox = ({ smallImages, price, setRefreshNavbar, maxAmount, userInfo, l
   }, [buy_amount])
 
   useEffect(() => {
-    let buyable = isNumber(amount) && amount > 0 && parseFloat(amount) === parseInt(amount) && amount <= maxAmount && !userInfo.isAdmin
+    let buyable = isNumber(amount) && amount > 0 && parseFloat(amount) === parseInt(amount) && amount <= maxAmount && (userInfo && !userInfo.isAdmin)
     setBuyable(buyable)
   }, [amount])
 

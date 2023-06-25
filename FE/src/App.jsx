@@ -56,7 +56,6 @@ const App = () => {
   const [userInfo, setUserInfo] = useState(null)
   const [signedIn, setSignedIn] = useState(false)
   const [checkLogin, setCheckLogin] = useState(false)
-  const [navigateBookId, setNavigateBookId] = useState('629f69c48c2bd1306373f81e');
   
   useEffect(() => {
     // socketRef.current = socketIOClient.connect(host)
