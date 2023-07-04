@@ -58,12 +58,12 @@ function RasaComponent(props) {
 
       try {
         const res = await axios.post(rasa_url, message, { headers });
-        const botMessage = res.data[0]?.text || 'Sorry, I did not understand.';
+        const botMessage = res.data[0]?.text || 'Xin lỗi, tôi không hiểu ý của bạn.';
         setResponse(botMessage);
         triggerNextStep();
       } catch (error) {
         console.error(error);
-        setResponse("Error: Unable to connect to the bot service.");
+        setResponse("Lỗi: Không thể kết nối với server.");
         triggerNextStep();
       }
     };
@@ -81,7 +81,7 @@ const Chatbot = (props) => {
   const initialSteps = [
     {
       id: '1',
-      message: 'What do you want to ask?',
+      message: 'Xin chào, tôi có thể giúp gì cho bạn ?',
       trigger: 'get-user-input',
     },
     {

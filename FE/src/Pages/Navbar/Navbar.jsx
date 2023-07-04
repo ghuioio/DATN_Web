@@ -339,7 +339,7 @@ const Navbar = (props) => {
                 </label>
               </div> */}
 
-              <div 
+              {/* <div 
                 className={classes.menuBox}>
                   
                   <Button onClick={sendData}>
@@ -347,7 +347,7 @@ const Navbar = (props) => {
                     style={{fontWeight: 'bold'}}
                     component='div'>CONVERT</Typography>
                   </Button>
-              </div>
+              </div> */}
 
             </div>
 

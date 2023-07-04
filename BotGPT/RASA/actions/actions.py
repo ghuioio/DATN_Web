@@ -93,7 +93,7 @@ class ActionAskBook(Action):
         clientId = tracker.sender_id
         response =  str (answerMe(user_text +"?, nếu có hãy chỉ trả lời id của quyển sách, nếu không hãy chỉ trả lời -1") )
         print(entities, response)
-        if len(response) > 5 :
+        if len(response) > 10 :
             res= {
                 'id': clientId ,
                 'data': '/product/' + response
