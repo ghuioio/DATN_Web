@@ -321,15 +321,15 @@ const Navbar = (props) => {
                 />
               </div>
                 
-              <div 
+              {/* <div 
                 className={classes.menuBox}
                 onClick={pdfReader}>
                 <Typography variant="body1" 
                     style={{fontWeight: 'bold'}}
                     component='div'>Đọc thử</Typography>
-              </div>
+              </div> */}
 
-              <div 
+              {/* <div 
                 className={classes.menuBox}>
                 <label>
                   <input name="" type="file" id="formId" hidden onChange={handleFileSelect} ></input>
@@ -337,7 +337,7 @@ const Navbar = (props) => {
                     style={{fontWeight: 'bold'}}
                     component='div'>PDF</Typography>
                 </label>
-              </div>
+              </div> */}
 
               <div 
                 className={classes.menuBox}>
