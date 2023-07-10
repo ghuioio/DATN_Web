@@ -1,15 +1,20 @@
 import { Box, Button, Divider, IconButton, MenuItem, TextField, Typography, Slide, Snackbar } from "@material-ui/core"
 import { FileCopyOutlined } from "@material-ui/icons"
 import { Fragment, useEffect } from "react"
+import { useLocation, useNavigate } from "react-router-dom"
 import { useState } from "react"
 import { BUY_STATUS, HEROKU_API } from "../../Services/Constants"
-import { axiosGet, axiosPut } from "../../Services/Ultils/axiosUtils"
+import { axiosGet, axiosPut, axiosPost } from "../../Services/Ultils/axiosUtils"
 import { numberWithCommas } from "../../Services/Ultils/NumberUtils"
 import BillItem from "./BillItem"
 
 const Bill = ({ _id, _status, _items, _totalBill, _address, setOpenAlert, setAlertMessage, setAlertSevirity }) => {
 
   const [hidden, setHidden] = useState(false)
+  const navigate = useNavigate()
+  const goToCart = () => {
+    navigate('/cart')
+  }
   const clickCopy = () => {
     navigator.clipboard.writeText(_id);
   }
@@ -29,6 +34,22 @@ const Bill = ({ _id, _status, _items, _totalBill, _address, setOpenAlert, setAle
     setAlertMessage('Hủy đơn hàng thành công')
     setAlertSevirity('success')
   }
+  const buyAgain = async () => {
+    let cart = JSON.parse(localStorage.getItem('cart'))
+    for (let item of _items) {
+      let sameIndex = cart.findIndex(book => book.book === item.book._id)
+      if (sameIndex !== -1) cart[sameIndex].qualityBook += item.qualityBook
+      else cart.push({
+        book: item.book._id,
+        qualityBook: item.qualityBook
+      })
+    }
+    let response = await axiosPost(`${HEROKU_API}/cart`, cart, true)
+    if (!response || !response.success) return
+    localStorage.setItem('cart', JSON.stringify(cart))
+    goToCart()
+  }
+  
 
   return (
     <>
@@ -111,6 +132,11 @@ const Bill = ({ _id, _status, _items, _totalBill, _address, setOpenAlert, setAle
                 {_status==='unprocessed' &&
                   <Button variant='outlined' onClick={cancelOrder}>
                     Hủy đơn
+                  </Button>
+                }
+                { (_status==='completed' || _status==='canceled')  &&
+                  <Button variant='outlined' onClick={buyAgain}>
+                    Mua lại
                   </Button>
                 }
               </Box>
