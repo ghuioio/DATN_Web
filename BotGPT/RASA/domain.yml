@@ -2,8 +2,8 @@ version: "3.1"
 
 domain:
 intents:
-  - chao
-  - tam_biet
+  # - chao
+  # - tam_biet
   - cam_on
   - hoi_sach
   - hoi_sach_theo_the_loai
@@ -30,14 +30,14 @@ entities:
   - book_name
   - category
 responses:
-  utter_chao:
-    - text: "Chào bạn, tôi là chatbot của Book&Chill !"
+  # utter_chao:
+  #   - text: "Chào bạn, tôi là chatbot của Book&Chill !"
 
   utter_cam_on:
     - text: "Không có gì ạ, bạn cảm thấy hài lòng là mình vui rồi"
 
-  utter_tam_biet:
-    - text: "Tạm biệt! Chúc bạn một ngày tốt lành!"
+  # utter_tam_biet:
+  #   - text: "Tạm biệt! Chúc bạn một ngày tốt lành!"
 
   utter_unclear:
     - text: "Bạn có thể nói rõ hơn được không?"

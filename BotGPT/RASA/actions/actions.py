@@ -91,12 +91,16 @@ class ActionAskBook(Action):
         user_text = tracker.latest_message.get('text')
         entities = tracker.latest_message.get('entities')
         clientId = tracker.sender_id
-        response =  str (answerMe(user_text +"?, nếu có hãy chỉ trả lời id của quyển sách, nếu không hãy chỉ trả lời -1") )
+        response =  str (answerMe(user_text +"?, nếu có chỉ trả lời id của quyển sách, nếu không hãy chỉ trả lời -1") )
         print(entities, response)
         if len(response) > 10 :
+            if ":" in response:
+                id_string = response.split(":")[1].strip()
+            else:
+                id_string = response
             res= {
                 'id': clientId ,
-                'data': '/product/' + response
+                'data': '/product/' + id_string 
             }
             sio.emit(Const_Rasa_To_Server, res)
             dispatcher.utter_message(text="Shop có quyển đấy, không biết đây có phải sách bạn cần tìm !!!" )
@@ -133,7 +137,7 @@ class ActionVỉewCart(Action):
     def run(self, dispatcher: CollectingDispatcher,
                 tracker: Tracker,
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        print('tracker: ' + tracker.sender_id )
+        # print('tracker: ' + tracker.sender_id )
         clientId = tracker.sender_id
         response = {
                 'id': clientId ,

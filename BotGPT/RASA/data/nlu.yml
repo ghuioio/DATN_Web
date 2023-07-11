@@ -13,38 +13,38 @@ nlu:
     - what is a [chair](object_entity)?
     - what a [dog](object_entity) is?
     - what a [chair](object_entity) is
-- intent: chao
-  examples: |
-    - hi
-    - hello
-    - tư vấn
-    - hỗ trợ
-    - giúp mình với
-    - chào
-    - xin chào
-    - có ai không
-    - anh ơi
-    - chị ơi
-    - chào anh
-    - chào chị
-    - bạn ơi
-    - chào bạn
+# - intent: chao
+#   examples: |
+#     - hi
+#     - hello
+#     - tư vấn
+#     - hỗ trợ
+#     - giúp mình với
+#     - chào
+#     - xin chào
+#     - có ai không
+#     - anh ơi
+#     - chị ơi
+#     - chào anh
+#     - chào chị
+#     - bạn ơi
+#     - chào bạn
 
-- intent: tam_biet
-  examples: |
-    - tạm biệt
-    - chào tạm biệt
-    - tạm biệt nhé
-    - tạm biệt nha
-    - tạm biệt anh
-    - tạm biệt chị
-    - tạm biệt bạn
-    - xong rồi
-    - ok
-    - oke
-    - ừ
-    - ờ
-    - ừa
+# - intent: tam_biet
+#   examples: |
+#     - tạm biệt
+#     - chào tạm biệt
+#     - tạm biệt nhé
+#     - tạm biệt nha
+#     - tạm biệt anh
+#     - tạm biệt chị
+#     - tạm biệt bạn
+#     - xong rồi
+#     - ok
+#     - oke
+#     - ừ
+#     - ờ
+#     - ừa
 
 - intent: cam_on
   examples: |
@@ -70,6 +70,7 @@ nlu:
     - Shop có sẵn [Cây cam ngọt của tôi](book_name) ko nhỉ ?
     - có [nguời thương đã cũ] (book_name) ko 
     - có sẵn [Tâm an ắt bình an](book_name) không nhỉ ?
+    - có quyển [người thương đã cũ] không
 
 - intent: hoi_sach_theo_the_loai
   examples: |
