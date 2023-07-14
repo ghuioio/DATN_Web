@@ -1,1 +1,0 @@
-{"text": {"can": 2, "you": 16, "utter": 14, "do": 4, "know": 9, "how": 7, "to": 13, "show": 12, "me": 10, "an": 1, "example": 6, "of": 11, "what": 15, "is": 8, "a": 0, "dog": 5, "chair": 3}, "intent": {"utter_intent": 0, "what_is_x": 1}, "response": null, "action_name": null, "action_text": null, "intent_response_key": null}
