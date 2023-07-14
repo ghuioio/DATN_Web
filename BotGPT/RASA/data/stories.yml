@@ -13,10 +13,10 @@ stories:
 #     - intent: tam_biet
 #     - action: utter_tam_biet
 
-- story: simple google sheet action use
-  steps:
-  - intent: what_is_x
-  - action: simple_google_sheet_or_chatgpt_action
+# - story: simple google sheet action use
+#   steps:
+#   - intent: what_is_x
+#   - action: simple_google_sheet_or_chatgpt_action
 
 - story: hoi sach
   steps:
