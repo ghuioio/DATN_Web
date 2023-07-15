@@ -8,7 +8,7 @@ import sys, requests, pandas as pd
 import os, io
 import openai
 from dotenv import load_dotenv
-openai.api_key = "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"
+openai.api_key = "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"
 os.environ["OPENAI_API_KEY"] = openai.api_key
 def create_index(path):
     max_input = 4096

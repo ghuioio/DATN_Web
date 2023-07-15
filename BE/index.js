@@ -16,6 +16,10 @@ const cors = require("cors");
 const app = express();
 app.use(express.json());
 app.use(cors());
+app.use(cors({
+  origin: '*', 
+  credentials: true   
+}));
 console.log(process.env.MONGODB_URI)
 mongoose.connect(process.env.MONGODB_URI, err => {
   if (err) {
@@ -23,7 +27,12 @@ mongoose.connect(process.env.MONGODB_URI, err => {
   }
   console.log("Connect DB Successfully");
 });
+app.use(function (req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*"); 
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
 
+  next(); 
+});
 app.use("/api/books", bookRouter);
 app.use("/api/auth", authRouter);
 app.use("/api/upload", uploadRouter);
