@@ -53,8 +53,9 @@ function RasaComponent(props) {
         'Content-Type': 'application/json',
         'Accept': 'application/json',
       };
-
-      const rasa_url = 'http://localhost:5005/webhooks/rest/webhook';
+      const ngrok = 'https://2dbf-2a09-bac1-7a80-50-00-245-5d.ngrok-free.app'
+      const rasa_url = ngrok + '/webhooks/rest/webhook'
+      // const rasa_url = 'http://localhost:5005/webhooks/rest/webhook';
 
       try {
         const res = await axios.post(rasa_url, message, { headers });
