@@ -127,7 +127,7 @@ const Order = ({ _id, _status, _items, _totalBill, _address }) => {
                 <Button
                   variant='contained'
                   color="primary"
-                  disabled={status === _status || loading || status === BUY_STATUS[3]}
+                  disabled={status === _status || loading || status === BUY_STATUS[3] || BUY_STATUS.indexOf(status) < BUY_STATUS.indexOf(_status)}
                   style={{ height: '40px', width: '100px' }}
                   onClick={confirm}
                 >
