@@ -372,7 +372,7 @@ const Navbar = (props) => {
                 
 
 
-              <Box className={classes.tabBox}>
+              {!props.userInfo?.isAdmin && <Box className={classes.tabBox}>
                 <NavLink to='/cart'>
                   {({ isActive }) => (
                     // <Typography variant="body2" className={isActive ? classes.linkActive : classes.linkInActive}>
@@ -383,7 +383,7 @@ const Navbar = (props) => {
                     </Badge>
                   )}
                 </NavLink>
-              </Box>
+              </Box>}
 
               <Box className={classes.tabBox} >
                 {props.signedIn ? (
