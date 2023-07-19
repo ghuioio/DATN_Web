@@ -1,6 +1,6 @@
 export const BASE_API = 'https://books.monsters.vn/apis'
 export const BASE_FILE = 'https://books.monsters.vn/files'
-export const HEROKU_API = "https://datn-web-be.onrender.com/api"
+export const HEROKU_API = "https://datn-web-be.vercel.app/api"
 // export const HEROKU_API = "http://localhost:8080/api"
 export const PDF_API = "http://localhost:5000"
 export const VOICE_API = "https://tjervfsstu4zexu4hbabzqolq40zudgs.lambda-url.ap-southeast-1.on.aws"
