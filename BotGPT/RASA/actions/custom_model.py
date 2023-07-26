@@ -8,7 +8,7 @@ import sys, requests, pandas as pd
 import os, io
 import openai
 from dotenv import load_dotenv
-openai.api_key = "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"
+openai.api_key = "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"
 os.environ["OPENAI_API_KEY"] = openai.api_key
 def create_index(path):
     max_input = 4096
@@ -97,7 +97,6 @@ def adding_data_to_GPT():
 # print(response)
 # response =  answerMe("có quyển sách nào tên là người thương đã cũ không?, nếu có chỉ trả lời id (dạng số) của quyển sách, nếu không chỉ trả lời -1")
 # print(response)
-response =  answerMe("quyển sách đắt nhất")
-print(response)
-response =  answerMe("giới thiệu quyển đấy")
-print(response)
+print(agent_chain.run("quyển sách đắt nhất"))
+# response =  answerMe("giới thiệu quyển đấy")
+# print(response.output)
