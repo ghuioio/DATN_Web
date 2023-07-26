@@ -8,7 +8,7 @@ import sys, requests, pandas as pd
 import os, io
 import openai
 from dotenv import load_dotenv
-openai.api_key = "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"
+openai.api_key = "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"
 os.environ["OPENAI_API_KEY"] = openai.api_key
 def create_index(path):
     max_input = 4096
@@ -39,7 +39,7 @@ query_engine = index.as_query_engine()
 tool_config = IndexToolConfig(
     query_engine = query_engine,
     name=f"Chatbot",
-    description=f"trả lời câu hỏi liên quan về sách, dữ liệu sách như giá tiền, id, thể loại",
+    description=f"trả lời câu hỏi liên quan về sách, dữ liệu sách như giá tiền, id, thể loại, mô tả, tác giả.",
     tool_kwargs={"return_direct": True}
 )
 index_configs.append(tool_config)
@@ -59,8 +59,9 @@ def answerMe(question):
     # storage_context = StorageContext.from_defaults(persist_dir = 'D:\Code\AAA_github\DATN_Web\BotGPT\ChatGPT_0307_4')
     # index = load_index_from_storage(storage_context)
     # query_engine = index.as_query_engine()
-    response = query_engine.query(question)
-    return response
+    # response = query_engine.query(question)
+    # return response
+    return agent_chain.run(input=question)
 
 def chatGPTwithMemory(question):
     return agent_chain.run(input=question)
@@ -96,3 +97,7 @@ def adding_data_to_GPT():
 # print(response)
 # response =  answerMe("có quyển sách nào tên là người thương đã cũ không?, nếu có chỉ trả lời id (dạng số) của quyển sách, nếu không chỉ trả lời -1")
 # print(response)
+response =  answerMe("quyển sách đắt nhất")
+print(response)
+response =  answerMe("giới thiệu quyển đấy")
+print(response)

@@ -3,5 +3,10 @@ version: "3.1"
 rules:
 - rule: out-of-scope
   steps:
+  - intent: out_of_scope
+  - action: action_chatgpt_fallback
+
+- rule: Ask the user to rephrase whenever they send a message with low NLU confidence
+  steps:
   - intent: nlu_fallback
-  - action: action_gpt_default_fallback
+  - action: action_chatgpt_fallback

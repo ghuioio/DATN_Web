@@ -1,23 +1,21 @@
 version: "3.1"
-
 stories:
-- story: simple utter
+- story: out_of_scope
+  steps: 
+  - action: action_chatgpt_fallback
+
+- story: chao
   steps:
-  - intent: utter_intent
-  - action: utter_response
-
-# - story: chao
-#   steps:
-#     - intent: chao
-#     - action: utter_chao
-#     - intent: tam_biet
-#     - action: utter_tam_biet
-
-- story: simple google sheet action use
-  steps:
-  - intent: what_is_x
-  - action: simple_google_sheet_or_chatgpt_action
-
+    - intent: chao
+    - action: utter_chao
+- story: tam_biet
+  steps:    
+    - intent: tam_biet
+    - action: utter_tam_biet
+- story: cam_on
+  steps:    
+    - intent: cam_on
+    - action: utter_cam_on
 - story: hoi sach
   steps:
     # - intent: chao

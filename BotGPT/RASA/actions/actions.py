@@ -32,9 +32,19 @@ sio.connect('http://localhost:5000')
 def get_answers_from_chatgpt(user_text):
     return answerMe(user_text)
 
+def print_intent_probabilities(tracker: Tracker):
+
+  intent_rankings = tracker.latest_message['intent_ranking']
+
+  print("Intent Probabilities:")
+  for ranking in intent_rankings:
+    intent_name = ranking['name']
+    intent_prob = ranking['confidence']
+    print(f"- {intent_name}: {intent_prob}")
+
 class Simple_ChatGPT_Action(Action):
     def name(self) -> Text:
-        return "action_gpt_default_fallback" 
+        return "action_chatgpt_fallback" 
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -44,43 +54,10 @@ class Simple_ChatGPT_Action(Action):
         user_text = tracker.latest_message.get('text')
 
         # Dispatch the response from OpenAI to the user
-        dispatcher.utter_message('ChatGPT (custom_action): ' + get_answers_from_chatgpt(user_text))
+        dispatcher.utter_message(get_answers_from_chatgpt(user_text))
+        print_intent_probabilities(tracker)
         return []
-    
-class Simple_Google_sheet_or_ChatGPT_Action(Action):
-    def name(self) -> Text:
-        return "simple_google_sheet_or_chatgpt_action" 
 
-    def run(self, dispatcher: CollectingDispatcher,
-            tracker: Tracker,
-            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        user_text = tracker.latest_message.get('text')
-        intent = tracker.latest_message.get('intent').get('name')
-        entities = tracker.latest_message.get('entities')
-        dispatcher.utter_message('Google Sheets (custom_action): ' + str(self.get_answers_from_sheets(intent, entities, user_text)))
-
-        return []
-    
-    def get_answers_from_sheets(self, intent, entity, user_text):
-
-        # Connect to Google Sheets
-        sheet_url = "1F8K6GNaz0Xo2Q7a9SjRsVZW8L58lBMTOCN9OyTVKye8"
-
-        GOOGLE_SHEET_URL = f"https://docs.google.com/spreadsheets/d/{sheet_url}/export?format=csv&gid=0"
-        s = requests.get(GOOGLE_SHEET_URL).content
-        proxy_df = pd.read_csv(io.StringIO(s.decode('utf-8')))        
-        if entity:
-            # Filter the dataframe by the intent column and retrieve the answer list
-            filtered_df = proxy_df[(proxy_df['intent'] == intent) & (proxy_df['entity'] == entity[0]['value'])]
-
-            if filtered_df.empty:
-                answer = get_answers_from_chatgpt(user_text) 
-            else:
-                answers = filtered_df['answer'].tolist()
-                answer = random.choice(answers)
-        else:
-            answer = get_answers_from_chatgpt(user_text)
-        return answer
 class ActionAskBook(Action):
     def name(self) -> Text:
         return "action_hoi_sach"
@@ -106,7 +83,12 @@ class ActionAskBook(Action):
             dispatcher.utter_message(text="Shop có quyển đấy, không biết đây có phải sách bạn cần tìm !!!" )
         else:
             dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm quyển khác không?" )
-        return [SlotSet('book_name', response )]
+
+            intent_rankings = tracker.latest_message['intent_ranking']
+
+        # Get the confidence score of the predicted intent
+        print_intent_probabilities(tracker)
+        return []
     
 class ActionAskBookByCategory(Action):
     def name(self) -> Text:
@@ -128,6 +110,7 @@ class ActionAskBookByCategory(Action):
             dispatcher.utter_message(text="Đây là danh sách thuộc thể loại bạn tìm." )
         else:
             dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm thể loại khác không?" )
+        print_intent_probabilities(tracker)
         return []
 
 class ActionVỉewCart(Action):
@@ -145,6 +128,7 @@ class ActionVỉewCart(Action):
             }
         sio.emit(Const_Rasa_To_Server, response)
         dispatcher.utter_message(text="Đây là giỏ hàng của bạn" )
+        print_intent_probabilities(tracker)
         return [] 
 class ActionVỉewBill(Action):
     def name(self) -> Text:
@@ -160,4 +144,5 @@ class ActionVỉewBill(Action):
             }
         sio.emit(Const_Rasa_To_Server, response)
         dispatcher.utter_message(text="Đây là danh sách đơn hàng của bạn" )
+        print_intent_probabilities(tracker)
         return [] 
