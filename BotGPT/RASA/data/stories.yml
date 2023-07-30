@@ -2,6 +2,7 @@ version: "3.1"
 stories:
 - story: out_of_scope
   steps: 
+  - intent: out_of_scope
   - action: action_chatgpt_fallback
 
 - story: chao

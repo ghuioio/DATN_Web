@@ -8,7 +8,7 @@ import sys, requests, pandas as pd
 import os, io
 import openai
 from dotenv import load_dotenv
-openai.api_key = "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"
+openai.api_key = "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"
 os.environ["OPENAI_API_KEY"] = openai.api_key
 def create_index(path):
     max_input = 4096
@@ -56,12 +56,12 @@ agent_chain=create_llama_chat_agent(
 )
 
 def answerMe(question):
-    # storage_context = StorageContext.from_defaults(persist_dir = 'D:\Code\AAA_github\DATN_Web\BotGPT\ChatGPT_0307_4')
-    # index = load_index_from_storage(storage_context)
-    # query_engine = index.as_query_engine()
-    # response = query_engine.query(question)
-    # return response
-    return agent_chain.run(input=question)
+    storage_context = StorageContext.from_defaults(persist_dir = 'D:\Code\AAA_github\DATN_Web\BotGPT\ChatGPT_0307_4')
+    index = load_index_from_storage(storage_context)
+    query_engine = index.as_query_engine()
+    response = query_engine.query(question)
+    return response
+    # return agent_chain.run(input=question)
 
 def chatGPTwithMemory(question):
     return agent_chain.run(input=question)
@@ -97,6 +97,6 @@ def adding_data_to_GPT():
 # print(response)
 # response =  answerMe("có quyển sách nào tên là người thương đã cũ không?, nếu có chỉ trả lời id (dạng số) của quyển sách, nếu không chỉ trả lời -1")
 # print(response)
-print(agent_chain.run("quyển sách đắt nhất"))
+# print(agent_chain.run("quyển sách đắt nhất"))
 # response =  answerMe("giới thiệu quyển đấy")
 # print(response.output)

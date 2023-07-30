@@ -6,23 +6,13 @@ nlu:
     - quyển sách nào đắt nhất
     - Mô tả thông tin quyển sách
     - Quyển sách đấy bao nhiêu tiền
-    - 
+    - giới thiệu quyển đấy
+    - tác giả quyển đấy là ai
 - intent: chao
   examples: |
-    - hi
-    - hello
-    - tư vấn
-    - hỗ trợ
     - giúp mình với
     - chào
     - xin chào
-    - có ai không
-    - anh ơi
-    - chị ơi
-    - chào anh
-    - chào chị
-    - bạn ơi
-    - chào bạn
 
 - intent: tam_biet
   examples: |
@@ -30,15 +20,7 @@ nlu:
     - chào tạm biệt
     - tạm biệt nhé
     - tạm biệt nha
-    - tạm biệt anh
-    - tạm biệt chị
     - tạm biệt bạn
-    - xong rồi
-    - ok
-    - oke
-    - ừ
-    - ờ
-    - ừa
 
 - intent: cam_on
   examples: |
@@ -50,7 +32,6 @@ nlu:
     - giỏi quá
     - tuyệt quá
     - rất hữu ích
-    - có giá trị tham khảo
     - cũng đáng tin đấy
     - thanks
     - tks

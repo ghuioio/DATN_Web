@@ -4,7 +4,7 @@ import openai
 import random
 import requests
 import pandas as pd
-from .custom_model import answerMe
+from .custom_model import answerMe, chatGPTwithMemory
 from .connect_mongodb import find_book_by_title, find_book_by_category
 from dotenv import load_dotenv
 from rasa_sdk import Action, Tracker 
@@ -35,7 +35,8 @@ def get_answers_from_chatgpt(user_text):
 def print_intent_probabilities(tracker: Tracker):
 
   intent_rankings = tracker.latest_message['intent_ranking']
-
+  intent = tracker.latest_message['intent'].get('name')
+  print(f"Triggered intent: {intent}")
   print("Intent Probabilities:")
   for ranking in intent_rankings:
     intent_name = ranking['name']
@@ -52,9 +53,26 @@ class Simple_ChatGPT_Action(Action):
 
         # Get the latest user text 
         user_text = tracker.latest_message.get('text')
-
+        clientId = tracker.sender_id
         # Dispatch the response from OpenAI to the user
-        dispatcher.utter_message(get_answers_from_chatgpt(user_text))
+        response = chatGPTwithMemory(user_text)
+        if 'completion' in response and len(response) > 10 :
+            if ":" in response:
+                id_string = response.split(":")[1].strip()
+            else:
+                id_string = response
+            if id_string == '-1':
+                dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm quyển khác không?" )
+            else: 
+                res= {
+                    'id': clientId ,
+                    'data': '/product/' + id_string 
+                }
+                sio.emit(Const_Rasa_To_Server, res)
+                dispatcher.utter_message(text="Shop có quyển đấy, không biết đây có phải sách bạn cần tìm !!!" )
+        else: 
+            dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm quyển khác không?" )
+        print( "action_chatgpt_fallback" )
         print_intent_probabilities(tracker)
         return []
 
@@ -75,18 +93,20 @@ class ActionAskBook(Action):
                 id_string = response.split(":")[1].strip()
             else:
                 id_string = response
-            res= {
-                'id': clientId ,
-                'data': '/product/' + id_string 
-            }
-            sio.emit(Const_Rasa_To_Server, res)
-            dispatcher.utter_message(text="Shop có quyển đấy, không biết đây có phải sách bạn cần tìm !!!" )
+            
+            if id_string == '-1':
+                dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm quyển khác không?" )
+            else: 
+                res= {
+                    'id': clientId ,
+                    'data': '/product/' + id_string 
+                }
+                sio.emit(Const_Rasa_To_Server, res)
+                dispatcher.utter_message(text="Shop có quyển đấy, không biết đây có phải sách bạn cần tìm !!!" )
         else:
             dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm quyển khác không?" )
-
-            intent_rankings = tracker.latest_message['intent_ranking']
-
         # Get the confidence score of the predicted intent
+        print('action_hoi_sach')
         print_intent_probabilities(tracker)
         return []
     
@@ -110,6 +130,7 @@ class ActionAskBookByCategory(Action):
             dispatcher.utter_message(text="Đây là danh sách thuộc thể loại bạn tìm." )
         else:
             dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm thể loại khác không?" )
+        print('action_hoi_sach_theo_the_loai')
         print_intent_probabilities(tracker)
         return []
 
@@ -128,6 +149,7 @@ class ActionVỉewCart(Action):
             }
         sio.emit(Const_Rasa_To_Server, response)
         dispatcher.utter_message(text="Đây là giỏ hàng của bạn" )
+        print("action_xem_gio_hang")
         print_intent_probabilities(tracker)
         return [] 
 class ActionVỉewBill(Action):
@@ -143,6 +165,7 @@ class ActionVỉewBill(Action):
                 'data': '/bill'
             }
         sio.emit(Const_Rasa_To_Server, response)
+        print("action_xem_lich_su")
         dispatcher.utter_message(text="Đây là danh sách đơn hàng của bạn" )
         print_intent_probabilities(tracker)
         return [] 
