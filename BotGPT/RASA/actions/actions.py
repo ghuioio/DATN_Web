@@ -141,7 +141,9 @@ class ActionVỉewCart(Action):
     def run(self, dispatcher: CollectingDispatcher,
                 tracker: Tracker,
                 domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        # print('tracker: ' + tracker.sender_id )
+        if tracker.latest_message['intent'].get('name') != 'xem_gio_hang':
+            dispatcher.utter_message(text="Xin lỗi, bạn có thể hỏi lại không." )
+            return [] 
         clientId = tracker.sender_id
         response = {
                 'id': clientId ,

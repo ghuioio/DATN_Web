@@ -2316,3 +2316,369 @@ completion: 62a32164465201fdc127d266
 promt: có quyển Cẩm Nang Du Lịch - Top 10 Paris không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
 completion: 62d62b0cfcdb43fb6d105411
 
+promt: có quyển nhà giả kim  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294784b498c7a6524551c35
+
+promt: có quyển thanh gươm diệt quỷ - kimetsu no yaiba - tập 23: vượt qua tháng năm, sinh mệnh tỏa rạng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62947db18d775c0116971553
+
+promt: có quyển tôi vẽ - phương pháp tự học vẽ truyện tranh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62947e428d775c0116971558
+
+promt: có quyển nghĩ giàu làm giàu không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629481c664224ee2043fbfdd
+
+promt: có quyển trải nghiệm khách hàng xuất sắc không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294827764224ee2043fbfe0
+
+promt: có quyển hoá học 11 - nâng cao không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294832a64224ee2043fbfe3
+
+promt: có quyển atlat địa lí việt nam không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294836764224ee2043fbfe6
+
+promt: có quyển chủ nghĩa khắc kỷ - phong cách sống bản lĩnh và bình thản không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294843664224ee2043fbfe9
+
+promt: có quyển no vocab - no worries không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294851964224ee2043fbfec
+
+promt: có quyển hồi kí bóng đá của son heung min: đường đến châu âu không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294862264224ee2043fbfef
+
+promt: có quyển isaac newton - nhà khoa học vĩ đại không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294869b64224ee2043fbff2
+
+promt: có quyển con mình chẳng lẽ lại vứt không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294876164224ee2043fbff5
+
+promt: có quyển để con được ốm không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629488ae64224ee2043fbff8
+
+promt: có quyển elon musk: tesla, spacex và sứ mệnh tìm kiếm một tương lai ngoài sức tưởng tượng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629489e0bfc748518b31f44f
+
+promt: có quyển mê cung phát triển tư duy - khám phá thế giới không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62948bdabfc748518b31f452
+
+promt: có quyển những đêm không ngủ những ngày chậm trôi không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62948c6abfc748518b31f455
+
+promt: có quyển thám tử lừng danh conan - tập 99 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62948fdbbfc748518b31f45b
+
+promt: có quyển pokémon - cuộc phiêu lưu của pippi hg.ss heartgold.soulsilver - tập 1 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62949093bfc748518b31f45e
+
+promt: có quyển tập viết tiếng nhật hiragana không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 6294915cbfc748518b31f461
+
+promt: có quyển cây cam ngọt của tôi không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629c74ea94d4f89fd8bc733c
+
+promt: có quyển cho tôi xin một vé đi tuổi thơ  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629c771894d4f89fd8bc7351
+
+promt: có quyển tìm em nơi anh - find me không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629c77fb94d4f89fd8bc7357
+
+promt: có quyển chuyện cổ tích dành cho người lớn  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f54cda8aaf1190391c0df
+
+promt: có quyển từ điển tiếng “em”  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f554ea8aaf1190391c0e2
+
+promt: có quyển hạ đỏ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f55ada8aaf1190391c0e5
+
+promt: có quyển giết con chim nhại không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f5641a8aaf1190391c0e8
+
+promt: có quyển bến xe không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f56ffa8aaf1190391c0eb
+
+promt: có quyển tô bình yên vẽ hạnh phúc không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f57d1a8aaf1190391c0ee
+
+promt: có quyển chỉ lo chuyện mình, không lo chuyện người  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f58daa8aaf1190391c0f1
+
+promt: có quyển giỏ trái cây không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f59d9a8aaf1190391c0f4
+
+promt: có quyển ra bờ suối ngắm hoa kèn hồng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f5b7ca8aaf1190391c0f9
+
+promt: có quyển cô gái cãi lời thượng đế không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f669e8c2bd1306373f815
+
+promt: có quyển anh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f679e8c2bd1306373f818
+
+promt: có quyển tâm an ắt bình an không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f68dd8c2bd1306373f81b
+
+promt: có quyển người thương đã cũ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 629f69c48c2bd1306373f81e
+
+promt: có quyển blockchain - bản chất của blockchain, bitcoin, tiền điện tử, hợp đồng thông minh và tương lai của tiền tệ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a1fe6f8801b54984b83451
+
+promt: có quyển người bán hàng vĩ đại nhất thế giới không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a1febe8801b54984b83454
+
+promt: có quyển năng đoạn kim cương không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2002b8801b54984b83457
+
+promt: có quyển bách khoa khủng long toàn tập không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a200f08801b54984b8345a
+
+promt: có quyển siêu nhí hỏi nhà khoa học trả lời không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a201988801b54984b8345d
+
+promt: có quyển 10 vạn câu hỏi vì sao - cuộc sống muôn màu không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a202428801b54984b83460
+
+promt: có quyển đi tìm momo - tập sách ảnh trốn tìm - tập 2 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2030b8801b54984b83463
+
+promt: có quyển rèn luyện tư duy phản biện không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a203988801b54984b83466
+
+promt: có quyển osho - yêu - being in love không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a205ef8801b54984b8346c
+
+promt: có quyển kiếp nào ta cũng tìm thấy nhau - câu chuyện về những linh hồn tri kỷ vĩnh viễn không chia lìa không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2204c9244fb290e901169
+
+promt: có quyển đời ngắn đừng ngủ dài không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a220fa9244fb290e90116c
+
+promt: có quyển chào tuổi dậy thì! kiến thức về dậy thì dành cho các bạn nam (8-12 tuổi) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a223419244fb290e901197
+
+promt: có quyển trên đường băng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a224429244fb290e9011a2
+
+promt: có quyển càng kỷ luật, càng tự do không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2259f9244fb290e9011ad
+
+promt: có quyển sức mạnh của ngôn từ  không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a226049244fb290e9011b0
+
+promt: có quyển kinh tế vĩ mô không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a226b99244fb290e9011bc
+
+promt: có quyển chết vì chứng khoán không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a228a49244fb290e9011c9
+
+promt: có quyển kinh doanh thời trang thành công từ a-z không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a229799244fb290e9011d4
+
+promt: có quyển quảng cáo không nói láo - sự thật về quảng cáo dưới góc nhìn khoa học, toàn diện và thực tiễn không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a229d99244fb290e9011d7
+
+promt: có quyển 300 trò chơi phát triển trí tuệ cho trẻ 3 tuổi không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a22ab19244fb290e9011e0
+
+promt: có quyển vòng quanh thế giới - ai cập không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a22b349244fb290e9011e3
+
+promt: có quyển bóng đá - lối sống brazil không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a22bfc9244fb290e9011ea
+
+promt: có quyển hồi ký của một huyền thoại manchester united không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a22c919244fb290e9011f1
+
+promt: có quyển mbappé - cậu bé vàng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a22cf09244fb290e9011f4
+
+promt: có quyển cờ vua - hãy chơi để chiến thắng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a22db09244fb290e901204
+
+promt: có quyển messi vs ronaldo - đại chiến giữa những vị thần không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a22e379244fb290e901207
+
+promt: có quyển bão lửa u23 - thường châu tuyết trắng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a22edf9244fb290e90120e
+
+promt: có quyển tôi tập thể dục - những bí quyết đơn giản để có thân hình đẹp và cơ thể khỏe mạnh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a22fc89244fb290e901211
+
+promt: có quyển luyện viết và học từ vựng tiếng anh lớp 1 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a230759244fb290e90121e
+
+promt: có quyển 5 phút khích lệ trẻ mỗi ngày không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a231459244fb290e901225
+
+promt: có quyển y học cổ truyền không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a231ce9244fb290e90122c
+
+promt: có quyển cẩm nang du lịch - top 10 paris không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a232dd9244fb290e901236
+
+promt: có quyển 50 tips du lịch dành cho bạn gái không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2b1301f8da0aa891e8317
+
+promt: có quyển những mảng màu du lịch việt nam không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2b1cb1f8da0aa891e831a
+
+promt: có quyển cẩm nang du lịch anh quốc không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2b29e1f8da0aa891e831f
+
+promt: có quyển cẩm nang du lịch thái lan không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2b3e81f8da0aa891e8337
+
+promt: có quyển cẩm nang du lịch nhật bản không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2b6bb545b7fcb54642695
+
+promt: có quyển lịch sử của trà không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2eb0b465201fdc127d1ce
+
+promt: có quyển mùa nước nổi trong đời sống văn hoá đồng bằng sông cửu long không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2eb76465201fdc127d1d1
+
+promt: có quyển văn hóa đô thị không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2ebfc465201fdc127d1d4
+
+promt: có quyển naruto tập 71 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2ed39465201fdc127d1d7
+
+promt: có quyển naruto - tập 61: huynh đệ song thủ!! (tái bản 2022) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2ed84465201fdc127d1da
+
+promt: có quyển naruto tập 45: chiến trường làng lá!! (tái bản 2022) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2edd8465201fdc127d1dd
+
+promt: có quyển naruto tập 57: naruto xung trận…!! (tái bản 2022) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2eecf465201fdc127d1e0
+
+promt: có quyển dragon ball super - tập 13 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2ef35465201fdc127d1e3
+
+promt: có quyển dragon ball super tập 9: tàn cuộc không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2ef8a465201fdc127d1e6
+
+promt: có quyển dragon ball super tập 6: hỡi các siêu chiến binh, hãy tập hợp! không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2efd2465201fdc127d1e9
+
+promt: có quyển dragon ball super tập 7: giải đấu sức mạnh - cuộc đua tranh sống còn không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f00f465201fdc127d1ec
+
+promt: có quyển sách giáo khoa bộ lớp 11 - sách bài học (bộ 14 cuốn) (2022) + 2 cuộn bao sách nylon tp không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f12c465201fdc127d1ef
+
+promt: có quyển tập bản đồ địa lí 11 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f17a465201fdc127d1f2
+
+promt: có quyển tiếng việt 3 - tập 1 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f201465201fdc127d1f5
+
+promt: có quyển sách giáo khoa bộ lớp 3 - bài học + bài tập (bộ 13 cuốn) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f315465201fdc127d1f8
+
+promt: có quyển sách giáo khoa bộ lớp 4 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f35f465201fdc127d1fb
+
+promt: có quyển sách giáo khoa bộ lớp 1 - chân trời sáng tạo - sách bài học không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f3ac465201fdc127d1fe
+
+promt: có quyển luyện đọc 1 (kết nối) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f429465201fdc127d201
+
+promt: có quyển 90% trẻ thông minh nhờ cách trò chuyện đúng đắn của cha mẹ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f547465201fdc127d204
+
+promt: có quyển bố bỉm sữa nuôi con khác biệt không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f5af465201fdc127d207
+
+promt: có quyển mẹ tự tôn - con tự tin không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f615465201fdc127d20a
+
+promt: có quyển để con được bay - nuôi con một mình theo kiểu mẹ phượt không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f696465201fdc127d20d
+
+promt: có quyển phẩm cách cha mẹ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f809465201fdc127d210
+
+promt: có quyển mẹ ơi! con cũng muốn được lắng nghe không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f890465201fdc127d213
+
+promt: có quyển đừng ép con “khôn” sớm không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f916465201fdc127d216
+
+promt: có quyển y học sức khỏe - thai kỳ khỏe mạnh - vượt cạn bình an không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2f9bc465201fdc127d219
+
+promt: có quyển dinh dưỡng học bị thất truyền - dinh dưỡng đẩy lùi bệnh tật không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2fa05465201fdc127d21c
+
+promt: có quyển phòng và hỗ trợ điều trị các bệnh rối loạn chuyển hóa không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2fa5f465201fdc127d21f
+
+promt: có quyển đông y điều trị - bệnh rối loạn chuyển hóa và nội tiết không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a2faee465201fdc127d222
+
+promt: có quyển chữa ung thư bằng phương pháp dưỡng sinh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31214465201fdc127d225
+
+promt: có quyển chẩn trị covid-19 bằng đông tây y không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31272465201fdc127d228
+
+promt: có quyển sống chung với ung thư không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a312d4465201fdc127d22b
+
+promt: có quyển lưu thông máu tốt hóa giải bách bệnh không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31342465201fdc127d22e
+
+promt: có quyển bí mật dotcom không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31432465201fdc127d231
+
+promt: có quyển số ơi, mở ra! - tư duy phân tích số liệu và thiết kế báo cáo excel dashboard chuyên nghiệp không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a3148f465201fdc127d234
+
+promt: có quyển clean code - mã sạch và con đường trở thành lập trình viên giỏi không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a3151e465201fdc127d237
+
+promt: có quyển vũ trụ trong vỏ hạt dẻ không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a3167b465201fdc127d23a
+
+promt: có quyển devup - cuốn sách toàn diện phát triển sự nghiệp của lập trình viên không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31702465201fdc127d23d
+
+promt: có quyển giáo trình c++ và lập trình hướng đối tượng không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a3177c465201fdc127d240
+
+promt: có quyển tự học photoshop cc không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a317f6465201fdc127d243
+
+promt: có quyển giáo trình điện tử - linh kiện điện tử transistor không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31895465201fdc127d246
+
+promt: có quyển sổ tay học nhanh toàn diện kiến thức và dạng bài hóa học lớp 8-9 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31a59465201fdc127d251
+
+promt: có quyển luyện giải bộ đề bồi dưỡng học sinh giỏi tiếng anh lớp 8 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31e4a465201fdc127d254
+
+promt: có quyển tự học toàn diện hóa học - từ cơ bản đến nâng cao lớp 8 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31ea2465201fdc127d257
+
+promt: có quyển luyện chuyên sâu ngữ pháp và bài tập tiếng anh 8 - tập 2 (chương trình mới) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a31f7e465201fdc127d25a
+
+promt: có quyển bí quyết tăng nhanh điểm kiểm tra - tiếng anh 8 - tập 2 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a32042465201fdc127d25d
+
+promt: có quyển quick quick học nhanh toàn diện từ vựng tiếng anh theo chủ đề - lớp 1 (tái bản) không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a320b2465201fdc127d260
+
+promt: có quyển big 4 - bộ đề tự kiểm tra 4 kỹ năng nghe - nói - đọc - viết (cơ bản và nâng cao) tiếng anh lớp 5 - tập 1 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a32113465201fdc127d263
+
+promt: có quyển 20 ngày ôn tập toàn diện kiến thức tiếng anh lớp 5 không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62a32164465201fdc127d266
+
+promt: có quyển cẩm nang du lịch - top 10 paris không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 
+completion: 62d62b0cfcdb43fb6d105411
+

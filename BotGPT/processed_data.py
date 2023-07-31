@@ -13,7 +13,7 @@ with open('books.csv', 'r', encoding = 'utf-8') as file:
             book_title = row['name']
 
             # Write the extracted information to the text file
-            output_file.write("promt: có quyển " + book_title + " không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 " + "\n")
+            output_file.write("promt: có quyển " + book_title.lower() + " không?, nếu có hãy chỉ trả lời id của quyển sách, nếu không chỉ trả lời -1 " + "\n")
             output_file.write("completion: "+book_id + "\n")
             output_file.write("\n")
 

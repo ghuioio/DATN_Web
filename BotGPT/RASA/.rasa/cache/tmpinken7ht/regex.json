@@ -1,0 +1,6 @@
+[
+  {
+    "name": "category",
+    "pattern": "(\\bSách\\ văn\\ học\\b|\\bSách\\ kinh\\ tế\\b|\\bSách\\ thiếu\\ nhi\\b|\\bSách\\ kỹ\\ năng\\ sống\\b|\\bSách\\ giáo\\ khoa\\b|\\bSách\\ bà\\ mẹ\\ \\-\\ Em\\ bé\\b|\\bSách\\ học\\ ngoại\\ ngữ\\b|\\bTruyện\\ tranh,\\ Manga,\\ Comic\\b|\\bSách\\ thể\\ dục\\ thể\\ thao\\b|\\bSách\\ y\\ học\\b|\\bSách\\ công\\ nghệ\\ thông\\ tin\\b|\\bSách\\ tôn\\ giáo\\ tâm\\ linh\\b|\\bSách\\ văn\\ hóa\\ \\-\\ địa\\ lý\\ \\-\\ du\\ lịch\\b|\\bTạp\\ chí\\b|\\bSách\\ tham\\ khảo\\b|\\bSách\\ chính\\ trị,\\ pháp\\ lý\\b)"
+  }
+]

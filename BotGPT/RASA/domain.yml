@@ -24,7 +24,6 @@ slots:
       - type: from_entity
         entity: category
 entities:
-  - object_entity
   - book_name
   - category
 responses:
