@@ -71,7 +71,7 @@ class Simple_ChatGPT_Action(Action):
                 sio.emit(Const_Rasa_To_Server, res)
                 dispatcher.utter_message(text="Shop có quyển đấy, không biết đây có phải sách bạn cần tìm !!!" )
         else: 
-            dispatcher.utter_message(text="Rất tiếc, bạn có thể tìm quyển khác không?" )
+            dispatcher.utter_message(text=response)
         print( "action_chatgpt_fallback" )
         print_intent_probabilities(tracker)
         return []
