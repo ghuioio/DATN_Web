@@ -8,7 +8,7 @@ import sys, requests, pandas as pd
 import os, io
 import openai
 from dotenv import load_dotenv
-openai.api_key = "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"
+openai.api_key = "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"
 os.environ["OPENAI_API_KEY"] = openai.api_key
 def create_index(path):
     max_input = 4096
@@ -33,7 +33,7 @@ def create_index(path):
 
 
 index_configs= []
-storage_context = StorageContext.from_defaults(persist_dir = 'D:\Code\DATN_Web\BotGPT\ChatGPT_2707_4')
+storage_context = StorageContext.from_defaults(persist_dir = 'D:\Code\AAA_github\DATN_Web\BotGPT\ChatGPT_0307_4')
 index = load_index_from_storage(storage_context)
 query_engine = index.as_query_engine()
 tool_config = IndexToolConfig(
@@ -56,7 +56,7 @@ agent_chain=create_llama_chat_agent(
 )
 
 def answerMe(question):
-    storage_context = StorageContext.from_defaults(persist_dir = 'D:\Code\DATN_Web\BotGPT\ChatGPT_2707_4')
+    storage_context = StorageContext.from_defaults(persist_dir = 'D:\Code\AAA_github\DATN_Web\BotGPT\ChatGPT_2707_4')
     index = load_index_from_storage(storage_context)
     query_engine = index.as_query_engine()
     response = query_engine.query(question)
